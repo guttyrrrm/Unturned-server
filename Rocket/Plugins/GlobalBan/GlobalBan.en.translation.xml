@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="default_banmessage" Value="Has sido baneado. Si crees que fue un error contacta con: GutyFruti" />
+  <Translation Id="command_generic_invalid_parameter" Value="Parametro invalido" />
+  <Translation Id="command_generic_player_not_found" Value="Jugador no encontrado" />
+  <Translation Id="command_ban_public_reason" Value="{0} ha sido baneado por: {1}" />
+  <Translation Id="command_ban_public" Value="{0} ha sido baneado." />
+  <Translation Id="command_ban_private_default_reason" Value="Has sido baneado del servidor." />
+  <Translation Id="command_kick_public_reason" Value="{0} ha sido kickeado por: {1}" />
+  <Translation Id="command_kick_public" Value="{0} ha sido kickeado" />
+  <Translation Id="command_kick_private_default_reason" Value="Has sido kickeado del servidor." />
+</Translations>

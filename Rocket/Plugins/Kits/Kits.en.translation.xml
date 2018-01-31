@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="command_kit_invalid_parameter" Value="Parametro invalido, escribe /kit &lt;nombre del kit&gt;" />
+  <Translation Id="command_kit_not_found" Value="Kit no encontrado" />
+  <Translation Id="command_kit_no_permissions" Value="No tienes permiso para usar este kit" />
+  <Translation Id="command_kit_cooldown_command" Value="Debes esperar {0} segundos antes de usar este comando" />
+  <Translation Id="command_kit_cooldown_kit" Value="Debes esperar {0} segundos antes de usar este kit denuevo" />
+  <Translation Id="command_kit_failed_giving_item" Value="Failed giving a item to {0} ({1},{2})" />
+  <Translation Id="command_kit_success" Value="Has recibido el kit {0}" />
+  <Translation Id="command_kits" Value="Puedes usar estos kits: {0}" />
+  <Translation Id="command_kit_no_money" Value="No puedes obtener el kit {2}. Necesitas al menos {0} {1}." />
+  <Translation Id="command_kit_money" Value="Has pagado  {0} {1} por el kit {2}. Disfrutalo!" />
+  <Translation Id="command_kit_xp" Value="You have received {0} xp from the kit {1}." />
+</Translations>

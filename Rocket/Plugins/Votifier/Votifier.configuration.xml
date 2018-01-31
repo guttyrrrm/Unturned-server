@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VotifierConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Services>
+    <Service name="unturned-servers.net" apikey="nj3k4i1604xah6ffbq0cg732h45cyshwdqy" />
+    <Service name="unturnedsl.com" apikey="" />
+  </Services>
+  <EnableRewardBundles>true</EnableRewardBundles>
+  <RewardBundles>
+    <RewardBundle>
+      <Probability>50</Probability>
+      <Name>Voti1</Name>
+      <Rewards>
+        <Reward itemid="245" amount="1" />
+        <Reward itemid="81" amount="2" />
+        <Reward itemid="16" amount="1" />
+        <Reward itemid="18" amount="1" />
+        <Reward itemid="20" amount="5" />
+        <Reward itemid="296" amount="1" />
+        <Reward itemid="8" amount="1" />
+        <Reward itemid="253" amount="1" />
+        <Reward itemid="81" amount="3" />
+        <Reward itemid="15" amount="1" />
+        <Reward itemid="394" amount="2" />
+        <Reward itemid="295" amount="1" />
+        <Reward itemid="334" amount="1" />
+        <Reward itemid="425" amount="1" />
+        <Reward itemid="181" amount="1" />
+        <Reward itemid="209" amount="1" />
+        <Reward itemid="488" amount="1" />
+        <Reward itemid="489" amount="5" />
+      </Rewards>
+    </RewardBundle>
+    <RewardBundle>
+      <Probability>50</Probability>
+      <Name>Voti2</Name>
+      <Rewards>
+        <Reward itemid="112" amount="1" />
+        <Reward itemid="113" amount="3" />
+        <Reward itemid="254" amount="3" />
+        <Reward itemid="1000" amount="1" />
+        <Reward itemid="1005" amount="5" />
+        <Reward itemid="148" amount="1" />
+        <Reward itemid="8" amount="1" />
+        <Reward itemid="253" amount="1" />
+        <Reward itemid="81" amount="3" />
+        <Reward itemid="15" amount="1" />
+        <Reward itemid="394" amount="2" />
+        <Reward itemid="295" amount="1" />
+        <Reward itemid="1044" amount="1" />
+        <Reward itemid="425" amount="1" />
+        <Reward itemid="181" amount="1" />
+        <Reward itemid="209" amount="1" />
+        <Reward itemid="99" amount="1" />
+        <Reward itemid="100" amount="5" />
+        <Reward itemid="7" amount="1" />
+      </Rewards>
+    </RewardBundle>
+  </RewardBundles>
+  <ServiceDefinitions>
+    <ServiceDefinition name="unturned-servers.net">
+      <CheckHasVoted>http://unturned-servers.net/api/?object=votes&amp;element=claim&amp;key={0}&amp;steamid={1}</CheckHasVoted>
+      <ReportSuccess>http://unturned-servers.net/api/?action=post&amp;object=votes&amp;element=claim&amp;key={0}&amp;steamid={1}</ReportSuccess>
+    </ServiceDefinition>
+    <ServiceDefinition name="unturnedsl.com">
+      <CheckHasVoted>http://unturnedsl.com/api/dedicated/{0}/{1}</CheckHasVoted>
+      <ReportSuccess>http://unturnedsl.com/api/dedicated/post/{0}/{1}</ReportSuccess>
+    </ServiceDefinition>
+  </ServiceDefinitions>
+</VotifierConfiguration>

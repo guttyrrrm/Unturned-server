@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="investigate_help" Value="&lt;&quot;nombre&quot; | SteamID&gt; [pagina] - Returns info for players matching the search quarry." />
+  <Translation Id="number_of_records_found" Value="{0} Registros encontrados para: {1}, Pagina: {2} de {3}" />
+  <Translation Id="too_many_parameters" Value="Too many parameters." />
+  <Translation Id="delint_help" Value="&lt;&quot;Instance ID&quot;&gt; - Uses the numerical Instance ID for a server to remove all player data saved for that server. !!Use with caution, can't be undone without a database backup!!" />
+  <Translation Id="rnint_help" Value="&lt;&quot;New instance name&quot;&gt; - Renames the instance name, in the record for this server, in the database" />
+  <Translation Id="invalid_page" Value="Error: Invalid page number." />
+  <Translation Id="delint_invalid" Value="Error: Invalid Instance ID." />
+  <Translation Id="delint_not_found" Value="Error: Failed to find Instance ID in the database." />
+  <Translation Id="delint_success" Value="Successfully Removed all data for this Instance ID, if you removed the data for this server, you will need to reload the plugin for it to be operational again." />
+  <Translation Id="rnint_success" Value="Successfully changed the instance name for this server in the Database, Server should be restarted now." />
+  <Translation Id="rnint_not_found" Value="Error: Failed to set the new instance name to the Database." />
+</Translations>

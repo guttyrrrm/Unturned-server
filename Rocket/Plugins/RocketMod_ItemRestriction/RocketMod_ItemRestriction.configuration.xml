@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IR_Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <Item>
+      <ID>1218</ID>
+    </Item>
+    <Item>
+      <ID>1214</ID>
+    </Item>
+    <Item>
+      <ID>1212</ID>
+    </Item>
+    <Item>
+      <ID>1215</ID>
+    </Item>
+    <Item>
+      <ID>1210</ID>
+    </Item>
+    <Item>
+      <ID>1216</ID>
+    </Item>
+    <Item>
+      <ID>1211</ID>
+    </Item>
+    <Item>
+      <ID>1213</ID>
+    </Item>
+    <Item>
+      <ID>1217</ID>
+    </Item>
+  </Items>
+  <ignoreAdmin>true</ignoreAdmin>
+</IR_Config>

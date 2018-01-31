@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="coming_feast_msg" Value="Un airdrop caerá en {0} en {1} minuto(s)!" />
+  <Translation Id="now_feast_msg" Value="Acaba de caer un airdrop en {0} ! ! !" />
+</Translations>

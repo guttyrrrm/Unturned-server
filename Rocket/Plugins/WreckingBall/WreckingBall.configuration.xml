@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WreckingBallConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enabled>true</Enabled>
+  <DestructionRate>10</DestructionRate>
+  <DestructionsPerInterval>10</DestructionsPerInterval>
+  <LogScans>false</LogScans>
+  <PrintToChat>false</PrintToChat>
+  <EnablePlayerInfo>false</EnablePlayerInfo>
+  <EnableCleanup>false</EnableCleanup>
+  <BuildableCleanup>true</BuildableCleanup>
+  <BuildableWaitTime>30</BuildableWaitTime>
+  <PlayerDataCleanup>true</PlayerDataCleanup>
+  <PlayerDataWaitTime>45</PlayerDataWaitTime>
+  <CleanupIntervalTime>5</CleanupIntervalTime>
+  <CleanupPerInterval>10</CleanupPerInterval>
+  <EnableVehicleCap>false</EnableVehicleCap>
+  <VCapDestroyByElementCount>false</VCapDestroyByElementCount>
+  <MaxVehiclesAllowed>70</MaxVehiclesAllowed>
+  <VCapCheckInterval>600</VCapCheckInterval>
+  <LowElementCountOnly>false</LowElementCountOnly>
+  <MinElementCount>6</MinElementCount>
+  <KeepVehiclesWithSigns>true</KeepVehiclesWithSigns>
+  <LimitSafeGuards>false</LimitSafeGuards>
+  <LimitSafeGuardsRatio>0.6</LimitSafeGuardsRatio>
+  <Categories>
+    <Category Id="b" Name="Bed" Color="DarkCyan" />
+    <Category Id="t" Name="Trap" Color="DarkYellow" />
+    <Category Id="d" Name="Door" Color="DarkMagenta" />
+    <Category Id="c" Name="Container" Color="Blue" />
+    <Category Id="y" Name="Trophy Container" Color="Blue" />
+    <Category Id="l" Name="Ladder" Color="Magenta" />
+    <Category Id="w" Name="Wall" Color="DarkMagenta" />
+    <Category Id="f" Name="Floor" Color="DarkMagenta" />
+    <Category Id="p" Name="Pillar" Color="DarkMagenta" />
+    <Category Id="r" Name="Roof" Color="DarkMagenta" />
+    <Category Id="s" Name="Stair" Color="DarkMagenta" />
+    <Category Id="m" Name="Freeform" Color="DarkMagenta" />
+    <Category Id="n" Name="Sign" Color="DarkBlue" />
+    <Category Id="g" Name="Guard" Color="DarkBlue" />
+    <Category Id="o" Name="Protections" Color="DarkBlue" />
+    <Category Id="i" Name="Illumination" Color="Yellow" />
+    <Category Id="a" Name="Agriculture" Color="Green" />
+    <Category Id="v" Name="Vehicles" Color="DarkRed" />
+    <Category Id="z" Name="Zombies" Color="DarkGreen" />
+    <Category Id="!" Name="Uncategorized" Color="White" />
+  </Categories>
+  <Elements>
+    <Element Id="9998" CategoryId="z" />
+    <Element Id="9999" CategoryId="v" />
+    <Element Id="288" CategoryId="b" />
+    <Element Id="289" CategoryId="b" />
+    <Element Id="290" CategoryId="b" />
+    <Element Id="291" CategoryId="b" />
+    <Element Id="292" CategoryId="b" />
+    <Element Id="293" CategoryId="b" />
+    <Element Id="294" CategoryId="b" />
+    <Element Id="295" CategoryId="b" />
+    <Element Id="382" CategoryId="t" />
+    <Element Id="383" CategoryId="t" />
+    <Element Id="384" CategoryId="t" />
+    <Element Id="385" CategoryId="t" />
+    <Element Id="386" CategoryId="t" />
+    <Element Id="1101" CategoryId="t" />
+    <Element Id="1102" CategoryId="t" />
+    <Element Id="1113" CategoryId="t" />
+    <Element Id="1119" CategoryId="t" />
+    <Element Id="1130" CategoryId="t" />
+    <Element Id="1131" CategoryId="t" />
+    <Element Id="281" CategoryId="d" />
+    <Element Id="282" CategoryId="d" />
+    <Element Id="283" CategoryId="d" />
+    <Element Id="378" CategoryId="d" />
+    <Element Id="284" CategoryId="d" />
+    <Element Id="286" CategoryId="d" />
+    <Element Id="451" CategoryId="d" />
+    <Element Id="455" CategoryId="d" />
+    <Element Id="456" CategoryId="d" />
+    <Element Id="457" CategoryId="d" />
+    <Element Id="328" CategoryId="c" />
+    <Element Id="366" CategoryId="c" />
+    <Element Id="367" CategoryId="c" />
+    <Element Id="368" CategoryId="c" />
+    <Element Id="1202" CategoryId="y" />
+    <Element Id="1203" CategoryId="y" />
+    <Element Id="1204" CategoryId="y" />
+    <Element Id="1205" CategoryId="y" />
+    <Element Id="1206" CategoryId="y" />
+    <Element Id="1207" CategoryId="y" />
+    <Element Id="325" CategoryId="l" />
+    <Element Id="326" CategoryId="l" />
+    <Element Id="327" CategoryId="l" />
+    <Element Id="379" CategoryId="l" />
+    <Element Id="33" CategoryId="w" />
+    <Element Id="57" CategoryId="w" />
+    <Element Id="58" CategoryId="w" />
+    <Element Id="371" CategoryId="w" />
+    <Element Id="32" CategoryId="w" />
+    <Element Id="49" CategoryId="w" />
+    <Element Id="50" CategoryId="w" />
+    <Element Id="370" CategoryId="w" />
+    <Element Id="34" CategoryId="w" />
+    <Element Id="59" CategoryId="w" />
+    <Element Id="60" CategoryId="w" />
+    <Element Id="372" CategoryId="w" />
+    <Element Id="450" CategoryId="w" />
+    <Element Id="452" CategoryId="w" />
+    <Element Id="453" CategoryId="w" />
+    <Element Id="454" CategoryId="w" />
+    <Element Id="442" CategoryId="w" />
+    <Element Id="444" CategoryId="w" />
+    <Element Id="445" CategoryId="w" />
+    <Element Id="446" CategoryId="w" />
+    <Element Id="31" CategoryId="f" />
+    <Element Id="51" CategoryId="f" />
+    <Element Id="52" CategoryId="f" />
+    <Element Id="369" CategoryId="f" />
+    <Element Id="36" CategoryId="p" />
+    <Element Id="53" CategoryId="p" />
+    <Element Id="54" CategoryId="p" />
+    <Element Id="374" CategoryId="p" />
+    <Element Id="443" CategoryId="p" />
+    <Element Id="447" CategoryId="p" />
+    <Element Id="448" CategoryId="p" />
+    <Element Id="449" CategoryId="p" />
+    <Element Id="35" CategoryId="r" />
+    <Element Id="55" CategoryId="r" />
+    <Element Id="56" CategoryId="r" />
+    <Element Id="373" CategoryId="r" />
+    <Element Id="319" CategoryId="r" />
+    <Element Id="321" CategoryId="r" />
+    <Element Id="320" CategoryId="r" />
+    <Element Id="376" CategoryId="r" />
+    <Element Id="316" CategoryId="s" />
+    <Element Id="318" CategoryId="s" />
+    <Element Id="317" CategoryId="s" />
+    <Element Id="375" CategoryId="s" />
+    <Element Id="322" CategoryId="s" />
+    <Element Id="323" CategoryId="s" />
+    <Element Id="324" CategoryId="s" />
+    <Element Id="377" CategoryId="s" />
+    <Element Id="1058" CategoryId="m" />
+    <Element Id="1059" CategoryId="m" />
+    <Element Id="1060" CategoryId="m" />
+    <Element Id="1061" CategoryId="m" />
+    <Element Id="1062" CategoryId="m" />
+    <Element Id="1063" CategoryId="m" />
+    <Element Id="1064" CategoryId="m" />
+    <Element Id="1065" CategoryId="m" />
+    <Element Id="1066" CategoryId="m" />
+    <Element Id="1067" CategoryId="m" />
+    <Element Id="1068" CategoryId="m" />
+    <Element Id="1069" CategoryId="m" />
+    <Element Id="1070" CategoryId="m" />
+    <Element Id="1071" CategoryId="m" />
+    <Element Id="1072" CategoryId="m" />
+    <Element Id="1073" CategoryId="m" />
+    <Element Id="1074" CategoryId="m" />
+    <Element Id="1075" CategoryId="m" />
+    <Element Id="1083" CategoryId="m" />
+    <Element Id="1084" CategoryId="m" />
+    <Element Id="1085" CategoryId="m" />
+    <Element Id="1086" CategoryId="m" />
+    <Element Id="1087" CategoryId="m" />
+    <Element Id="1088" CategoryId="m" />
+    <Element Id="1089" CategoryId="m" />
+    <Element Id="1090" CategoryId="m" />
+    <Element Id="1091" CategoryId="m" />
+    <Element Id="1092" CategoryId="m" />
+    <Element Id="1093" CategoryId="m" />
+    <Element Id="1094" CategoryId="m" />
+    <Element Id="1144" CategoryId="m" />
+    <Element Id="1145" CategoryId="m" />
+    <Element Id="1146" CategoryId="m" />
+    <Element Id="1147" CategoryId="m" />
+    <Element Id="1148" CategoryId="m" />
+    <Element Id="1149" CategoryId="m" />
+    <Element Id="1150" CategoryId="m" />
+    <Element Id="1151" CategoryId="m" />
+    <Element Id="1152" CategoryId="m" />
+    <Element Id="1153" CategoryId="m" />
+    <Element Id="1154" CategoryId="m" />
+    <Element Id="1155" CategoryId="m" />
+    <Element Id="1095" CategoryId="n" />
+    <Element Id="1096" CategoryId="n" />
+    <Element Id="1097" CategoryId="n" />
+    <Element Id="1098" CategoryId="n" />
+    <Element Id="29" CategoryId="g" />
+    <Element Id="30" CategoryId="g" />
+    <Element Id="45" CategoryId="g" />
+    <Element Id="46" CategoryId="g" />
+    <Element Id="47" CategoryId="g" />
+    <Element Id="48" CategoryId="g" />
+    <Element Id="287" CategoryId="g" />
+    <Element Id="365" CategoryId="g" />
+    <Element Id="1208" CategoryId="g" />
+    <Element Id="1050" CategoryId="o" />
+    <Element Id="1158" CategoryId="o" />
+    <Element Id="359" CategoryId="i" />
+    <Element Id="360" CategoryId="i" />
+    <Element Id="361" CategoryId="i" />
+    <Element Id="362" CategoryId="i" />
+    <Element Id="458" CategoryId="i" />
+    <Element Id="459" CategoryId="i" />
+    <Element Id="1049" CategoryId="i" />
+    <Element Id="330" CategoryId="a" />
+    <Element Id="331" CategoryId="a" />
+    <Element Id="336" CategoryId="a" />
+    <Element Id="339" CategoryId="a" />
+    <Element Id="341" CategoryId="a" />
+    <Element Id="343" CategoryId="a" />
+    <Element Id="345" CategoryId="a" />
+    <Element Id="1045" CategoryId="a" />
+    <Element Id="1104" CategoryId="a" />
+    <Element Id="1105" CategoryId="a" />
+    <Element Id="1106" CategoryId="a" />
+    <Element Id="1107" CategoryId="a" />
+    <Element Id="1108" CategoryId="a" />
+    <Element Id="1109" CategoryId="a" />
+    <Element Id="1110" CategoryId="a" />
+  </Elements>
+</WreckingBallConfiguration>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="items_have_been_respawned" Value="All items have been respawned just now." />
+  <Translation Id="items_going_to_respawn" Value="All items will be respawned within {0} seconds." />
+</Translations>

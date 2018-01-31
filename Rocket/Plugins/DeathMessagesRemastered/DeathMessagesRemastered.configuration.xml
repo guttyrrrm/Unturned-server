@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DMC2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <messagecolour>yellow</messagecolour>
+  <suicidemsg>true</suicidemsg>
+  <healthwarningmsg>true</healthwarningmsg>
+  <ExperienceEnabled>true</ExperienceEnabled>
+  <UconomyEnabled>true</UconomyEnabled>
+  <ShowErrorMessages>false</ShowErrorMessages>
+  <ShowDebugInfo>false</ShowDebugInfo>
+  <warning1>TE VAS A MORIR WN</warning1>
+  <warning2>Deberias curarte pronto</warning2>
+  <zombie>lo mató un zombie</zombie>
+  <gun>fusiló a</gun>
+  <melee>apuñaló a</melee>
+  <melee2>hasta matarlo</melee2>
+  <punch>agarró a combos a</punch>
+  <punch2>hasta matarlo</punch2>
+  <roadkill>atropelló a</roadkill>
+  <vehicle>murió luego de que un auto explotara</vehicle>
+  <food>se murió de hambre</food>
+  <water>se murió de sed</water>
+  <infection>SE CONVIRTIÓ EN UN ZOMBIE D:</infection>
+  <bleeding>murió desangrado</bleeding>
+  <suicide>se suicidó! rip in peace. PIERDE $4000 COMO PENALIZACION</suicide>
+  <landmine>explotó al pisar una mina</landmine>
+  <breath>murió ahogado</breath>
+  <grenade>explotó al pisar una granada</grenade>
+  <charge>cagó</charge>
+  <missile>fue asesinado con un misil ;c</missile>
+  <freezing>se cagó de frio y murió</freezing>
+  <bones>RIP</bones>
+  <sentry>murio con una sentry</sentry>
+  <splash>fue salpicado</splash>
+  <headshotgun>recibio un headshot de</headshotgun>
+  <headchop>fue degollado por</headchop>
+  <headpunch>fue knockeado por</headpunch>
+  <shred>has been shreaded to death!</shred>
+  <acid>murió por acido</acid>
+  <spit>murió escupido</spit>
+  <fire>murió quemado</fire>
+  <spark>murio electrocutado</spark>
+  <boulder>was killed by a gigantic boulder!</boulder>
+  <usinga>usando un(a)</usinga>
+  <Groups>
+    <Group>user</Group>
+    <Group>vip</Group>
+    <Group>admin</Group>
+  </Groups>
+  <Head>30</Head>
+  <Arm>5</Arm>
+  <Leg>5</Leg>
+  <Body>15</Body>
+  <Roadkill>10</Roadkill>
+  <ExpHead>50</ExpHead>
+  <ExpBody>25</ExpBody>
+  <ExpArm>30</ExpArm>
+  <ExpLeg>30</ExpLeg>
+</DMC2>

@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "default",
+    "Items": [
+      {
+        "Id": 16,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 13,
+        "Durability": 100,
+        "Amount": 2
+      },
+      {
+        "Id": 14,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 120,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "default2",
+    "Items": [
+      {
+        "FireMode": "BURST",
+        "Ammo": 30,
+        "Barrel": {
+          "AttachmentId": 7,
+          "Durability": 100
+        },
+        "Sight": {
+          "AttachmentId": 146,
+          "Durability": 100
+        },
+        "Grip": {
+          "AttachmentId": 8,
+          "Durability": 100
+        },
+        "Tactical": {
+          "AttachmentId": 151,
+          "Durability": 100
+        },
+        "Magazine": {
+          "AttachmentId": 17,
+          "Durability": 100
+        },
+        "Id": 4,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 1200,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "plane",
+    "Items": [
+      {
+        "Vehicle": 92
+      }
+    ],
+    "Cooldown": 9000,
+    "Cost": 100.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "xp",
+    "Items": [
+      {
+        "Xp": 100
+      }
+    ],
+    "Cooldown": 1200,
+    "Cost": 50.0,
+    "ResetCooldownWhenDie": false
+  }
+]

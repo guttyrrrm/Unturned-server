@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SmartSpawnerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <isAutosetted>false</isAutosetted>
+  <isAttentionEnabled>false</isAttentionEnabled>
+  <clearPlayerItems>false</clearPlayerItems>
+  <resetMessageEnabled>true</resetMessageEnabled>
+  <interval>0</interval>
+  <noticeLatency>0</noticeLatency>
+</SmartSpawnerConfiguration>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="help_line_1" Value="/tpa (playerName) - Envia una peticion de TP." />
+  <Translation Id="help_line_2" Value="/tpa accept - Acepta una peticion de TP." />
+  <Translation Id="help_line_3" Value="/tpa deny - Rechaza una peticion de TP." />
+  <Translation Id="help_line_4" Value="/tpa abort - Aborta una peticion de TP." />
+  <Translation Id="playerNotFound" Value="No podemos encontrar a este jugador" />
+  <Translation Id="playerInCar" Value="TP fallido, no podemos tpear a alguien en un auto." />
+  <Translation Id="YouInCar" Value="TP fallido, no podemos tpearte si estas en un auto." />
+  <Translation Id="TimeLeft" Value="Tiempo restante para otra peticion: {0}" />
+  <Translation Id="Delay" Value="Tu TP comenzará en {0} {1}." />
+  <Translation Id="Seconds" Value="segundos" />
+  <Translation Id="nopermission_send" Value="You do not have permission to send TPA requests." />
+  <Translation Id="nopermission_accept" Value="You do not have permission to accept TPA requests." />
+  <Translation Id="error_cooldown" Value="No puedes enviar peticiones aun. Espera {0} segundos." />
+  <Translation Id="error_bleeding" Value="No puedes tpearte si estas sangrando, envia la peticion cuando estes sano" />
+  <Translation Id="error_hurt" Value="Te han golpeado!! no podemos tpearte en este momento." />
+  <Translation Id="help_line_1" Value="TPA te permite enviarle una peticion de tp a un jugador." />
+  <Translation Id="request_success" Value="TP exitoso :D" />
+  <Translation Id="request_accepted" Value="Has aceptado la peticion de {0}" />
+  <Translation Id="request_denied" Value="Has rechazado la peticion de {0}" />
+  <Translation Id="request_accepted_1" Value="{0} ha aceptado tu peticion de TP" />
+  <Translation Id="request_accepted_2" Value="{0} acepto tu peticion y seras tpeado en {1} {2}." />
+  <Translation Id="request_accepted_3" Value="Has aceptado la peticion de {0} y sera tpeado en {1} {2}." />
+  <Translation Id="request_denied_1" Value="{0} rechazo tu peticion de TP" />
+  <Translation Id="request_sent" Value="Has enviado una peticion de TP a {0}" />
+  <Translation Id="request_sent_1" Value="{0} te envio una peticion de TP, pon /tpa accept para tpearlo" />
+  <Translation Id="request_pending" Value="Todavia tienes una peticion pendiente para este jugador." />
+  <Translation Id="request_none" Value="No tienes peticiones pendientes" />
+  <Translation Id="request_abort" Value="Has abortado tu peticion de TP." />
+  <Translation Id="translation_version_dont_edit" Value="3" />
+</Translations>

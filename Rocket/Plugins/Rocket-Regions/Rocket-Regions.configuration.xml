@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegionsConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UpdateFrameCount>1</UpdateFrameCount>
+  <Regions>
+    <Region>
+      <Name>torre</Name>
+      <Owners>
+        <unsignedLong>76561198160890445</unsignedLong>
+      </Owners>
+      <Type xsi:type="CircleType">
+        <Radius>15</Radius>
+        <Center x="-169.603577" y="-613.5514" />
+      </Type>
+      <Flags>
+        <Flag name="entermessage">
+          <Value xsi:type="xsd:string">Entered region: {0}</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="leavemessage">
+          <Value xsi:type="xsd:string">Left region: {0}</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="noplace">
+          <Value xsi:type="xsd:boolean">true</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="nodestroy">
+          <Value xsi:type="xsd:boolean">true</Value>
+          <GroupValues />
+        </Flag>
+      </Flags>
+      <Members />
+    </Region>
+    <Region>
+      <Name>admin</Name>
+      <Owners>
+        <unsignedLong>76561198160890445</unsignedLong>
+      </Owners>
+      <Type xsi:type="CircleType">
+        <Radius>20</Radius>
+        <Center x="-602.227356" y="576.475" />
+      </Type>
+      <Flags>
+        <Flag name="entermessage">
+          <Value xsi:type="xsd:string">Entered region: {0}</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="leavemessage">
+          <Value xsi:type="xsd:string">Left region: {0}</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="nodestroy">
+          <Value xsi:type="xsd:boolean">true</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="noplace">
+          <Value xsi:type="xsd:boolean">true</Value>
+          <GroupValues />
+        </Flag>
+      </Flags>
+      <Members />
+    </Region>
+    <Region>
+      <Name>KEEPOUT</Name>
+      <Owners>
+        <unsignedLong>76561198160890445</unsignedLong>
+      </Owners>
+      <Type xsi:type="CircleType">
+        <Radius>20</Radius>
+        <Center x="-202.5934" y="241.4236" />
+      </Type>
+      <Flags>
+        <Flag name="entermessage">
+          <Value xsi:type="xsd:string">Entered region: {0}</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="leavemessage">
+          <Value xsi:type="xsd:string">Left region: {0}</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="noplace">
+          <Value xsi:type="xsd:boolean">true</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="nodestroy">
+          <Value xsi:type="xsd:boolean">true</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="noenter">
+          <Value xsi:type="xsd:boolean">false</Value>
+          <GroupValues />
+        </Flag>
+      </Flags>
+      <Members />
+    </Region>
+    <Region>
+      <Name>cueva</Name>
+      <Owners>
+        <unsignedLong>76561198160890445</unsignedLong>
+      </Owners>
+      <Type xsi:type="CircleType">
+        <Radius>20</Radius>
+        <Center x="-256.548035" y="-820.49884" />
+      </Type>
+      <Flags>
+        <Flag name="entermessage">
+          <Value xsi:type="xsd:string">Entered region: {0}</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="leavemessage">
+          <Value xsi:type="xsd:string">Left region: {0}</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="noplace">
+          <Value xsi:type="xsd:boolean">true</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="nodestroy">
+          <Value xsi:type="xsd:boolean">true</Value>
+          <GroupValues />
+        </Flag>
+      </Flags>
+      <Members />
+    </Region>
+  </Regions>
+</RegionsConfiguration>

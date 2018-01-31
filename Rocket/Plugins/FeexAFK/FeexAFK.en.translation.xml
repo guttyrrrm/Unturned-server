@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="afk_general_true" Value="{0} está afk." />
+  <Translation Id="afk_general_false" Value="{0} ya no está afk." />
+  <Translation Id="afk_general_kick_msg" Value="fue kickeado por: afk." />
+  <Translation Id="afk_general_kick_chat" Value="{0} ha estado afk por mucho tiempo y ha sido kickeado." />
+  <Translation Id="afk_general_not_found" Value="Jugador no encontrado." />
+  <Translation Id="afk_general_invalid_parameter" Value="Parametro invalido." />
+  <Translation Id="afk_set_player" Value="Has sido puesto afk por {0}." />
+  <Translation Id="afk_set_caller" Value="Pusiste a {0} afk." />
+  <Translation Id="afk_set_caller_error_afk" Value="{0} ya está afk." />
+  <Translation Id="afk_set_caller_error_self" Value="No puedes ponerte afk a ti mismo." />
+  <Translation Id="afk_set_caller_error_admin" Value="No puedes poner afk al staff." />
+  <Translation Id="afk_check_caller_true" Value="{0} está afk." />
+  <Translation Id="afk_check_caller_false" Value="{0} no está afk." />
+  <Translation Id="afk_checkall_caller_true" Value="{0} jugador/es afk: {1}" />
+  <Translation Id="afk_checkall_caller_false" Value="No hay jugadores afk." />
+  <Translation Id="general_not_found" Value="Player not found." />
+  <Translation Id="general_invalid_parameter" Value="Invalid parameter." />
+  <Translation Id="afk_true" Value="{0} is now afk." />
+  <Translation Id="afk_false" Value="{0} is no longer afk." />
+  <Translation Id="afk_kick" Value="Kicked for being afk." />
+</Translations>

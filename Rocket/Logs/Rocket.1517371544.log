@@ -1,0 +1,426 @@
+[1/31/2018 12:50:07 AM] [Info] [registered] /admins (Rocket.Unturned.Commands.UnturnedCommands/admins)
+[1/31/2018 12:50:07 AM] [Info] [registered] /airdrop (Rocket.Unturned.Commands.UnturnedCommands/airdrop)
+[1/31/2018 12:50:07 AM] [Info] [registered] /animal (Rocket.Unturned.Commands.UnturnedCommands/animal)
+[1/31/2018 12:50:07 AM] [Info] [registered] /ban (Rocket.Unturned.Commands.UnturnedCommands/ban)
+[1/31/2018 12:50:07 AM] [Info] [registered] /bans (Rocket.Unturned.Commands.UnturnedCommands/bans)
+[1/31/2018 12:50:07 AM] [Info] [registered] /bind (Rocket.Unturned.Commands.UnturnedCommands/bind)
+[1/31/2018 12:50:07 AM] [Info] [registered] /chatrate (Rocket.Unturned.Commands.UnturnedCommands/chatrate)
+[1/31/2018 12:50:07 AM] [Info] [registered] /cheats (Rocket.Unturned.Commands.UnturnedCommands/cheats)
+[1/31/2018 12:50:08 AM] [Info] [registered] /cycle (Rocket.Unturned.Commands.UnturnedCommands/cycle)
+[1/31/2018 12:50:08 AM] [Info] [registered] /day (Rocket.Unturned.Commands.UnturnedCommands/day)
+[1/31/2018 12:50:08 AM] [Info] [registered] /debug (Rocket.Unturned.Commands.UnturnedCommands/debug)
+[1/31/2018 12:50:08 AM] [Info] [registered] /experience (Rocket.Unturned.Commands.UnturnedCommands/experience)
+[1/31/2018 12:50:08 AM] [Info] [registered] /filter (Rocket.Unturned.Commands.UnturnedCommands/filter)
+[1/31/2018 12:50:08 AM] [Info] [registered] /flag (Rocket.Unturned.Commands.UnturnedCommands/flag)
+[1/31/2018 12:50:08 AM] [Info] [registered] /gamemode (Rocket.Unturned.Commands.UnturnedCommands/gamemode)
+[1/31/2018 12:50:08 AM] [Info] [registered] /give (Rocket.Unturned.Commands.UnturnedCommands/give)
+[1/31/2018 12:50:08 AM] [Info] [registered] /gold (Rocket.Unturned.Commands.UnturnedCommands/gold)
+[1/31/2018 12:50:08 AM] [Info] [registered] /hide_admins (Rocket.Unturned.Commands.UnturnedCommands/hide_admins)
+[1/31/2018 12:50:08 AM] [Info] [registered] /kick (Rocket.Unturned.Commands.UnturnedCommands/kick)
+[1/31/2018 12:50:08 AM] [Info] [registered] /kill (Rocket.Unturned.Commands.UnturnedCommands/kill)
+[1/31/2018 12:50:08 AM] [Info] [registered] /loadout (Rocket.Unturned.Commands.UnturnedCommands/loadout)
+[1/31/2018 12:50:08 AM] [Info] [registered] /log (Rocket.Unturned.Commands.UnturnedCommands/log)
+[1/31/2018 12:50:08 AM] [Info] [registered] /map (Rocket.Unturned.Commands.UnturnedCommands/map)
+[1/31/2018 12:50:08 AM] [Info] [registered] /maxplayers (Rocket.Unturned.Commands.UnturnedCommands/maxplayers)
+[1/31/2018 12:50:08 AM] [Info] [registered] /mode (Rocket.Unturned.Commands.UnturnedCommands/mode)
+[1/31/2018 12:50:08 AM] [Info] [registered] /modules (Rocket.Unturned.Commands.UnturnedCommands/modules)
+[1/31/2018 12:50:08 AM] [Info] [registered] /name (Rocket.Unturned.Commands.UnturnedCommands/name)
+[1/31/2018 12:50:08 AM] [Info] [registered] /night (Rocket.Unturned.Commands.UnturnedCommands/night)
+[1/31/2018 12:50:08 AM] [Info] [registered] /owner (Rocket.Unturned.Commands.UnturnedCommands/owner)
+[1/31/2018 12:50:08 AM] [Info] [registered] /password (Rocket.Unturned.Commands.UnturnedCommands/password)
+[1/31/2018 12:50:08 AM] [Info] [registered] /permit (Rocket.Unturned.Commands.UnturnedCommands/permit)
+[1/31/2018 12:50:08 AM] [Info] [registered] /permits (Rocket.Unturned.Commands.UnturnedCommands/permits)
+[1/31/2018 12:50:08 AM] [Info] [registered] /perspective (Rocket.Unturned.Commands.UnturnedCommands/perspective)
+[1/31/2018 12:50:08 AM] [Info] [registered] /players (Rocket.Unturned.Commands.UnturnedCommands/players)
+[1/31/2018 12:50:08 AM] [Info] [registered] /port (Rocket.Unturned.Commands.UnturnedCommands/port)
+[1/31/2018 12:50:08 AM] [Info] [registered] /pve (Rocket.Unturned.Commands.UnturnedCommands/pve)
+[1/31/2018 12:50:08 AM] [Info] [registered] /quest (Rocket.Unturned.Commands.UnturnedCommands/quest)
+[1/31/2018 12:50:08 AM] [Info] [registered] /queue_size (Rocket.Unturned.Commands.UnturnedCommands/queue_size)
+[1/31/2018 12:50:08 AM] [Info] [registered] /reputation (Rocket.Unturned.Commands.UnturnedCommands/reputation)
+[1/31/2018 12:50:08 AM] [Info] [registered] /resetconfig (Rocket.Unturned.Commands.UnturnedCommands/resetconfig)
+[1/31/2018 12:50:08 AM] [Info] [registered] /save (Rocket.Unturned.Commands.UnturnedCommands/save)
+[1/31/2018 12:50:08 AM] [Info] [registered] /say (Rocket.Unturned.Commands.UnturnedCommands/say)
+[1/31/2018 12:50:08 AM] [Info] [registered] /shutdown (Rocket.Unturned.Commands.UnturnedCommands/shutdown)
+[1/31/2018 12:50:08 AM] [Info] [registered] /slay (Rocket.Unturned.Commands.UnturnedCommands/slay)
+[1/31/2018 12:50:08 AM] [Info] [registered] /spy (Rocket.Unturned.Commands.UnturnedCommands/spy)
+[1/31/2018 12:50:08 AM] [Info] [registered] /sync (Rocket.Unturned.Commands.UnturnedCommands/sync)
+[1/31/2018 12:50:08 AM] [Info] [registered] /teleport (Rocket.Unturned.Commands.UnturnedCommands/teleport)
+[1/31/2018 12:50:08 AM] [Info] [registered] /time (Rocket.Unturned.Commands.UnturnedCommands/time)
+[1/31/2018 12:50:08 AM] [Info] [registered] /timeout (Rocket.Unturned.Commands.UnturnedCommands/timeout)
+[1/31/2018 12:50:08 AM] [Info] [registered] /unban (Rocket.Unturned.Commands.UnturnedCommands/unban)
+[1/31/2018 12:50:08 AM] [Info] [registered] /unpermit (Rocket.Unturned.Commands.UnturnedCommands/unpermit)
+[1/31/2018 12:50:08 AM] [Info] [registered] /vehicle (Rocket.Unturned.Commands.UnturnedCommands/vehicle)
+[1/31/2018 12:50:08 AM] [Info] [registered] /votify (Rocket.Unturned.Commands.UnturnedCommands/votify)
+[1/31/2018 12:50:08 AM] [Info] [registered] /weather (Rocket.Unturned.Commands.UnturnedCommands/weather)
+[1/31/2018 12:50:08 AM] [Info] [registered] /welcome (Rocket.Unturned.Commands.UnturnedCommands/welcome)
+[1/31/2018 12:50:08 AM] [Info] [registered] /whitelisted (Rocket.Unturned.Commands.UnturnedCommands/whitelisted)
+[1/31/2018 12:50:08 AM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[1/31/2018 12:50:08 AM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[1/31/2018 12:50:08 AM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[1/31/2018 12:50:09 AM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[1/31/2018 12:50:09 AM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[1/31/2018 12:50:09 AM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[1/31/2018 12:50:09 AM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[1/31/2018 12:50:09 AM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[1/31/2018 12:50:09 AM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[1/31/2018 12:50:09 AM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[1/31/2018 12:50:09 AM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[1/31/2018 12:50:09 AM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[1/31/2018 12:50:09 AM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[1/31/2018 12:50:09 AM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[1/31/2018 12:50:09 AM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[1/31/2018 12:50:09 AM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[1/31/2018 12:50:09 AM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[1/31/2018 12:50:09 AM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[1/31/2018 12:50:09 AM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[1/31/2018 12:50:09 AM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[1/31/2018 12:50:09 AM] [Info] Loading AdminWarnings from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\AdminWarnings.dll
+[1/31/2018 12:50:09 AM] [Info] Loading DeathMessagesRemastered from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\DeathMessagesRemastered.dll
+[1/31/2018 12:50:09 AM] [Info] Loading FeexExp from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\FeexExp.dll
+[1/31/2018 12:50:09 AM] [Info] Loading JoinLeaveMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\JoinLeaveMessages.dll
+[1/31/2018 12:50:09 AM] [Info] Loading RocketMod_TPA from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\RocketMod_TPA.dll
+[1/31/2018 12:50:09 AM] [Info] Loading SimpleDeathMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SimpleDeathMessages.dll
+[1/31/2018 12:50:09 AM] [Info] Loading SmartSpawner from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SmartSpawner.dll
+[1/31/2018 12:50:09 AM] [Info] Loading ZaupClearInventoryLib from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupClearInventoryLib.dll
+[1/31/2018 12:50:09 AM] [Info] Loading ZaupHomeCommand from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupHomeCommand.dll
+[1/31/2018 12:50:09 AM] [Info] 
+[loading] AdminWarnings
+[1/31/2018 12:50:09 AM] [Info] [registered] /removewarn (AdminWarnings.CommandRemoveWarn/removewarn)
+[1/31/2018 12:50:09 AM] [Info] [registered] /warn (AdminWarnings.CommandWarn/warn)
+[1/31/2018 12:50:09 AM] [Info] [registered] /warnings (AdminWarnings.CommandWarnings/warnings)
+[1/31/2018 12:50:09 AM] [Info] [registered] /warns (AdminWarnings.CommandWarnings/warns)
+[1/31/2018 12:50:09 AM] [Info] [registered] /clearwarninglogs (AdminWarnings.Commands.CommandClearWarningLogs/clearwarninglogs)
+[1/31/2018 12:50:09 AM] [Info] AdminWarnings >> AdminWarnings has Loaded!
+[1/31/2018 12:50:09 AM] [Info] 
+[loading] DeathMessagesRemastered
+[1/31/2018 12:50:09 AM] [Info] DeathMessagesRemastered >> Death Messages Remastered has been loaded!
+[1/31/2018 12:50:09 AM] [Warning] --
+[1/31/2018 12:50:09 AM] [Warning] Suicide messages are enabled!
+[1/31/2018 12:50:09 AM] [Warning] Health warning messages are enabled!
+[1/31/2018 12:50:09 AM] [Warning] Uconomy is enabled!
+[1/31/2018 12:50:09 AM] [Warning] Experience is enabled!
+[1/31/2018 12:50:09 AM] [Warning] --
+[1/31/2018 12:50:09 AM] [Info] 
+[loading] FeexExp
+[1/31/2018 12:50:09 AM] [Info] [registered] /exp (Freenex.FeexExp.CommandExp/exp)
+[1/31/2018 12:50:09 AM] [Info] FeexExp >> Freenex's FeexExp has been loaded!
+[1/31/2018 12:50:09 AM] [Info] Adding UnturnedPlayerComponent: FeexExpPlayerComponent
+[1/31/2018 12:50:09 AM] [Info] 
+[loading] JoinLeaveMessages
+[1/31/2018 12:50:09 AM] [Info] 
+[loading] RocketMod_TPA
+[1/31/2018 12:50:09 AM] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[1/31/2018 12:50:09 AM] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[1/31/2018 12:50:09 AM] [Warning] ...
+[1/31/2018 12:50:09 AM] [Warning] Current configuration:
+[1/31/2018 12:50:09 AM] [Warning] ...
+[1/31/2018 12:50:10 AM] [Warning] Cooldown TPA requests: disabled, Seconds: 20
+[1/31/2018 12:50:10 AM] [Warning] Delay teleporting: disabled, Seconds: 10
+[1/31/2018 12:50:10 AM] [Warning] Cancel teleport if bleeding: disabled
+[1/31/2018 12:50:10 AM] [Warning] NinjaTP: disabled, EffectID: 45
+[1/31/2018 12:50:10 AM] [Warning] [Delay] Cancel teleport if hurt: disabled
+[1/31/2018 12:50:10 AM] [Warning] ...
+[1/31/2018 12:50:10 AM] [Warning] Checking for problems:
+[1/31/2018 12:50:10 AM] [Warning] No errors have been found!
+[1/31/2018 12:50:10 AM] [Warning] ...
+[1/31/2018 12:50:10 AM] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[1/31/2018 12:50:10 AM] [Info] 
+[loading] SimpleDeathMessages
+[1/31/2018 12:50:10 AM] [Warning] [SimpleDeathMessages] Made by: Coolpuppy24
+[1/31/2018 12:50:10 AM] [Warning] ------------------------------------------------------
+[1/31/2018 12:50:10 AM] [Warning] [SimpleDeathMessages] Death Message Color: Red
+[1/31/2018 12:50:10 AM] [Warning] [SimpleDeathMessages] Show Suicide Messages: True
+[1/31/2018 12:50:10 AM] [Info] SimpleDeathMessages >> Successfully Loaded!
+[1/31/2018 12:50:10 AM] [Info] 
+[loading] SmartSpawner
+[1/31/2018 12:50:10 AM] [Info] [registered] /ss (SmartSpawner.SmartSpawner/ss)
+[1/31/2018 12:50:10 AM] [Info] 
+[loading] ZaupClearInventoryLib
+[1/31/2018 12:50:10 AM] [Info] [registered] /ci (ZaupClearInventoryLib.CommandCi/ci)
+[1/31/2018 12:50:10 AM] [Info] [registered] /clearinventory (ZaupClearInventoryLib.CommandCi/clearinventory)
+[1/31/2018 12:50:10 AM] [Info] [registered] /cleari (ZaupClearInventoryLib.CommandCi/cleari)
+[1/31/2018 12:50:10 AM] [Info] 
+[loading] ZaupHomeCommand
+[1/31/2018 12:50:10 AM] [Info] [registered] /home (ZaupHomeCommand.CommandHome/home)
+[1/31/2018 12:50:10 AM] [Info] Adding UnturnedPlayerComponent: HomePlayer
+[1/31/2018 12:50:10 AM] [Info] This server will automatically save every 900 seconds
+[1/31/2018 12:50:10 AM] [Info] Steam servers ready!
+[1/31/2018 12:50:10 AM] [Info] Workshop install folder: C:\Unturned server\game/Servers/mafia/Workshop/Steam
+[1/31/2018 12:50:10 AM] [Info] Downloading 0 workshop items...
+[1/31/2018 12:50:10 AM] [Info] General: Survival
+[1/31/2018 12:50:11 AM] [Info] Loading level: 8%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 16%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 25%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 33%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 41%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 50%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 58%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 66%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 75%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 83%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 91%
+[1/31/2018 12:50:13 AM] [Info] Loading level: 100%
+[1/31/2018 12:51:34 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[1/31/2018 12:51:34 AM] [Info] Connecting: PlayerID: 76561198044655688 Name: ★Erre Character: Erre
+[1/31/2018 12:51:45 AM] [Info] [World] Erre [★Erre]: "asd"
+[1/31/2018 12:51:51 AM] [Info] [World] Erre [★Erre]: "sd"
+[1/31/2018 12:51:59 AM] [Info] [World] Erre [★Erre]: "/kits"
+[1/31/2018 12:52:37 AM] [Info] [World] Erre [★Erre]: "/p add erre admin"
+[1/31/2018 12:52:39 AM] [Info] [World] Erre [★Erre]: "sdf"
+[1/31/2018 12:52:45 AM] [Info] [World] Erre [★Erre]: "/exp"
+[1/31/2018 12:52:49 AM] [Info] [World] Erre [★Erre]: "/exp 150000"
+[1/31/2018 12:52:54 AM] [Info] [World] Erre [★Erre]: "/i 25"
+[1/31/2018 12:52:59 AM] [Info] [World] Erre [★Erre]: "/god"
+[1/31/2018 12:52:59 AM] [Info] Erre God ativado
+[1/31/2018 12:56:53 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[1/31/2018 12:56:53 AM] [Info] Connecting: PlayerID: 76561198021210177 Name: 'elpraaah Character: Elprah
+[1/31/2018 12:56:53 AM] [Info] JoinLeaveMessages >> Broadcast: Elprah connected to the server.
+[1/31/2018 12:57:00 AM] [Info] [World] Elprah ['elpraaah]: "hola"
+[1/31/2018 12:57:15 AM] [Info] [World] Erre [★Erre]: "dfsdf"
+[1/31/2018 12:57:17 AM] [Info] [World] Elprah ['elpraaah]: "jeeje"
+[1/31/2018 12:57:20 AM] [Info] [World] Erre [★Erre]: "/tp elpra"
+[1/31/2018 12:57:20 AM] [Info] Erre teleportou para Elprah
+[1/31/2018 12:57:36 AM] [Info] [World] Erre [★Erre]: "/p add elprah admin"
+[1/31/2018 12:57:39 AM] [Info] [World] Elprah ['elpraaah]: "owo"
+[1/31/2018 12:57:52 AM] [Info] [World] Erre [★Erre]: "/god"
+[1/31/2018 12:57:52 AM] [Info] Erre God desativado
+[1/31/2018 12:57:57 AM] [Error] Could not find dependency: Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[1/31/2018 12:57:57 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 12:57:57 AM] [Info] SimpleDeathMessages >> Broadcast: Erre [PUNCH] Elprah
+[1/31/2018 12:57:57 AM] [Info] Elprah ['elpraaah] was punched in the torso by Erre [★Erre]!
+[1/31/2018 12:58:24 AM] [Info] [World] Erre [★Erre]: "/warn elprah sdfsdf"
+[1/31/2018 12:58:24 AM] [Warning] 'Erre' has warned 'Elprah', 'Elprah' is at 1 warnings
+[1/31/2018 12:58:24 AM] [Info] [World] Elprah ['elpraaah]: "/warn"
+[1/31/2018 12:58:36 AM] [Info] [World] Erre [★Erre]: "/warn erre kdfksf"
+[1/31/2018 12:58:36 AM] [Warning] 'Erre' has warned 'Erre', 'Erre' is at 1 warnings
+[1/31/2018 12:58:37 AM] [Info] [World] Elprah ['elpraaah]: "/warn Erre ctm"
+[1/31/2018 12:58:42 AM] [Info] [World] Erre [★Erre]: "warn"
+[1/31/2018 12:58:47 AM] [Info] [World] Elprah ['elpraaah]: "voce nao tem permissao"
+[1/31/2018 12:58:57 AM] [Info] [World] Erre [★Erre]: "./warn erre slkdf"
+[1/31/2018 12:59:00 AM] [Info] [World] Elprah ['elpraaah]: "/warn erre ejedjke"
+[1/31/2018 12:59:11 AM] [Info] Broadcast: asd
+[1/31/2018 12:59:20 AM] [Info] Reloading Rocket
+[1/31/2018 12:59:20 AM] [Info] 
+[unloading] ZaupHomeCommand
+[1/31/2018 12:59:20 AM] [Info] 
+[unloading] ZaupClearInventoryLib
+[1/31/2018 12:59:20 AM] [Info] 
+[unloading] SmartSpawner
+[1/31/2018 12:59:20 AM] [Info] 
+[unloading] SimpleDeathMessages
+[1/31/2018 12:59:20 AM] [Info] SimpleDeathMessages >> Unload
+[1/31/2018 12:59:20 AM] [Info] 
+[unloading] RocketMod_TPA
+[1/31/2018 12:59:20 AM] [Info] 
+[unloading] JoinLeaveMessages
+[1/31/2018 12:59:20 AM] [Info] 
+[unloading] FeexExp
+[1/31/2018 12:59:20 AM] [Info] FeexExp >> Freenex's FeexExp has been unloaded!
+[1/31/2018 12:59:20 AM] [Info] 
+[unloading] DeathMessagesRemastered
+[1/31/2018 12:59:20 AM] [Info] 
+[unloading] AdminWarnings
+[1/31/2018 12:59:20 AM] [Info] AdminWarnings >> AdminWarnings has Unloaded!
+[1/31/2018 12:59:20 AM] [Info] Loading AdminWarnings from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\AdminWarnings.dll
+[1/31/2018 12:59:20 AM] [Info] Loading DeathMessagesRemastered from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\DeathMessagesRemastered.dll
+[1/31/2018 12:59:20 AM] [Info] Loading FeexExp from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\FeexExp.dll
+[1/31/2018 12:59:20 AM] [Info] Loading JoinLeaveMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\JoinLeaveMessages.dll
+[1/31/2018 12:59:20 AM] [Info] Loading RocketMod_TPA from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\RocketMod_TPA.dll
+[1/31/2018 12:59:20 AM] [Info] Loading SimpleDeathMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SimpleDeathMessages.dll
+[1/31/2018 12:59:20 AM] [Info] Loading SmartSpawner from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SmartSpawner.dll
+[1/31/2018 12:59:21 AM] [Info] Loading ZaupClearInventoryLib from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupClearInventoryLib.dll
+[1/31/2018 12:59:21 AM] [Info] Loading ZaupHomeCommand from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupHomeCommand.dll
+[1/31/2018 12:59:21 AM] [Info] 
+[loading] AdminWarnings
+[1/31/2018 12:59:21 AM] [Info] [registered] /removewarn (AdminWarnings.CommandRemoveWarn/removewarn)
+[1/31/2018 12:59:21 AM] [Info] [registered] /warn (AdminWarnings.CommandWarn/warn)
+[1/31/2018 12:59:21 AM] [Info] [registered] /warnings (AdminWarnings.CommandWarnings/warnings)
+[1/31/2018 12:59:21 AM] [Info] [registered] /warns (AdminWarnings.CommandWarnings/warns)
+[1/31/2018 12:59:21 AM] [Info] [registered] /clearwarninglogs (AdminWarnings.Commands.CommandClearWarningLogs/clearwarninglogs)
+[1/31/2018 12:59:21 AM] [Info] AdminWarnings >> AdminWarnings has Loaded!
+[1/31/2018 12:59:21 AM] [Info] 
+[loading] DeathMessagesRemastered
+[1/31/2018 12:59:21 AM] [Info] DeathMessagesRemastered >> Death Messages Remastered has been loaded!
+[1/31/2018 12:59:21 AM] [Warning] --
+[1/31/2018 12:59:21 AM] [Warning] Suicide messages are enabled!
+[1/31/2018 12:59:21 AM] [Warning] Health warning messages are enabled!
+[1/31/2018 12:59:21 AM] [Warning] Uconomy is enabled!
+[1/31/2018 12:59:21 AM] [Warning] Experience is enabled!
+[1/31/2018 12:59:21 AM] [Warning] --
+[1/31/2018 12:59:21 AM] [Info] 
+[loading] FeexExp
+[1/31/2018 12:59:21 AM] [Info] [registered] /exp (Freenex.FeexExp.CommandExp/exp)
+[1/31/2018 12:59:21 AM] [Info] FeexExp >> Freenex's FeexExp has been loaded!
+[1/31/2018 12:59:21 AM] [Info] Adding UnturnedPlayerComponent: FeexExpPlayerComponent
+[1/31/2018 12:59:21 AM] [Info] 
+[loading] JoinLeaveMessages
+[1/31/2018 12:59:21 AM] [Info] 
+[loading] RocketMod_TPA
+[1/31/2018 12:59:21 AM] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[1/31/2018 12:59:21 AM] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[1/31/2018 12:59:21 AM] [Warning] ...
+[1/31/2018 12:59:21 AM] [Warning] Current configuration:
+[1/31/2018 12:59:21 AM] [Warning] ...
+[1/31/2018 12:59:21 AM] [Warning] Cooldown TPA requests: disabled, Seconds: 20
+[1/31/2018 12:59:21 AM] [Warning] Delay teleporting: disabled, Seconds: 10
+[1/31/2018 12:59:21 AM] [Warning] Cancel teleport if bleeding: disabled
+[1/31/2018 12:59:21 AM] [Warning] NinjaTP: disabled, EffectID: 45
+[1/31/2018 12:59:21 AM] [Warning] [Delay] Cancel teleport if hurt: disabled
+[1/31/2018 12:59:21 AM] [Warning] ...
+[1/31/2018 12:59:21 AM] [Warning] Checking for problems:
+[1/31/2018 12:59:21 AM] [Warning] No errors have been found!
+[1/31/2018 12:59:21 AM] [Warning] ...
+[1/31/2018 12:59:21 AM] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[1/31/2018 12:59:21 AM] [Info] 
+[loading] SimpleDeathMessages
+[1/31/2018 12:59:21 AM] [Warning] [SimpleDeathMessages] Made by: Coolpuppy24
+[1/31/2018 12:59:21 AM] [Warning] ------------------------------------------------------
+[1/31/2018 12:59:21 AM] [Warning] [SimpleDeathMessages] Death Message Color: Red
+[1/31/2018 12:59:21 AM] [Warning] [SimpleDeathMessages] Show Suicide Messages: True
+[1/31/2018 12:59:21 AM] [Info] SimpleDeathMessages >> Successfully Loaded!
+[1/31/2018 12:59:21 AM] [Info] 
+[loading] SmartSpawner
+[1/31/2018 12:59:21 AM] [Info] [registered] /ss (SmartSpawner.SmartSpawner/ss)
+[1/31/2018 12:59:21 AM] [Info] 
+[loading] ZaupClearInventoryLib
+[1/31/2018 12:59:21 AM] [Info] [registered] /ci (ZaupClearInventoryLib.CommandCi/ci)
+[1/31/2018 12:59:21 AM] [Info] [registered] /clearinventory (ZaupClearInventoryLib.CommandCi/clearinventory)
+[1/31/2018 12:59:21 AM] [Info] [registered] /cleari (ZaupClearInventoryLib.CommandCi/cleari)
+[1/31/2018 12:59:21 AM] [Info] 
+[loading] ZaupHomeCommand
+[1/31/2018 12:59:21 AM] [Info] [registered] /home (ZaupHomeCommand.CommandHome/home)
+[1/31/2018 12:59:21 AM] [Info] Adding UnturnedPlayerComponent: HomePlayer
+[1/31/2018 12:59:31 AM] [Info] [World] Erre [★Erre]: "reasd"
+[1/31/2018 12:59:36 AM] [Info] [World] Elprah ['elpraaah]: "asdsad"
+[1/31/2018 12:59:51 AM] [Info] [World] Elprah ['elpraaah]: "/wARN ERRE JSDKL"
+[1/31/2018 1:00:01 AM] [Info] Elprah is already in the group admin
+[1/31/2018 1:00:03 AM] [Info] [World] Elprah ['elpraaah]: "voce nao tem permissao para usar esse comando."
+[1/31/2018 1:00:05 AM] [Info] Group not found
+[1/31/2018 1:00:11 AM] [Info] Group not found
+[1/31/2018 1:00:48 AM] [Info] [World] Elprah ['elpraaah]: "/help"
+[1/31/2018 1:00:49 AM] [Info] Plugin permissinos not found
+[1/31/2018 1:00:52 AM] [Info] Reloading Rocket
+[1/31/2018 1:00:52 AM] [Info] 
+[unloading] ZaupHomeCommand
+[1/31/2018 1:00:52 AM] [Info] 
+[unloading] ZaupClearInventoryLib
+[1/31/2018 1:00:52 AM] [Info] 
+[unloading] SmartSpawner
+[1/31/2018 1:00:52 AM] [Info] 
+[unloading] SimpleDeathMessages
+[1/31/2018 1:00:52 AM] [Info] SimpleDeathMessages >> Unload
+[1/31/2018 1:00:52 AM] [Info] 
+[unloading] RocketMod_TPA
+[1/31/2018 1:00:52 AM] [Info] 
+[unloading] JoinLeaveMessages
+[1/31/2018 1:00:52 AM] [Info] 
+[unloading] FeexExp
+[1/31/2018 1:00:52 AM] [Info] FeexExp >> Freenex's FeexExp has been unloaded!
+[1/31/2018 1:00:52 AM] [Info] 
+[unloading] DeathMessagesRemastered
+[1/31/2018 1:00:52 AM] [Info] 
+[unloading] AdminWarnings
+[1/31/2018 1:00:52 AM] [Info] AdminWarnings >> AdminWarnings has Unloaded!
+[1/31/2018 1:00:52 AM] [Info] Loading AdminWarnings from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\AdminWarnings.dll
+[1/31/2018 1:00:52 AM] [Info] Loading DeathMessagesRemastered from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\DeathMessagesRemastered.dll
+[1/31/2018 1:00:52 AM] [Info] Loading FeexExp from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\FeexExp.dll
+[1/31/2018 1:00:52 AM] [Info] Loading JoinLeaveMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\JoinLeaveMessages.dll
+[1/31/2018 1:00:52 AM] [Info] Loading RocketMod_TPA from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\RocketMod_TPA.dll
+[1/31/2018 1:00:52 AM] [Info] Loading SimpleDeathMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SimpleDeathMessages.dll
+[1/31/2018 1:00:52 AM] [Info] Loading SmartSpawner from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SmartSpawner.dll
+[1/31/2018 1:00:52 AM] [Info] Loading ZaupClearInventoryLib from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupClearInventoryLib.dll
+[1/31/2018 1:00:52 AM] [Info] Loading ZaupHomeCommand from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupHomeCommand.dll
+[1/31/2018 1:00:52 AM] [Info] 
+[loading] AdminWarnings
+[1/31/2018 1:00:52 AM] [Info] [registered] /removewarn (AdminWarnings.CommandRemoveWarn/removewarn)
+[1/31/2018 1:00:52 AM] [Info] [registered] /warn (AdminWarnings.CommandWarn/warn)
+[1/31/2018 1:00:52 AM] [Info] [registered] /warnings (AdminWarnings.CommandWarnings/warnings)
+[1/31/2018 1:00:52 AM] [Info] [registered] /warns (AdminWarnings.CommandWarnings/warns)
+[1/31/2018 1:00:52 AM] [Info] [registered] /clearwarninglogs (AdminWarnings.Commands.CommandClearWarningLogs/clearwarninglogs)
+[1/31/2018 1:00:53 AM] [Info] AdminWarnings >> AdminWarnings has Loaded!
+[1/31/2018 1:00:53 AM] [Info] 
+[loading] DeathMessagesRemastered
+[1/31/2018 1:00:53 AM] [Info] DeathMessagesRemastered >> Death Messages Remastered has been loaded!
+[1/31/2018 1:00:53 AM] [Warning] --
+[1/31/2018 1:00:53 AM] [Warning] Suicide messages are enabled!
+[1/31/2018 1:00:53 AM] [Warning] Health warning messages are enabled!
+[1/31/2018 1:00:53 AM] [Warning] Uconomy is enabled!
+[1/31/2018 1:00:53 AM] [Warning] Experience is enabled!
+[1/31/2018 1:00:53 AM] [Warning] --
+[1/31/2018 1:00:53 AM] [Info] 
+[loading] FeexExp
+[1/31/2018 1:00:53 AM] [Info] [registered] /exp (Freenex.FeexExp.CommandExp/exp)
+[1/31/2018 1:00:53 AM] [Info] FeexExp >> Freenex's FeexExp has been loaded!
+[1/31/2018 1:00:53 AM] [Info] Adding UnturnedPlayerComponent: FeexExpPlayerComponent
+[1/31/2018 1:00:53 AM] [Info] 
+[loading] JoinLeaveMessages
+[1/31/2018 1:00:53 AM] [Info] 
+[loading] RocketMod_TPA
+[1/31/2018 1:00:53 AM] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[1/31/2018 1:00:53 AM] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[1/31/2018 1:00:53 AM] [Warning] ...
+[1/31/2018 1:00:53 AM] [Warning] Current configuration:
+[1/31/2018 1:00:53 AM] [Warning] ...
+[1/31/2018 1:00:53 AM] [Warning] Cooldown TPA requests: disabled, Seconds: 20
+[1/31/2018 1:00:53 AM] [Warning] Delay teleporting: disabled, Seconds: 10
+[1/31/2018 1:00:53 AM] [Warning] Cancel teleport if bleeding: disabled
+[1/31/2018 1:00:53 AM] [Warning] NinjaTP: disabled, EffectID: 45
+[1/31/2018 1:00:53 AM] [Warning] [Delay] Cancel teleport if hurt: disabled
+[1/31/2018 1:00:53 AM] [Warning] ...
+[1/31/2018 1:00:53 AM] [Warning] Checking for problems:
+[1/31/2018 1:00:53 AM] [Warning] No errors have been found!
+[1/31/2018 1:00:53 AM] [Warning] ...
+[1/31/2018 1:00:53 AM] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[1/31/2018 1:00:53 AM] [Info] 
+[loading] SimpleDeathMessages
+[1/31/2018 1:00:53 AM] [Warning] [SimpleDeathMessages] Made by: Coolpuppy24
+[1/31/2018 1:00:53 AM] [Warning] ------------------------------------------------------
+[1/31/2018 1:00:53 AM] [Warning] [SimpleDeathMessages] Death Message Color: Red
+[1/31/2018 1:00:53 AM] [Warning] [SimpleDeathMessages] Show Suicide Messages: True
+[1/31/2018 1:00:53 AM] [Info] SimpleDeathMessages >> Successfully Loaded!
+[1/31/2018 1:00:53 AM] [Info] 
+[loading] SmartSpawner
+[1/31/2018 1:00:53 AM] [Info] [registered] /ss (SmartSpawner.SmartSpawner/ss)
+[1/31/2018 1:00:53 AM] [Info] 
+[loading] ZaupClearInventoryLib
+[1/31/2018 1:00:53 AM] [Info] [registered] /ci (ZaupClearInventoryLib.CommandCi/ci)
+[1/31/2018 1:00:53 AM] [Info] [registered] /clearinventory (ZaupClearInventoryLib.CommandCi/clearinventory)
+[1/31/2018 1:00:53 AM] [Info] [registered] /cleari (ZaupClearInventoryLib.CommandCi/cleari)
+[1/31/2018 1:00:53 AM] [Info] 
+[loading] ZaupHomeCommand
+[1/31/2018 1:00:53 AM] [Info] [registered] /home (ZaupHomeCommand.CommandHome/home)
+[1/31/2018 1:00:53 AM] [Info] Adding UnturnedPlayerComponent: HomePlayer
+[1/31/2018 1:00:56 AM] [Info] [World] Elprah ['elpraaah]: "/help"
+[1/31/2018 1:00:58 AM] [Info] [World] Elprah ['elpraaah]: "/warn erre sajdklajd"
+[1/31/2018 1:01:07 AM] [Info] Successfully saved the game.
+[1/31/2018 1:01:09 AM] [Info] 
+[unloading] SimpleDeathMessages
+[1/31/2018 1:01:09 AM] [Info] SimpleDeathMessages >> Unload
+[1/31/2018 1:01:09 AM] [Info] 
+[unloading] ZaupHomeCommand
+[1/31/2018 1:01:09 AM] [Info] 
+[unloading] AdminWarnings
+[1/31/2018 1:01:09 AM] [Info] AdminWarnings >> AdminWarnings has Unloaded!
+[1/31/2018 1:01:09 AM] [Info] 
+[unloading] JoinLeaveMessages
+[1/31/2018 1:01:09 AM] [Info] 
+[unloading] RocketMod_TPA
+[1/31/2018 1:01:09 AM] [Info] 
+[unloading] FeexExp
+[1/31/2018 1:01:09 AM] [Info] FeexExp >> Freenex's FeexExp has been unloaded!
+[1/31/2018 1:01:09 AM] [Info] 
+[unloading] ZaupClearInventoryLib
+[1/31/2018 1:01:09 AM] [Info] 
+[unloading] DeathMessagesRemastered
+[1/31/2018 1:01:09 AM] [Info] 
+[unloading] SmartSpawner

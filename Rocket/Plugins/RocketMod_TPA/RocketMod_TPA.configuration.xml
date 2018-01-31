@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TPAConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TPACoolDownSeconds>20</TPACoolDownSeconds>
+  <TPADelaySeconds>7</TPADelaySeconds>
+  <NinjaEffectID>0</NinjaEffectID>
+  <TPADelay>true</TPADelay>
+  <CancelOnBleeding>false</CancelOnBleeding>
+  <CancelOnHurt>true</CancelOnHurt>
+  <TPACoolDown>true</TPACoolDown>
+  <NinjaTP>false</NinjaTP>
+</TPAConfiguration>

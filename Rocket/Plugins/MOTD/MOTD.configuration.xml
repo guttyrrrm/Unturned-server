@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MOTDConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ShowWarnings>true</ShowWarnings>
+  <Groups>
+    <Group>
+      <Name>user</Name>
+      <Messages>
+        <Message Text="Bienvenido a %servername%!" Color="Blue" />
+        <Message Text="Gracias a tus votos somos el" Color="red" />
+        <Message Text="SERVIDOR MEJOR PUNTUADO DE CHILE!" Color="white" />
+      </Messages>
+    </Group>
+    <Group>
+      <Name>vip</Name>
+      <Messages>
+        <Message Text="Hola %playername%, Gracias por jugar con nosotros!" Color="Blue" />
+        <Message Text="Gracias a tus votos somos el" Color="red" />
+        <Message Text="SERVIDOR MEJOR PUNTUADO DE CHILE!" Color="white" />
+      </Messages>
+    </Group>
+    <Group>
+      <Name>voti</Name>
+      <Messages>
+        <Message Text="Bienvenido a %servername%," Color="yellow" />
+      </Messages>
+    </Group>
+    <Group>
+      <Name>owner</Name>
+      <Messages>
+        <Message Text="Users conectados: %online%" Color="red" />
+        <Message Text="Bienvenido al !" Color="blue" />
+        <Message Text="SERVIDOR MEJOR PUNTUADO DE CHILE!" Color="white" />
+      </Messages>
+    </Group>
+  </Groups>
+</MOTDConfiguration>

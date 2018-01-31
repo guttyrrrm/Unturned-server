@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SafeZoneConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UpdateFrameCount>1</UpdateFrameCount>
+  <SafeZones>
+    <SafeZone>
+      <Name>Anti1</Name>
+      <Owners>
+        <unsignedLong>76561198160890445</unsignedLong>
+        <unsignedLong>76561198191149038</unsignedLong>
+        <unsignedLong>76561198137342088</unsignedLong>
+      </Owners>
+      <Type xsi:type="CircleType">
+        <Radius>50</Radius>
+        <Center x="933.178833" y="-932.4017" />
+      </Type>
+      <Flags>
+        <Flag name="EnterMessage">
+          <Value xsi:type="xsd:string">Has entrado a la zona '{0}'</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="LeaveMessage">
+          <Value xsi:type="xsd:string">Has salido de la zona  '{0}'</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="noenter">
+          <Value xsi:type="xsd:boolean">false</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="destroyallowed">
+          <Value xsi:type="xsd:boolean">false</Value>
+          <GroupValues />
+        </Flag>
+        <Flag name="placeallowed">
+          <Value xsi:type="xsd:boolean">false</Value>
+          <GroupValues />
+        </Flag>
+      </Flags>
+      <Members />
+    </SafeZone>
+  </SafeZones>
+</SafeZoneConfiguration>

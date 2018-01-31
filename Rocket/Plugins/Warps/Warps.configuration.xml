@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WarpsConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UconomyEnable>false</UconomyEnable>
+  <WarpCargeEnable>true</WarpCargeEnable>
+  <WarpCost>100.00</WarpCost>
+  <WarpOtherChargeEnable>false</WarpOtherChargeEnable>
+  <WarpOtherCost>200.00</WarpOtherCost>
+  <SetWarpChargeEnable>false</SetWarpChargeEnable>
+  <SetWarpCost>200.00</SetWarpCost>
+  <DelWarpChargeEnable>false</DelWarpChargeEnable>
+  <DelWarpCost>200.00</DelWarpCost>
+  <EnableWaitGroups>false</EnableWaitGroups>
+  <EnableMovementRestriction>false</EnableMovementRestriction>
+  <WaitGroups>
+    <Group GroupName="user" WaitTime="10" />
+    <Group GroupName="owner" WaitTime="5" />
+    <Group GroupName="vip" WaitTime="10" />
+  </WaitGroups>
+  <Warps>
+    <Warp Name="home" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="117.399956" Location="(-220.7, 494.8, 264.2)" />
+    <Warp Name="1" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="358.2" Location="(-187.5, 499.0, 246.0)" />
+    <Warp Name="2" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="0.999949932" Location="(-206.0, 499.0, 242.6)" />
+    <Warp Name="banco" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="190.239243" Location="(-576.5, 33.7, 187.8)" />
+    <Warp Name="barco" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="263.502045" Location="(-436.7, 37.6, 170.2)" />
+    <Warp Name="ruina" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="294.000031" Location="(153.6, 59.8, -954.2)" />
+    <Warp Name="home2" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="7.63201666" Location="(-202.5, 503.3, 240.4)" />
+    <Warp Name="evento" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="192.451431" Location="(-149.3, 26.4, 355.0)" />
+    <Warp Name="hl3" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="325.600159" Location="(-198.8, 494.8, 239.7)" />
+    <Warp Name="grif" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="313.598846" Location="(-275.9, 167.1, 72.0)" />
+    <Warp Name="eventostrat" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="125.399979" Location="(-4.0, 25.8, 484.5)" />
+    <Warp Name="raid2" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="91.50025" Location="(-151.3, 377.8, -217.5)" />
+    <Warp Name="home3" SetterCharName="GutyFruti" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="pei" Rotation="84" Location="(-196.5, 503.7, 257.8)" />
+    <Warp Name="watching1" SetterCharName="GutyFruti" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="pei" Rotation="50.0000343" Location="(-307.4, 78.2, -778.6)" />
+    <Warp Name="faro" SetterCharName="GutyFruti" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="pei" Rotation="270.437378" Location="(249.1, 96.2, 792.1)" />
+    <Warp Name="banco2" SetterCharName="GutyFruti" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="pei" Rotation="121.599907" Location="(-568.5, 35.8, 195.1)" />
+    <Warp Name="aire1" SetterCharName="GutyFruti" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="pei" Rotation="170.1547" Location="(-847.9, 179.3, -604.7)" />
+    <Warp Name="grua" SetterCharName="GutyFruti" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="washington" Rotation="65.25246" Location="(-247.7, 71.9, 85.4)" />
+    <Warp Name="torre" SetterCharName="GutyFruti" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="washington" Rotation="100.499504" Location="(-273.8, 97.0, 49.9)" />
+    <Warp Name="home" SetterCharName="Random" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="washington" Rotation="13.2999468" Location="(927.7, 108.9, -927.1)" />
+    <Warp Name="brazo" SetterCharName="GutyFruti" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="washington" Rotation="266.407257" Location="(-205.3, 77.9, 80.4)" />
+    <Warp Name="afuera" SetterCharName="GutyFruti" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="washington" Rotation="263.999969" Location="(-301.0, 54.6, 63.3)" />
+    <Warp Name="brazo2" SetterCharName="GutyFruti" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="washington" Rotation="219.000031" Location="(-241.8, 81.9, 88.6)" />
+    <Warp Name="piso2" SetterCharName="Random" SetterSteamName="Random" SetterCSteamID="76561198160890445" World="washington" Rotation="56.19997" Location="(-315.1, 57.8, 43.4)" />
+    <Warp Name="troyano" SetterCharName="Random" SetterSteamName="Random" SetterCSteamID="76561198160890445" World="washington" Rotation="15.9999895" Location="(-846.4, 132.3, 928.9)" />
+    <Warp Name="rede" SetterCharName="Random" SetterSteamName="Random" SetterCSteamID="76561198160890445" World="washington" Rotation="261.4292" Location="(-792.6, 82.7, -954.3)" />
+    <Warp Name="fortaleza" SetterCharName="Random" SetterSteamName="Random" SetterCSteamID="76561198160890445" World="washington" Rotation="206.099747" Location="(-68.1, 75.3, 959.6)" />
+    <Warp Name="bosque" SetterCharName="[ServerAdmin]" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="washington" Rotation="107.600006" Location="(-959.6, 88.6, -415.1)" />
+    <Warp Name="flotante1" SetterCharName="Random" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="washington" Rotation="259.129425" Location="(-805.3, 234.2, -943.2)" />
+    <Warp Name="segeb" SetterCharName="Random" SetterSteamName="azerty" SetterCSteamID="76561198160890445" World="washington" Rotation="0.5000302" Location="(937.0, 116.4, -954.5)" />
+    <Warp Name="afuerahome" SetterCharName="Random" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="washington" Rotation="334.300049" Location="(829.3, 97.4, -872.7)" />
+    <Warp Name="bandera" SetterCharName="Random" SetterSteamName="GutyFruti" SetterCSteamID="76561198160890445" World="washington" Rotation="157.199982" Location="(902.2, 117.1, -861.7)" />
+    <Warp Name="torre" SetterCharName="[ServerAdmin]" SetterSteamName="BubiFruti" SetterCSteamID="76561198160890445" World="pei" Rotation="206.300766" Location="(-174.4, 104.0, -614.9)" />
+    <Warp Name="container" SetterCharName="Rainbow Dash" SetterSteamName="TS3 mafiainc.funs.cl" SetterCSteamID="76561198160890445" World="pei" Rotation="86.00003" Location="(-458.2, 45.0, 150.6)" />
+  </Warps>
+</WarpsConfig>

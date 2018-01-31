@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BackupCFG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BackUpMin>30</BackUpMin>
+  <MaxFilesSizeMB>25</MaxFilesSizeMB>
+  <SayBackupMsgToChat>true</SayBackupMsgToChat>
+  <BackupChatMSG>Backup del servidor creado satisfactoriamente!</BackupChatMSG>
+</BackupCFG>

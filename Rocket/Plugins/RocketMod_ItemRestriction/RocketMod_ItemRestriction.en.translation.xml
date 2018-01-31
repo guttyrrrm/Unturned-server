@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="item_notPermitted" Value="El item '{0}' no está permitido en este server." />
+  <Translation Id="translation_version_dont_edit" Value="1" />
+</Translations>

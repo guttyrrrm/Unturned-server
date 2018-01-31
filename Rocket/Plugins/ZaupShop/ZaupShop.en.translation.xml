@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="buy_command_usage" Value="Usage: /buy [v.]&lt;name or id&gt; [amount]." />
+  <Translation Id="cost_command_usage" Value="Usage: /cost [v.]&lt;name or id&gt;." />
+  <Translation Id="sell_command_usage" Value="Usage: /sell &lt;name or id&gt; [amount] (optional)." />
+  <Translation Id="shop_command_usage" Value="Usage: /shop &lt;add/rem/chng/buy&gt; [v.]&lt;itemid&gt; &lt;cost&gt;  &lt;cost&gt; is not required for rem, buy is only for items." />
+  <Translation Id="error_giving_item" Value="Hubo un error al comprar tu {0}." />
+  <Translation Id="error_getting_cost" Value="Hubo un error al conseguir el precio de: {0}" />
+  <Translation Id="item_cost_msg" Value="El item {0} cuesta {1} {2} y al venderlo recibes {3} {4}." />
+  <Translation Id="vehicle_cost_msg" Value="El vehiculo {0} cuesta {1} {2} ." />
+  <Translation Id="item_buy_msg" Value="Has comprado {5} {0} por {1} {2}.  Tu dinero actual es: {3} {4}." />
+  <Translation Id="vehicle_buy_msg" Value="Has comprado un/a {0} por {1} {2}.  Tu dinero actual es: {3} {4}." />
+  <Translation Id="not_enough_currency_msg" Value="No tienes {0} para comprar un/a {1} {2}." />
+  <Translation Id="buy_items_off" Value="No se pueden comprar items en este momento. Lo sentimos." />
+  <Translation Id="buy_vehicles_off" Value="No se pueden comprar items en este momento. Lo sentimos." />
+  <Translation Id="item_not_available" Value="Lo sentimos, pero el item {0} no esta disponible en la tienda." />
+  <Translation Id="vehicle_not_available" Value="Lo sentimos, pero el vehiculo {0} no esta disponible en la tienda." />
+  <Translation Id="could_not_find" Value="Lo sentimos, no pudimos encontrar la ID de {0}." />
+  <Translation Id="sell_items_off" Value="No se pueden vender items en este momento. Lo sentimos.." />
+  <Translation Id="not_have_item_sell" Value="No tienes ningun/a {0} para vender." />
+  <Translation Id="not_enough_items_sell" Value="Lo sentimos, no tienes suficientes {0} {1} para vender." />
+  <Translation Id="not_enough_ammo_sell" Value="I'm sorry, but you don't have enough ammo in {0} to sell." />
+  <Translation Id="sold_items" Value="Has vendido el item {0} {1} y has recibido {2} {3}.  Tu dinero actual es: {4} {5}." />
+  <Translation Id="no_sell_price_set" Value="Por el momento no estamos aceptando el item: {0} " />
+  <Translation Id="no_itemid_given" Value="Una ID es requerida." />
+  <Translation Id="no_cost_given" Value="Un costo es requerido." />
+  <Translation Id="invalid_amt" Value="Has introducido una cantidad invalida." />
+  <Translation Id="v_not_provided" Value="You must specify v for vehicle or just an item id.  Ex. /shop rem/101" />
+  <Translation Id="invalid_id_given" Value="You need to provide a valid item or vehicle id." />
+  <Translation Id="no_permission_shop_chng" Value="You don't have permission to use the shop chng msg." />
+  <Translation Id="no_permission_shop_add" Value="You don't have permission to use the shop add msg." />
+  <Translation Id="no_permission_shop_rem" Value="You don't have permission to use the shop rem msg." />
+  <Translation Id="no_permission_shop_buy" Value="You don't have permission to use the shop buy msg." />
+  <Translation Id="changed" Value="cambiado" />
+  <Translation Id="added" Value="añadido" />
+  <Translation Id="changed_or_added_to_shop" Value="You have {0} the {1} with cost {2} to the shop." />
+  <Translation Id="error_adding_or_changing" Value="There was an error adding/changing {0}!" />
+  <Translation Id="removed_from_shop" Value="You have removed the {0} from the shop." />
+  <Translation Id="not_in_shop_to_remove" Value="{0} wasn't in the shop, so couldn't be removed." />
+  <Translation Id="not_in_shop_to_set_buyback" Value="{0} isn't in the shop so can't set a buyback price." />
+  <Translation Id="set_buyback_price" Value="You set the buyback price for {0} to {1} in the shop." />
+  <Translation Id="invalid_shop_command" Value="You entered an invalid shop command." />
+</Translations>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="pay_time_msg" Value="Has recibido un pago de {0} {1} por ser un  {2}." />
+  <Translation Id="unable_to_pay_group_msg" Value="Unable to pay {0} as no {1} group salary set." />
+  <Translation Id="to_killer_msg" Value="Has recibido {0} {1} por matar a {2}." />
+  <Translation Id="lose_suicide_msg" Value="Has perdido {0} {1} por haberte suicidado." />
+  <Translation Id="new_balance_msg" Value="Tu dinero actual es: {0} {1}." />
+  <Translation Id="lose_money_on_death_msg" Value="Has perdido {0} {1} por haber sido asesinado." />
+  <Translation Id="apay_msg" Value="Has pagado a {0} {1} {2}." />
+  <Translation Id="apaid_msg" Value="{0} te ha dado {1} {2}. Tu dinero actual es: {3} {4}." />
+  <Translation Id="experience_exchange_not_available" Value="I'm sorry, experience buyexp is not available.  Ask your admin to enable it." />
+  <Translation Id="money_exchange_not_available" Value="I'm sorry, money buyexp is not available.  Ask your admin to enable it." />
+  <Translation Id="exchange_zero_amount_error" Value="You have to enter an amount of experience/money to buyexp." />
+  <Translation Id="exchange_insufficient_experience" Value="No tienes {0} puntos de experiencia." />
+  <Translation Id="exchange_insufficent_money" Value="No tienes {0} {1}." />
+  <Translation Id="apay_usage_msg" Value="Usage: /apay &lt;player name or id&gt; &lt;amt&gt;" />
+  <Translation Id="exchange_usage_msg" Value="Comando: /buyexp &lt;cantidad&gt;[dinero]" />
+  <Translation Id="not_valid_player_msg" Value="{0} no es un nombre o id valida." />
+  <Translation Id="not_valid_amount" Value="{0} no es una cantidad valida." />
+  <Translation Id="zombie_kill_paid_msg" Value="Has recibido {0} {1} por matar a un zombie.  Tu dinero actual es: {2} {3}." />
+  <Translation Id="mega_zombie_kill_paid_msg" Value="Has recibido {0} {1} por matar a un mega zombie!!  Tu dinero actual es: {2} {3}." />
+</Translations>

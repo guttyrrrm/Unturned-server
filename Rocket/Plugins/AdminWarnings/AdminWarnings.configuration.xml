@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WarningsConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enabled>false</Enabled>
+  <AnnouceWarningKicksAndBansServerWide>true</AnnouceWarningKicksAndBansServerWide>
+  <AnnouceWarningsServerWide>false</AnnouceWarningsServerWide>
+  <MessageColor>Green</MessageColor>
+  <DaysWarningsExpire>7</DaysWarningsExpire>
+  <WarningPoints>
+    <WarningPoint>
+      <WarningsToTrigger>3</WarningsToTrigger>
+      <KickPlayer>true</KickPlayer>
+      <BanPlayer>false</BanPlayer>
+      <BanLengthSeconds>0</BanLengthSeconds>
+      <ConsoleCommand />
+    </WarningPoint>
+    <WarningPoint>
+      <WarningsToTrigger>4</WarningsToTrigger>
+      <KickPlayer>false</KickPlayer>
+      <BanPlayer>true</BanPlayer>
+      <BanLengthSeconds>600</BanLengthSeconds>
+      <ConsoleCommand />
+    </WarningPoint>
+    <WarningPoint>
+      <WarningsToTrigger>5</WarningsToTrigger>
+      <KickPlayer>false</KickPlayer>
+      <BanPlayer>true</BanPlayer>
+      <BanLengthSeconds>1800</BanLengthSeconds>
+      <ConsoleCommand />
+    </WarningPoint>
+    <WarningPoint>
+      <WarningsToTrigger>6</WarningsToTrigger>
+      <KickPlayer>false</KickPlayer>
+      <BanPlayer>true</BanPlayer>
+      <BanLengthSeconds>86400</BanLengthSeconds>
+      <ConsoleCommand />
+    </WarningPoint>
+    <WarningPoint>
+      <WarningsToTrigger>7</WarningsToTrigger>
+      <KickPlayer>false</KickPlayer>
+      <BanPlayer>true</BanPlayer>
+      <BanLengthSeconds>432000</BanLengthSeconds>
+      <ConsoleCommand />
+    </WarningPoint>
+  </WarningPoints>
+  <PlayerWarnings>
+    <PlayerWarning CSteamID="76561198021210177" Warnings="1" DateAdded="2018-01-31T01:34:55.0525996-03:00" />
+  </PlayerWarnings>
+</WarningsConfig>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="no_apikeys_message" Value="No apikeys supplied." />
+  <Translation Id="api_unknown_message" Value="The API for {0} is unknown" />
+  <Translation Id="api_down_message" Value="Can't reach {0}, is it down?!" />
+  <Translation Id="not_yet_voted" Value="Aun no has votado por este servidor en: {0}" />
+  <Translation Id="no_rewards_found" Value="Error al encontrar las recompensas" />
+  <Translation Id="vote_give_error_message" Value="Error al dar item a {0} ({1},{2})" />
+  <Translation Id="vote_success_message" Value="{0} ha votado en {1} y ha recibido el pack &quot;{2}&quot; !" />
+  <Translation Id="vote_pending_message" Value="Te espera una gran recompensa por haber votado en {0}. Reclamala con /reward " />
+  <Translation Id="vote_due_message" Value="Ya has votado por este servidor en {0}, Muchas gracias!" />
+</Translations>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="connect_message" Value="{0} se conecto al server" />
+  <Translation Id="disconnect_message" Value="{0} se desconecto del server" />
+  <Translation Id="connect_group_message" Value="{0}{1} se conecto al server." />
+  <Translation Id="disconnect_group_message" Value="{0}{1} se desconecto del server." />
+  <Translation Id="connect_message_extended" Value="{0} [{1}] ({2}) connected to the server." />
+  <Translation Id="disconnect_message_extended" Value="{0} [{1}] ({2}) disconnected from the server." />
+  <Translation Id="connect_group_message_extended" Value="{0}{1} [{2}] ({3}) connected to the server." />
+  <Translation Id="disconnect_group_message_extended" Value="{0}{1} [{2}] ({3}) disconnected to the server." />
+</Translations>

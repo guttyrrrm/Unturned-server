@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KitsConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kits>
+    <Kit>
+      <Name>PVP</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="201" amount="1" />
+        <Item id="179" amount="1" />
+        <Item id="103" amount="3" />
+        <Item id="394" amount="1" />
+        <Item id="183" amount="1" />
+        <Item id="2" amount="1" />
+        <Item id="101" amount="1" />
+      </Items>
+      <Cooldown>600</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>PVE</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="201" amount="1" />
+        <Item id="179" amount="1" />
+        <Item id="2" amount="1" />
+        <Item id="394" amount="1" />
+        <Item id="356" amount="1" />
+        <Item id="347" amount="6" />
+      </Items>
+      <Cooldown>600</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Mafia</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="209" amount="1" />
+        <Item id="247" amount="1" />
+        <Item id="182" amount="1" />
+        <Item id="107" amount="1" />
+        <Item id="108" amount="2" />
+        <Item id="424" amount="1" />
+        <Item id="18" amount="1" />
+        <Item id="20" amount="2" />
+        <Item id="296" amount="1" />
+        <Item id="395" amount="2" />
+        <Item id="334" amount="1" />
+        <Item id="185" amount="1" />
+        <Item id="1013" amount="1" />
+      </Items>
+      <Cooldown>1</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>VIP</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle>82</Vehicle>
+      <Items>
+        <Item id="18" amount="1" />
+        <Item id="20" amount="5" />
+        <Item id="296" amount="1" />
+        <Item id="8" amount="1" />
+        <Item id="253" amount="1" />
+        <Item id="81" amount="3" />
+        <Item id="15" amount="1" />
+        <Item id="394" amount="2" />
+        <Item id="295" amount="1" />
+        <Item id="334" amount="1" />
+        <Item id="425" amount="1" />
+        <Item id="181" amount="1" />
+        <Item id="209" amount="1" />
+        <Item id="488" amount="1" />
+        <Item id="489" amount="5" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>VIP2</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle>83</Vehicle>
+      <Items>
+        <Item id="1000" amount="1" />
+        <Item id="1005" amount="5" />
+        <Item id="148" amount="1" />
+        <Item id="8" amount="1" />
+        <Item id="253" amount="1" />
+        <Item id="81" amount="3" />
+        <Item id="15" amount="1" />
+        <Item id="394" amount="2" />
+        <Item id="295" amount="1" />
+        <Item id="1044" amount="1" />
+        <Item id="425" amount="1" />
+        <Item id="181" amount="1" />
+        <Item id="209" amount="1" />
+        <Item id="99" amount="1" />
+        <Item id="100" amount="5" />
+        <Item id="7" amount="1" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Policia</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="107" amount="1" />
+        <Item id="10" amount="1" />
+        <Item id="223" amount="1" />
+        <Item id="224" amount="1" />
+        <Item id="225" amount="1" />
+        <Item id="108" amount="5" />
+        <Item id="81" amount="1" />
+        <Item id="1023" amount="1" />
+        <Item id="276" amount="1" />
+      </Items>
+      <Cooldown>500</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Bruteforce</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="380" amount="1" />
+        <Item id="381" amount="5" />
+        <Item id="305" amount="1" />
+        <Item id="306" amount="1" />
+        <Item id="313" amount="1" />
+        <Item id="81" amount="1" />
+      </Items>
+      <Cooldown>600</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Colacion</Name>
+      <XP xsi:nil="true" />
+      <Money>-500</Money>
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="13" amount="1" />
+        <Item id="82" amount="1" />
+        <Item id="472" amount="1" />
+        <Item id="465" amount="1" />
+      </Items>
+      <Cooldown>170</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>SS</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="235" amount="1" />
+        <Item id="236" amount="1" />
+        <Item id="237" amount="1" />
+        <Item id="238" amount="1" />
+        <Item id="357" amount="1" />
+        <Item id="1209" amount="20" />
+        <Item id="1184" amount="1" />
+        <Item id="1201" amount="1" />
+        <Item id="99" amount="1" />
+        <Item id="7" amount="1" />
+        <Item id="1006" amount="2" />
+      </Items>
+      <Cooldown>0</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>8765</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="8763" amount="1" />
+        <Item id="8758" amount="15" />
+        <Item id="297" amount="1" />
+        <Item id="8757" amount="1" />
+        <Item id="107" amount="1" />
+        <Item id="67" amount="15" />
+        <Item id="8765" amount="15" />
+        <Item id="8" amount="1" />
+        <Item id="21" amount="1" />
+        <Item id="1176" amount="1" />
+        <Item id="76" amount="1" />
+        <Item id="151" amount="1" />
+      </Items>
+      <Cooldown>0</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Franco1</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="237" amount="1" />
+        <Item id="235" amount="1" />
+        <Item id="236" amount="1" />
+        <Item id="238" amount="1" />
+        <Item id="253" amount="1" />
+        <Item id="1044" amount="1" />
+        <Item id="394" amount="6" />
+        <Item id="81" amount="4" />
+        <Item id="290" amount="1" />
+        <Item id="1000" amount="1" />
+        <Item id="1005" amount="3" />
+        <Item id="1193" amount="3" />
+        <Item id="21" amount="1" />
+        <Item id="99" amount="1" />
+        <Item id="1006" amount="2" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Franco2</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="237" amount="1" />
+        <Item id="235" amount="1" />
+        <Item id="236" amount="1" />
+        <Item id="238" amount="1" />
+        <Item id="253" amount="1" />
+        <Item id="1044" amount="1" />
+        <Item id="394" amount="6" />
+        <Item id="81" amount="4" />
+        <Item id="290" amount="1" />
+        <Item id="297" amount="1" />
+        <Item id="298" amount="6" />
+        <Item id="1192" amount="3" />
+        <Item id="296" amount="1" />
+        <Item id="99" amount="1" />
+        <Item id="1006" amount="2" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Terro1</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="1156" amount="1" />
+        <Item id="1157" amount="1" />
+        <Item id="1010" amount="1" />
+        <Item id="185" amount="1" />
+        <Item id="1013" amount="1" />
+        <Item id="253" amount="1" />
+        <Item id="334" amount="1" />
+        <Item id="81" amount="2" />
+        <Item id="15" amount="1" />
+        <Item id="394" amount="4" />
+        <Item id="293" amount="1" />
+        <Item id="122" amount="1" />
+        <Item id="145" amount="1" />
+        <Item id="151" amount="1" />
+        <Item id="123" amount="5" />
+        <Item id="119" amount="3" />
+        <Item id="1039" amount="1" />
+        <Item id="1040" amount="5" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Terro2</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="1156" amount="1" />
+        <Item id="1157" amount="1" />
+        <Item id="1010" amount="1" />
+        <Item id="185" amount="1" />
+        <Item id="1013" amount="1" />
+        <Item id="253" amount="1" />
+        <Item id="334" amount="1" />
+        <Item id="81" amount="2" />
+        <Item id="15" amount="1" />
+        <Item id="394" amount="4" />
+        <Item id="293" amount="1" />
+        <Item id="129" amount="1" />
+        <Item id="22" amount="1" />
+        <Item id="8" amount="1" />
+        <Item id="151" amount="1" />
+        <Item id="130" amount="7" />
+        <Item id="119" amount="2" />
+        <Item id="1041" amount="1" />
+        <Item id="1042" amount="2" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Mili1</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="253" amount="1" />
+        <Item id="307" amount="1" />
+        <Item id="308" amount="1" />
+        <Item id="309" amount="1" />
+        <Item id="310" amount="1" />
+        <Item id="334" amount="1" />
+        <Item id="15" amount="1" />
+        <Item id="81" amount="2" />
+        <Item id="394" amount="4" />
+        <Item id="363" amount="1" />
+        <Item id="289" amount="1" />
+        <Item id="22" amount="1" />
+        <Item id="8" amount="1" />
+        <Item id="151" amount="1" />
+        <Item id="6" amount="5" />
+        <Item id="43" amount="3" />
+        <Item id="1021" amount="1" />
+        <Item id="1022" amount="4" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Mili2</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="253" amount="1" />
+        <Item id="307" amount="1" />
+        <Item id="308" amount="1" />
+        <Item id="309" amount="1" />
+        <Item id="310" amount="1" />
+        <Item id="334" amount="1" />
+        <Item id="15" amount="1" />
+        <Item id="81" amount="2" />
+        <Item id="394" amount="4" />
+        <Item id="1018" amount="1" />
+        <Item id="289" amount="1" />
+        <Item id="22" amount="1" />
+        <Item id="8" amount="1" />
+        <Item id="151" amount="1" />
+        <Item id="1020" amount="6" />
+        <Item id="43" amount="2" />
+        <Item id="116" amount="1" />
+        <Item id="6" amount="2" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Anti1</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="1170" amount="1" />
+        <Item id="1169" amount="1" />
+        <Item id="1172" amount="1" />
+        <Item id="1171" amount="1" />
+        <Item id="434" amount="1" />
+        <Item id="1044" amount="1" />
+        <Item id="15" amount="2" />
+        <Item id="394" amount="4" />
+        <Item id="81" amount="2" />
+        <Item id="288" amount="1" />
+        <Item id="1037" amount="1" />
+        <Item id="145" amount="1" />
+        <Item id="151" amount="1" />
+        <Item id="6" amount="5" />
+        <Item id="43" amount="4" />
+        <Item id="488" amount="1" />
+        <Item id="489" amount="5" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Anti2</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="1170" amount="1" />
+        <Item id="1169" amount="1" />
+        <Item id="1172" amount="1" />
+        <Item id="1171" amount="1" />
+        <Item id="434" amount="1" />
+        <Item id="1044" amount="1" />
+        <Item id="15" amount="2" />
+        <Item id="394" amount="4" />
+        <Item id="81" amount="2" />
+        <Item id="288" amount="1" />
+        <Item id="112" amount="1" />
+        <Item id="8" amount="1" />
+        <Item id="151" amount="2" />
+        <Item id="113" amount="6" />
+        <Item id="1024" amount="1" />
+        <Item id="1026" amount="4" />
+        <Item id="43" amount="3" />
+        <Item id="149" amount="1" />
+        <Item id="146" amount="1" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Inge1</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="407" amount="1" />
+        <Item id="209" amount="1" />
+        <Item id="240" amount="1" />
+        <Item id="253" amount="1" />
+        <Item id="1168" amount="1" />
+        <Item id="1199" amount="1" />
+        <Item id="403" amount="1" />
+        <Item id="295" amount="1" />
+        <Item id="369" amount="4" />
+        <Item id="373" amount="7" />
+        <Item id="374" amount="16" />
+        <Item id="371" amount="15" />
+        <Item id="372" amount="1" />
+        <Item id="370" amount="2" />
+        <Item id="375" amount="1" />
+        <Item id="286" amount="2" />
+        <Item id="328" amount="5" />
+        <Item id="1126" amount="1" />
+        <Item id="1158" amount="2" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Inge2</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="407" amount="1" />
+        <Item id="209" amount="1" />
+        <Item id="240" amount="1" />
+        <Item id="253" amount="1" />
+        <Item id="1168" amount="1" />
+        <Item id="1199" amount="1" />
+        <Item id="403" amount="1" />
+        <Item id="76" amount="1" />
+        <Item id="295" amount="1" />
+        <Item id="67" amount="50" />
+        <Item id="458" amount="1" />
+        <Item id="28" amount="1" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Caza1</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="162" amount="1" />
+        <Item id="209" amount="1" />
+        <Item id="310" amount="1" />
+        <Item id="253" amount="1" />
+        <Item id="436" amount="1" />
+        <Item id="187" amount="1" />
+        <Item id="15" amount="2" />
+        <Item id="81" amount="3" />
+        <Item id="357" amount="1" />
+        <Item id="291" amount="1" />
+        <Item id="21" amount="1" />
+        <Item id="1008" amount="1" />
+        <Item id="347" amount="14" />
+        <Item id="141" amount="1" />
+        <Item id="99" amount="1" />
+        <Item id="1006" amount="2" />
+        <Item id="7" amount="1" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Caza2</Name>
+      <XP xsi:nil="true" />
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="162" amount="1" />
+        <Item id="209" amount="1" />
+        <Item id="310" amount="1" />
+        <Item id="253" amount="1" />
+        <Item id="436" amount="1" />
+        <Item id="187" amount="1" />
+        <Item id="15" amount="2" />
+        <Item id="81" amount="3" />
+        <Item id="357" amount="1" />
+        <Item id="291" amount="1" />
+        <Item id="21" amount="1" />
+        <Item id="1008" amount="1" />
+        <Item id="347" amount="14" />
+        <Item id="141" amount="1" />
+        <Item id="1039" amount="1" />
+        <Item id="1040" amount="8" />
+        <Item id="144" amount="1" />
+      </Items>
+      <Cooldown>400</Cooldown>
+    </Kit>
+  </Kits>
+  <GlobalCooldown>0</GlobalCooldown>
+</KitsConfiguration>

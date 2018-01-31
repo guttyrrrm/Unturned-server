@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FeexRanksConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EnableLevelUpNotification>true</EnableLevelUpNotification>
+  <EnableLevelUpNotificationGlobal>true</EnableLevelUpNotificationGlobal>
+  <EnableRankNotificationOnJoin>true</EnableRankNotificationOnJoin>
+  <EnableRankNotificationOnJoinGlobal>true</EnableRankNotificationOnJoinGlobal>
+  <EnableRankNotificationOnLeaveGlobal>false</EnableRankNotificationOnLeaveGlobal>
+  <NotificationColor>Yellow</NotificationColor>
+  <NotificationColorGlobal>Green</NotificationColorGlobal>
+  <NotificationColorJoinLeaveGlobal>Green</NotificationColorJoinLeaveGlobal>
+  <FeexRanksDatabase>
+    <DatabaseAddress>localhost</DatabaseAddress>
+    <DatabaseUsername>root</DatabaseUsername>
+    <DatabasePassword>5505</DatabasePassword>
+    <DatabaseName>unturned</DatabaseName>
+    <DatabaseTableName>ranks</DatabaseTableName>
+    <DatabasePort>3306</DatabasePort>
+  </FeexRanksDatabase>
+  <Events>
+    <Event>
+      <EventName>KILLS_ZOMBIES_NORMAL</EventName>
+      <Notify>false</Notify>
+      <Points>1</Points>
+    </Event>
+    <Event>
+      <EventName>KILLS_ZOMBIES_MEGA</EventName>
+      <Notify>true</Notify>
+      <Points>60</Points>
+    </Event>
+    <Event>
+      <EventName>KILLS_PLAYERS</EventName>
+      <Notify>false</Notify>
+      <Points>5</Points>
+    </Event>
+    <Event>
+      <EventName>KILLS_ANIMALS</EventName>
+      <Notify>false</Notify>
+      <Points>3</Points>
+    </Event>
+  </Events>
+  <Level>
+    <Level>
+      <Points>0</Points>
+      <Name>Associato</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>10000</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>420</Points>
+      <Name>Soldato</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>80000</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>950</Points>
+      <Name>Avvocato</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>110000</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>1440</Points>
+      <Name>Caporégime</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>160000</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>2160</Points>
+      <Name>Capodecime</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>200000</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>3800</Points>
+      <Name>Consigliere</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>280000</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>5125</Points>
+      <Name>Sottocapo</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>311000</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>6670</Points>
+      <Name>Numerale</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>432000</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>7870</Points>
+      <Name>Cassetto</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>624000</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>9800</Points>
+      <Name>Don</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>825000</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>11400</Points>
+      <Name>Capo Di Tutti Capi</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>false</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>1000000</UconomyAmount>
+    </Level>
+  </Level>
+</FeexRanksConfiguration>

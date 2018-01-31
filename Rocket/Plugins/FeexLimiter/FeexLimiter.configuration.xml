@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FeexLimiterConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <accMinimumDays>0</accMinimumDays>
+  <accKickPrivateProfiles>false</accKickPrivateProfiles>
+  <accKickVACBannedAccounts>false</accKickVACBannedAccounts>
+  <accKickLimitedAccounts>false</accKickLimitedAccounts>
+  <accNonLimitedOverwrites>false</accNonLimitedOverwrites>
+  <accRejectionReason>AUTH_VERIFICATION</accRejectionReason>
+  <Whitelist />
+  <Timeout>3000</Timeout>
+  <KickOnTimeout>false</KickOnTimeout>
+  <Logging>false</Logging>
+</FeexLimiterConfiguration>

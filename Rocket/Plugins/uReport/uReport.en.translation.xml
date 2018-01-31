@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="command_generic_player_not_found" Value="Jugador no encontrado" />
+  <Translation Id="command_report_noinfo" Value="Formato invalido. Intenta /report nombre razón" />
+  <Translation Id="command_report_cooldown" Value="Espera {0} segundos antes de reportar denuevo" />
+  <Translation Id="command_report_reason" Value="Has reportado a {0} por: {1}" />
+  <Translation Id="command_report_noreason" Value="Por favor especifica una razón" />
+</Translations>

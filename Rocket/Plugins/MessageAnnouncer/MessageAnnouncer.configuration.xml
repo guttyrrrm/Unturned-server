@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MessageAnnouncerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Interval>100</Interval>
+  <Messages>
+    <Message Text="Se amable con quienes no tienen armas." Color="Yellow" />
+    <Message Text="RANGOS DISPONIBLES EN TS!! mafiainc.izi.cl" Color="Yellow" />
+    <Message Text="Bienvenido a Mafia Inc. Disfruta tu estadia♥" Color="Yellow" />
+    <Message Text="Puedes ver la IP de nuestro servidor de ts3 con el comando /ts" Color="Yellow" />
+    <Message Text="Los kits disponibles son: Pve, Pvp, Colacion y Sniper" Color="Yellow" />
+    <Message Text="Staff: Elprah, Erre" Color="Yellow" />
+    <Message Text="Escribe /list para ver el top 3 de los mejores jugadores" Color="Yellow" />
+    <Message Text="Escribe /rank para ver la posicion que ocupas en el server" Color="Yellow" />
+    <Message Text="Recuerda votar por el servidor! mas info escribe /voti" Color="Yellow" />
+    <Message Text="Los kits disponibles son: Pve, Pvp, Colacion y Sniper" Color="Yellow" />
+    <Message Text="Se amable con quienes no tienen armas." Color="Yellow" />
+    <Message Text="Echale un vistazo a nuestra pagina ! lamafiaunturned.tk" Color="Yellow" />
+    <Message Text="VIP DISPONIBLE: KITS EXTRA, NOMBRE EN COLOR, CD REDUCIDO Y MAS!" Color="Yellow" />
+    <Message Text="Si tienes alguna duda consulta en el grupo de steam: lamafiaunturned" Color="Yellow" />
+    <Message Text="Sospechas de algun hacker? Envia un pm al staff con el comando /pm 'user' 'msje'" Color="Yellow" />
+    <Message Text="Se amable con quienes no tienen armas." Color="Yellow" />
+    <Message Text="Los kits disponibles son: Pve, Pvp, Colacion y Sniper" Color="Yellow" />
+    <Message Text="Puedes ver la IP de nuestro servidor de ts3 con el comando /ts" Color="Yellow" />
+    <Message Text="RANGOS DISPONIBLES EN TS!! mafiainc.izi.cl" Color="Yellow" />
+    <Message Text="Aun no has votado? Hazlo ya en https://unturned-servers.net/server/79184 !" Color="Yellow" />
+    <Message Text="Agrega nuestros servidores a favoritos y conviertete en miembro frecuente" Color="Yellow" />
+    <Message Text="Vip disponible! mas info pregunta al staff (solo chile)" Color="Yellow" />
+    <Message Text="Escribe /reglas para ver las reglas del servidor" Color="Yellow" />
+    <Message Text="Los kits disponibles son: Pve, Pvp, Colacion y Sniper" Color="Yellow" />
+    <Message Text="Recuerda votar por el servidor! mas info escribe /voti" Color="Yellow" />
+    <Message Text="Se amable con quienes no tienen armas." Color="Yellow" />
+    <Message Text="Shop disponible! Comandos: /buy ID - /sell ID - /balance -Para vehiculos: /buy v.ID" Color="Yellow" />
+    <Message Text="Tambien puedes comprar experiencia! $10 = 1 exp (ej: /buyexp 1500 1=150) " Color="Yellow" />
+    <Message Text="Si te suicidas pierdes $4000 - Si matas a alguien ganas $1100" Color="Yellow" />
+    <Message Text="Echale un vistazo a nuestra pagina ! lamafiaunturned.tk" Color="Yellow" />
+    <Message Text="Se amable con quienes no tienen armas." Color="Yellow" />
+    <Message Text="Los kits disponibles son: Pve, Pvp, Colacion y Sniper" Color="Yellow" />
+    <Message Text="Mensajeria privada! /pm 'nombre' 'msje' - /r 'msje' para responder" Color="Yellow" />
+    <Message Text="10 KITS VIP NUEVOS !! + Info en el grupo de Steam: La Mafia Unturned" Color="Yellow" />
+    <Message Text="Una vez que hayas votado en unturned-servers reclama tu premio con /reward !" Color="Yellow" />
+    <Message Text="Quieres una casa inrraideable? Puedes arrendar una mensual por solo $3500 !" Color="Yellow" />
+    <Message Text="Echale un vistazo a nuestra pagina !  lamafiaunturned.tk" Color="Yellow" />
+    <Message Text="RANGOS DISPONIBLES EN TS!! mafiainc.izi.cl" Color="Yellow" />
+    <Message Text="Los kits disponibles son: Pve, Pvp, Colacion y Sniper" Color="Yellow" />
+    <Message Text="Puedes ver la IP de nuestro servidor de ts3 con el comando /ts" Color="Yellow" />
+    <Message Text="Echale un vistazo a nuestra pagina ! lamafiaunturned.tk" Color="Yellow" />
+  </Messages>
+  <TextCommands>
+    <TextCommand>
+      <Name>Reglas</Name>
+      <Help>Muestra las reglas del servidor</Help>
+      <Text>
+        <Line>#1 PROHIBIDO USAR HACKS, BAN PERMANENTE SIN EXCEPCIONES, NO EXPLOTAR BUGS</Line>
+        <Line>#2 Respeta a los users y usa un vocabulario moderado</Line>
+        <Line>#3 No pidas items, teleports, respawn, loot ni team al staff</Line>
+        <Line>#4 No bloquear las estructuras del juego (casas faro cuevas etc) ni hacer casas flotantes</Line>
+      </Text>
+    </TextCommand>
+  </TextCommands>
+</MessageAnnouncerConfiguration>

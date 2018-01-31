@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="hitman_general_chat_created" Value="SE HA PUESTO UNA RECOMPENSA AL MATAR A: {0} ({1} $)" />
+  <Translation Id="hitman_general_chat_increased" Value="RECOMPENSA AUMENTADA A {1} $: {0} ({2} $)" />
+  <Translation Id="hitman_general_chat_received" Value="{0} MATÓ A {1} Y RECIBIO UNA RECOMPENSA DE {2} $ ({3} %)." />
+  <Translation Id="hitman_general_not_found" Value="Jugador no encontrado." />
+  <Translation Id="hitman_general_invalid_parameter" Value="Parametro invalido." />
+  <Translation Id="hitman_add_self" Value="No puedes ponerte una recompensa a ti mismo." />
+  <Translation Id="hitman_add_amount" Value="Cantidad invalida." />
+  <Translation Id="hitman_add_balance" Value="No tienes dinero suficiente para poner una recompensa." />
+  <Translation Id="hitman_add_minimum" Value="La recompensa debe ser de al menos {0} $." />
+  <Translation Id="hitman_payout" Value="UNA RECOMPENSA DE {0} SE TE HA SIDO PAGADA. ({1} $)." />
+  <Translation Id="hitman_check_true" Value="{0} tiene una recompensa de {1} $." />
+  <Translation Id="hitman_check_false" Value="{0} no tiene recompensa." />
+  <Translation Id="hitman_list_true" Value="{0} jugador/es en la lista: {1}" />
+  <Translation Id="hitman_list_false" Value="La lista está vacía." />
+</Translations>

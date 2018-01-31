@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FeexHitmanConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FeexHitmanDatabase>
+    <DatabaseAddress>localhost</DatabaseAddress>
+    <DatabaseUsername>root</DatabaseUsername>
+    <DatabasePassword>5505</DatabasePassword>
+    <DatabaseName>unturned</DatabaseName>
+    <DatabaseTableName>hitman</DatabaseTableName>
+    <DatabasePort>3306</DatabasePort>
+  </FeexHitmanDatabase>
+  <MinimumBounty>100</MinimumBounty>
+  <CommandListMaximum>20</CommandListMaximum>
+</FeexHitmanConfiguration>

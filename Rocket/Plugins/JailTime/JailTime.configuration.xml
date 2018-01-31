@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JailTimeConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BanOnReconnect>false</BanOnReconnect>
+  <BanOnReconnectTime>0</BanOnReconnectTime>
+  <JailTimeInSeconds>30</JailTimeInSeconds>
+  <KillInsteadOfTeleport>false</KillInsteadOfTeleport>
+  <WalkDistance>5</WalkDistance>
+  <Enabled>true</Enabled>
+  <GracePeriod>4</GracePeriod>
+  <StripInventory>false</StripInventory>
+  <GiveClothes>false</GiveClothes>
+  <ReleasePlayerOnUnload>true</ReleasePlayerOnUnload>
+  <tutorial>Default cell is for map WASHINGTON, on top of the Seattle tower.</tutorial>
+  <tutorial2>DO NOT USE -Tower- if not using Washington map</tutorial2>
+  <tutorial3>Player maybe in a place unknown.</tutorial3>
+  <tutorial4>-Tower- is safe to remove after establishing a known cell.</tutorial4>
+  <Cells>
+    <Cell name="2" x="-187.877197265625" y="499.03021240234375" z="246.34295654296875" />
+    <Cell name="3" x="-193.22412109375" y="499.03021240234375" z="245.41433715820313" />
+    <Cell name="4" x="-195.54046630859375" y="499.03021240234375" z="257.69854736328125" />
+    <Cell name="5" x="-200.91609191894531" y="499.03024291992188" z="244.21865844726563" />
+    <Cell name="6" x="-201.28657531738281" y="499.03024291992188" z="254.83305358886719" />
+  </Cells>
+</JailTimeConfiguration>

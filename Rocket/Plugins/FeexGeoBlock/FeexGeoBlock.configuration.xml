@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FeexGeoBlockConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RejectionReason>WHITELISTED</RejectionReason>
+  <DatabasePath>.\Libraries\GeoIP.dat</DatabasePath>
+  <Logging>true</Logging>
+  <Bypass>
+    <SteamID />
+  </Bypass>
+  <EnableWhitelist>true</EnableWhitelist>
+  <EnableBlacklist>false</EnableBlacklist>
+  <Whitelist>
+    <CountryCode>CL</CountryCode>
+    <CountryCode>AR</CountryCode>
+    <CountryCode>--</CountryCode>
+    <CountryCode>PE</CountryCode>
+  </Whitelist>
+  <Blacklist />
+</FeexGeoBlockConfiguration>

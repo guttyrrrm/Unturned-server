@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="warp_help" Value="&lt;&quot;warpname&quot;&gt; [&quot;playername&quot;] - Goes to a warp point on the server." />
+  <Translation Id="setwarp_help" Value="&lt;&quot;warpname&quot;&gt; - Sets a warp on the server at player location." />
+  <Translation Id="delwarp_help" Value="&lt;&quot;warpname&quot;&gt; - Deletes a warp on the server." />
+  <Translation Id="delwarpall_help" Value="&lt;&quot;Map name&quot;&gt; - Deletes all warps from a specific map." />
+  <Translation Id="warps_help" Value="[&quot;warpname&quot;] - Gets a list of warps that have been set to the server." />
+  <Translation Id="admin_warp" Value="You have teleported player: {0}, to warp: {1}." />
+  <Translation Id="admin_warp_log" Value="Admin: {0}({1}), has teleported player: {2}, to warp: {3}" />
+  <Translation Id="player_warp" Value="You have been teleported to warp: {0}." />
+  <Translation Id="warp_wait" Value="You'll be warped to {0}, in {1} seconds." />
+  <Translation Id="warp_wait_nomovement" Value="You'll be warped to {0}, in {1} seconds, please don't move." />
+  <Translation Id="warp_fail_player_moved" Value="Warp to {0} failed because you moved." />
+  <Translation Id="warp_fail_player_died" Value="Warp to {0} failed because you died." />
+  <Translation Id="warp_cant_find_player" Value="Error: Cant find the player to warp." />
+  <Translation Id="warp_cant_find_warp" Value="Error: A warp by the name of {0}, wasn't found." />
+  <Translation Id="warp_cant_warp_in_car" Value="Error: Can't warp, player is in a car." />
+  <Translation Id="warp_other_not_allowed" Value="Error: Warping other players not allowed." />
+  <Translation Id="warp_console_no_player" Value="Error: Can't use warp command without a player from the console." />
+  <Translation Id="setwarp_set" Value="Warp has been set." />
+  <Translation Id="setwarp_not_set" Value="Error: Wasn't able to set warp." />
+  <Translation Id="delwarp_removed" Value="Warp has been removed." />
+  <Translation Id="delwarp_not_found" Value="Error: A warp by that name doesn't exist." />
+  <Translation Id="delwarpall_removed" Value="{0} warps with this map name have been removed." />
+  <Translation Id="warps_none_found" Value="Error: Sorry, there were no records found." />
+  <Translation Id="warps_list_header" Value="List of warps, There are {0} warps set." />
+  <Translation Id="warps_list" Value="Warps: {0}." />
+  <Translation Id="insufficient_funds" Value="Error: You don't have enough {0}s to use this command." />
+  <Translation Id="charge_success" Value="You have been charged {0} {1}, your balance is now {2} {3}." />
+</Translations>

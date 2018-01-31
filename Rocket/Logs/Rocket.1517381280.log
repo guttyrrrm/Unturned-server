@@ -1,0 +1,765 @@
+[1/31/2018 3:32:39 AM] [Info] [registered] /admins (Rocket.Unturned.Commands.UnturnedCommands/admins)
+[1/31/2018 3:32:39 AM] [Info] [registered] /airdrop (Rocket.Unturned.Commands.UnturnedCommands/airdrop)
+[1/31/2018 3:32:39 AM] [Info] [registered] /animal (Rocket.Unturned.Commands.UnturnedCommands/animal)
+[1/31/2018 3:32:39 AM] [Info] [registered] /bans (Rocket.Unturned.Commands.UnturnedCommands/bans)
+[1/31/2018 3:32:39 AM] [Info] [registered] /bind (Rocket.Unturned.Commands.UnturnedCommands/bind)
+[1/31/2018 3:32:39 AM] [Info] [registered] /chatrate (Rocket.Unturned.Commands.UnturnedCommands/chatrate)
+[1/31/2018 3:32:39 AM] [Info] [registered] /cheats (Rocket.Unturned.Commands.UnturnedCommands/cheats)
+[1/31/2018 3:32:39 AM] [Info] [registered] /cycle (Rocket.Unturned.Commands.UnturnedCommands/cycle)
+[1/31/2018 3:32:39 AM] [Info] [registered] /day (Rocket.Unturned.Commands.UnturnedCommands/day)
+[1/31/2018 3:32:39 AM] [Info] [registered] /debug (Rocket.Unturned.Commands.UnturnedCommands/debug)
+[1/31/2018 3:32:39 AM] [Info] [registered] /experience (Rocket.Unturned.Commands.UnturnedCommands/experience)
+[1/31/2018 3:32:39 AM] [Info] [registered] /filter (Rocket.Unturned.Commands.UnturnedCommands/filter)
+[1/31/2018 3:32:39 AM] [Info] [registered] /flag (Rocket.Unturned.Commands.UnturnedCommands/flag)
+[1/31/2018 3:32:39 AM] [Info] [registered] /gamemode (Rocket.Unturned.Commands.UnturnedCommands/gamemode)
+[1/31/2018 3:32:39 AM] [Info] [registered] /give (Rocket.Unturned.Commands.UnturnedCommands/give)
+[1/31/2018 3:32:39 AM] [Info] [registered] /gold (Rocket.Unturned.Commands.UnturnedCommands/gold)
+[1/31/2018 3:32:39 AM] [Info] [registered] /hide_admins (Rocket.Unturned.Commands.UnturnedCommands/hide_admins)
+[1/31/2018 3:32:39 AM] [Info] [registered] /kill (Rocket.Unturned.Commands.UnturnedCommands/kill)
+[1/31/2018 3:32:39 AM] [Info] [registered] /loadout (Rocket.Unturned.Commands.UnturnedCommands/loadout)
+[1/31/2018 3:32:39 AM] [Info] [registered] /log (Rocket.Unturned.Commands.UnturnedCommands/log)
+[1/31/2018 3:32:39 AM] [Info] [registered] /map (Rocket.Unturned.Commands.UnturnedCommands/map)
+[1/31/2018 3:32:39 AM] [Info] [registered] /maxplayers (Rocket.Unturned.Commands.UnturnedCommands/maxplayers)
+[1/31/2018 3:32:39 AM] [Info] [registered] /mode (Rocket.Unturned.Commands.UnturnedCommands/mode)
+[1/31/2018 3:32:39 AM] [Info] [registered] /modules (Rocket.Unturned.Commands.UnturnedCommands/modules)
+[1/31/2018 3:32:39 AM] [Info] [registered] /name (Rocket.Unturned.Commands.UnturnedCommands/name)
+[1/31/2018 3:32:39 AM] [Info] [registered] /night (Rocket.Unturned.Commands.UnturnedCommands/night)
+[1/31/2018 3:32:39 AM] [Info] [registered] /owner (Rocket.Unturned.Commands.UnturnedCommands/owner)
+[1/31/2018 3:32:39 AM] [Info] [registered] /password (Rocket.Unturned.Commands.UnturnedCommands/password)
+[1/31/2018 3:32:39 AM] [Info] [registered] /permit (Rocket.Unturned.Commands.UnturnedCommands/permit)
+[1/31/2018 3:32:39 AM] [Info] [registered] /permits (Rocket.Unturned.Commands.UnturnedCommands/permits)
+[1/31/2018 3:32:39 AM] [Info] [registered] /perspective (Rocket.Unturned.Commands.UnturnedCommands/perspective)
+[1/31/2018 3:32:39 AM] [Info] [registered] /players (Rocket.Unturned.Commands.UnturnedCommands/players)
+[1/31/2018 3:32:39 AM] [Info] [registered] /port (Rocket.Unturned.Commands.UnturnedCommands/port)
+[1/31/2018 3:32:39 AM] [Info] [registered] /pve (Rocket.Unturned.Commands.UnturnedCommands/pve)
+[1/31/2018 3:32:39 AM] [Info] [registered] /quest (Rocket.Unturned.Commands.UnturnedCommands/quest)
+[1/31/2018 3:32:39 AM] [Info] [registered] /queue_size (Rocket.Unturned.Commands.UnturnedCommands/queue_size)
+[1/31/2018 3:32:39 AM] [Info] [registered] /reputation (Rocket.Unturned.Commands.UnturnedCommands/reputation)
+[1/31/2018 3:32:39 AM] [Info] [registered] /resetconfig (Rocket.Unturned.Commands.UnturnedCommands/resetconfig)
+[1/31/2018 3:32:39 AM] [Info] [registered] /save (Rocket.Unturned.Commands.UnturnedCommands/save)
+[1/31/2018 3:32:39 AM] [Info] [registered] /say (Rocket.Unturned.Commands.UnturnedCommands/say)
+[1/31/2018 3:32:39 AM] [Info] [registered] /shutdown (Rocket.Unturned.Commands.UnturnedCommands/shutdown)
+[1/31/2018 3:32:39 AM] [Info] [registered] /spy (Rocket.Unturned.Commands.UnturnedCommands/spy)
+[1/31/2018 3:32:39 AM] [Info] [registered] /sync (Rocket.Unturned.Commands.UnturnedCommands/sync)
+[1/31/2018 3:32:39 AM] [Info] [registered] /teleport (Rocket.Unturned.Commands.UnturnedCommands/teleport)
+[1/31/2018 3:32:39 AM] [Info] [registered] /time (Rocket.Unturned.Commands.UnturnedCommands/time)
+[1/31/2018 3:32:39 AM] [Info] [registered] /timeout (Rocket.Unturned.Commands.UnturnedCommands/timeout)
+[1/31/2018 3:32:39 AM] [Info] [registered] /unpermit (Rocket.Unturned.Commands.UnturnedCommands/unpermit)
+[1/31/2018 3:32:39 AM] [Info] [registered] /vehicle (Rocket.Unturned.Commands.UnturnedCommands/vehicle)
+[1/31/2018 3:32:39 AM] [Info] [registered] /votify (Rocket.Unturned.Commands.UnturnedCommands/votify)
+[1/31/2018 3:32:39 AM] [Info] [registered] /weather (Rocket.Unturned.Commands.UnturnedCommands/weather)
+[1/31/2018 3:32:39 AM] [Info] [registered] /welcome (Rocket.Unturned.Commands.UnturnedCommands/welcome)
+[1/31/2018 3:32:39 AM] [Info] [registered] /whitelisted (Rocket.Unturned.Commands.UnturnedCommands/whitelisted)
+[1/31/2018 3:32:39 AM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[1/31/2018 3:32:39 AM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[1/31/2018 3:32:39 AM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[1/31/2018 3:32:39 AM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[1/31/2018 3:32:39 AM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[1/31/2018 3:32:39 AM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[1/31/2018 3:32:39 AM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[1/31/2018 3:32:39 AM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[1/31/2018 3:32:39 AM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[1/31/2018 3:32:39 AM] [Info] [registered] /tphome (Rocket.Unturned.Commands.CommandHome/home)
+[1/31/2018 3:32:39 AM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[1/31/2018 3:32:40 AM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[1/31/2018 3:32:40 AM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[1/31/2018 3:32:40 AM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[1/31/2018 3:32:40 AM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[1/31/2018 3:32:40 AM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[1/31/2018 3:32:40 AM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[1/31/2018 3:32:40 AM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[1/31/2018 3:32:40 AM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[1/31/2018 3:32:40 AM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[1/31/2018 3:32:41 AM] [Info] Loading AdminChat from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\AdminChat.dll
+[1/31/2018 3:32:41 AM] [Info] Loading AdminWarnings from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\AdminWarnings.dll
+[1/31/2018 3:32:41 AM] [Info] Loading DeathMessagesRemastered from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\DeathMessagesRemastered.dll
+[1/31/2018 3:32:41 AM] [Info] Loading FeexExp from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\FeexExp.dll
+[1/31/2018 3:32:41 AM] [Info] Loading FeexRanks from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\FeexRanks.dll
+[1/31/2018 3:32:41 AM] [Info] Loading JoinLeaveMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\JoinLeaveMessages.dll
+[1/31/2018 3:32:41 AM] [Info] Loading Kits from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\Kits.dll
+[1/31/2018 3:32:41 AM] [Info] Loading MessageAnnouncer from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\MessageAnnouncer.dll
+[1/31/2018 3:32:41 AM] [Info] Loading RocketMod_TPA from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\RocketMod_TPA.dll
+[1/31/2018 3:32:41 AM] [Info] Loading SimpleDeathMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SimpleDeathMessages.dll
+[1/31/2018 3:32:41 AM] [Info] Loading SmartSpawner from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SmartSpawner.dll
+[1/31/2018 3:32:41 AM] [Error] Could not find dependency: System.Runtime, Version=4.0.20.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[1/31/2018 3:32:41 AM] [Error] Invalid or outdated plugin assembly: Test
+[1/31/2018 3:32:41 AM] [Info] Loading ZaupClearInventoryLib from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupClearInventoryLib.dll
+[1/31/2018 3:32:41 AM] [Info] Loading ZaupFeast from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupFeast.dll
+[1/31/2018 3:32:41 AM] [Info] Loading ZaupHomeCommand from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupHomeCommand.dll
+[1/31/2018 3:32:41 AM] [Info] 
+[loading] AdminChat
+[1/31/2018 3:32:41 AM] [Info] [registered] /adminchat (AdminChat.CommandAdminChat/AdminChat)
+[1/31/2018 3:32:41 AM] [Info] [registered] /ac (AdminChat.CommandAdminChat/ac)
+[1/31/2018 3:32:41 AM] [Warning] AdminChat by Anomoly :)
+[1/31/2018 3:32:41 AM] [Warning] Current Version: 8
+[1/31/2018 3:32:41 AM] [Warning] Something wrong? Join my Discord for support discord.gg/4Fq2Spe
+[1/31/2018 3:32:41 AM] [Info] 
+[loading] AdminWarnings
+[1/31/2018 3:32:41 AM] [Info] [registered] /removewarn (AdminWarnings.CommandRemoveWarn/removewarn)
+[1/31/2018 3:32:41 AM] [Info] [registered] /warn (AdminWarnings.CommandWarn/warn)
+[1/31/2018 3:32:41 AM] [Info] [registered] /warnings (AdminWarnings.CommandWarnings/warnings)
+[1/31/2018 3:32:41 AM] [Info] [registered] /warns (AdminWarnings.CommandWarnings/warns)
+[1/31/2018 3:32:41 AM] [Info] [registered] /clearwarninglogs (AdminWarnings.Commands.CommandClearWarningLogs/clearwarninglogs)
+[1/31/2018 3:32:41 AM] [Info] AdminWarnings >> AdminWarnings has Loaded!
+[1/31/2018 3:32:41 AM] [Info] 
+[loading] DeathMessagesRemastered
+[1/31/2018 3:32:41 AM] [Info] DeathMessagesRemastered >> Death Messages Remastered has been loaded!
+[1/31/2018 3:32:41 AM] [Warning] --
+[1/31/2018 3:32:41 AM] [Warning] Suicide messages are enabled!
+[1/31/2018 3:32:41 AM] [Warning] Health warning messages are enabled!
+[1/31/2018 3:32:41 AM] [Warning] Uconomy is enabled!
+[1/31/2018 3:32:41 AM] [Warning] Experience is enabled!
+[1/31/2018 3:32:41 AM] [Warning] --
+[1/31/2018 3:32:41 AM] [Info] 
+[loading] FeexExp
+[1/31/2018 3:32:41 AM] [Info] [registered] /exp (Freenex.FeexExp.CommandExp/exp)
+[1/31/2018 3:32:41 AM] [Info] FeexExp >> Freenex's FeexExp has been loaded!
+[1/31/2018 3:32:41 AM] [Info] Adding UnturnedPlayerComponent: FeexExpPlayerComponent
+[1/31/2018 3:32:41 AM] [Info] 
+[loading] FeexRanks
+[1/31/2018 3:32:41 AM] [Info] [registered] /list (Freenex.FeexRanks.CommandList/list)
+[1/31/2018 3:32:41 AM] [Info] [registered] /points (Freenex.FeexRanks.CommandPoints/points)
+[1/31/2018 3:32:41 AM] [Info] [registered] /rank (Freenex.FeexRanks.CommandRank/rank)
+[1/31/2018 3:32:42 AM] [Info] FeexRanks >> Freenex's FeexRanks has been loaded!
+[1/31/2018 3:32:43 AM] [Info] 
+[loading] JoinLeaveMessages
+[1/31/2018 3:32:43 AM] [Info] 
+[loading] Kits
+[1/31/2018 3:32:43 AM] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[1/31/2018 3:32:43 AM] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[1/31/2018 3:32:43 AM] [Info] Kits >> Optional dependency Uconomy is not present.
+[1/31/2018 3:32:43 AM] [Info] 
+[loading] MessageAnnouncer
+[1/31/2018 3:32:43 AM] [Info] MessageAnnouncer >> Load
+[1/31/2018 3:32:43 AM] [Info] [registered] /reglas (fr34kyn01535.MessageAnnouncer.RocketTextCommand/Reglas)
+[1/31/2018 3:32:43 AM] [Info] [registered] /reglas (fr34kyn01535.MessageAnnouncer.RocketTextCommand/Reglas)
+[1/31/2018 3:32:43 AM] [Info] 
+[loading] RocketMod_TPA
+[1/31/2018 3:32:43 AM] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[1/31/2018 3:32:43 AM] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[1/31/2018 3:32:43 AM] [Warning] ...
+[1/31/2018 3:32:43 AM] [Warning] Current configuration:
+[1/31/2018 3:32:43 AM] [Warning] ...
+[1/31/2018 3:32:43 AM] [Warning] Cooldown TPA requests: enabled, Seconds: 20
+[1/31/2018 3:32:43 AM] [Warning] Delay teleporting: enabled, Seconds: 7
+[1/31/2018 3:32:43 AM] [Warning] Cancel teleport if bleeding: disabled
+[1/31/2018 3:32:43 AM] [Warning] NinjaTP: disabled, EffectID: 0
+[1/31/2018 3:32:43 AM] [Warning] [Delay] Cancel teleport if hurt: enabled
+[1/31/2018 3:32:43 AM] [Warning] ...
+[1/31/2018 3:32:43 AM] [Warning] Checking for problems:
+[1/31/2018 3:32:43 AM] [Warning] No errors have been found!
+[1/31/2018 3:32:43 AM] [Warning] ...
+[1/31/2018 3:32:43 AM] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[1/31/2018 3:32:43 AM] [Info] 
+[loading] SimpleDeathMessages
+[1/31/2018 3:32:43 AM] [Warning] [SimpleDeathMessages] Made by: Coolpuppy24
+[1/31/2018 3:32:43 AM] [Warning] ------------------------------------------------------
+[1/31/2018 3:32:43 AM] [Warning] [SimpleDeathMessages] Death Message Color: Red
+[1/31/2018 3:32:43 AM] [Warning] [SimpleDeathMessages] Show Suicide Messages: True
+[1/31/2018 3:32:43 AM] [Info] SimpleDeathMessages >> Successfully Loaded!
+[1/31/2018 3:32:43 AM] [Info] 
+[loading] SmartSpawner
+[1/31/2018 3:32:43 AM] [Info] [registered] /ss (SmartSpawner.SmartSpawner/ss)
+[1/31/2018 3:32:43 AM] [Info] 
+[loading] ZaupClearInventoryLib
+[1/31/2018 3:32:43 AM] [Info] [registered] /ci (ZaupClearInventoryLib.CommandCi/ci)
+[1/31/2018 3:32:43 AM] [Info] [registered] /clearinventory (ZaupClearInventoryLib.CommandCi/clearinventory)
+[1/31/2018 3:32:43 AM] [Info] [registered] /cleari (ZaupClearInventoryLib.CommandCi/cleari)
+[1/31/2018 3:32:43 AM] [Info] 
+[loading] ZaupFeast
+[1/31/2018 3:32:43 AM] [Info] [registered] /runfeast (ZaupFeast.CommandRunFeast/runfeast)
+[1/31/2018 3:32:43 AM] [Info] [registered] /frun (ZaupFeast.CommandRunFeast/frun)
+[1/31/2018 3:32:43 AM] [Info] 
+[loading] ZaupHomeCommand
+[1/31/2018 3:32:43 AM] [Info] [registered] /home (ZaupHomeCommand.CommandHome/home)
+[1/31/2018 3:32:43 AM] [Info] Adding UnturnedPlayerComponent: HomePlayer
+[1/31/2018 3:32:43 AM] [Info] This server will automatically save every 60 seconds
+[1/31/2018 3:32:43 AM] [Info] MessageAnnouncer >> Broadcast: Se amable con quienes no tienen armas.
+[1/31/2018 3:32:43 AM] [Info] MessageAnnouncer >> Se amable con quienes no tienen armas.
+[1/31/2018 3:32:43 AM] [Info] Steam servers ready!
+[1/31/2018 3:32:43 AM] [Info] Workshop install folder: C:\Unturned server\game/Servers/mafia/Workshop/Steam
+[1/31/2018 3:32:43 AM] [Info] Downloading 0 workshop items...
+[1/31/2018 3:32:43 AM] [Info] General: Survival
+[1/31/2018 3:32:44 AM] [Info] Loading level: 8%
+[1/31/2018 3:32:44 AM] [Info] ZaupFeast >> The next feast will be at Cape Rock at 1/31/2018 3:47:44 AM
+[1/31/2018 3:32:45 AM] [Info] Loading level: 16%
+[1/31/2018 3:32:45 AM] [Info] Loading level: 25%
+[1/31/2018 3:32:45 AM] [Info] Loading level: 33%
+[1/31/2018 3:32:45 AM] [Info] Loading level: 41%
+[1/31/2018 3:32:45 AM] [Info] Loading level: 50%
+[1/31/2018 3:32:45 AM] [Info] Loading level: 58%
+[1/31/2018 3:32:45 AM] [Info] Loading level: 66%
+[1/31/2018 3:32:45 AM] [Info] Loading level: 75%
+[1/31/2018 3:32:45 AM] [Info] Loading level: 83%
+[1/31/2018 3:32:45 AM] [Info] Loading level: 91%
+[1/31/2018 3:32:45 AM] [Info] Loading level: 100%
+[1/31/2018 3:33:29 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[1/31/2018 3:33:29 AM] [Info] Connecting: PlayerID: 76561198160890445 Name: ★MAFIA UNTURNED Character: Mafia.Erre
+[1/31/2018 3:33:29 AM] [Info] FeexRanks >> Broadcast: [Associato] Mafia.Erre (0 puntos, posicion 1) se ha conectado al server.
+[1/31/2018 3:33:38 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/test"
+[1/31/2018 3:33:43 AM] [Info] Saving server
+[1/31/2018 3:34:23 AM] [Info] MessageAnnouncer >> Broadcast: RANGOS DISPONIBLES EN TS!! mafiainc.izi.cl
+[1/31/2018 3:34:23 AM] [Info] MessageAnnouncer >> RANGOS DISPONIBLES EN TS!! mafiainc.izi.cl
+[1/31/2018 3:34:43 AM] [Info] Saving server
+[1/31/2018 3:35:08 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/i 8"
+[1/31/2018 3:35:08 AM] [Info] Dando a Mafia.Erre un/a 8:1
+[1/31/2018 3:35:22 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/i beacon 3"
+[1/31/2018 3:35:22 AM] [Info] Dando a Mafia.Erre un/a 1194:3
+[1/31/2018 3:35:43 AM] [Info] Saving server
+[1/31/2018 3:35:45 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/god"
+[1/31/2018 3:35:45 AM] [Info] Mafia.Erre enabled Godmode
+[1/31/2018 3:36:03 AM] [Info] MessageAnnouncer >> Broadcast: Bienvenido a Mafia Inc. Disfruta tu estadia♥
+[1/31/2018 3:36:03 AM] [Info] MessageAnnouncer >> Bienvenido a Mafia Inc. Disfruta tu estadia♥
+[1/31/2018 3:36:30 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[1/31/2018 3:36:30 AM] [Info] Connecting: PlayerID: 76561198021210177 Name: 'elpraaah Character: Mafia.Elprah
+[1/31/2018 3:36:30 AM] [Info] FeexRanks >> Broadcast: [Associato] Mafia.Elprah (0 puntos, posicion 2) se ha conectado al server.
+[1/31/2018 3:36:43 AM] [Info] Saving server
+[1/31/2018 3:36:48 AM] [Info] [World] Mafia.Elprah ['elpraaah]: "/help"
+[1/31/2018 3:36:58 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tphere elprah"
+[1/31/2018 3:36:58 AM] [Info] Mafia.Elprah was teleported to Mafia.Erre
+[1/31/2018 3:37:14 AM] [Info] [World] Mafia.Elprah ['elpraaah]: "/kits"
+[1/31/2018 3:37:19 AM] [Info] [World] Mafia.Elprah ['elpraaah]: "/kit SS"
+[1/31/2018 3:37:43 AM] [Info] Saving server
+[1/31/2018 3:37:43 AM] [Info] MessageAnnouncer >> Broadcast: Puedes ver la IP de nuestro servidor de ts3 con el comando /ts
+[1/31/2018 3:37:43 AM] [Info] MessageAnnouncer >> Puedes ver la IP de nuestro servidor de ts3 con el comando /ts
+[1/31/2018 3:37:47 AM] [Info] [World] Mafia.Elprah ['elpraaah]: "/tws"
+[1/31/2018 3:37:48 AM] [Info] [World] Mafia.Elprah ['elpraaah]: "/ts"
+[1/31/2018 3:37:54 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "sdf"
+[1/31/2018 3:37:58 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "god"
+[1/31/2018 3:38:04 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/god"
+[1/31/2018 3:38:04 AM] [Info] Mafia.Erre disabled Godmode
+[1/31/2018 3:38:04 AM] [Info] [World] Mafia.Elprah ['elpraaah]: "/god"
+[1/31/2018 3:38:04 AM] [Info] Mafia.Elprah enabled Godmode
+[1/31/2018 3:38:07 AM] [Error] Could not find dependency: Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[1/31/2018 3:38:07 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:38:07 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Cobra] + [HEADSHOT] Mafia.Erre
+[1/31/2018 3:38:07 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the head by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:38:17 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp el"
+[1/31/2018 3:38:17 AM] [Info] Mafia.Erre teleported to Mafia.Elprah
+[1/31/2018 3:38:26 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:38:26 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Compound Bow] + [HEADSHOT] Mafia.Erre
+[1/31/2018 3:38:26 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the head by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:38:32 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp el"
+[1/31/2018 3:38:32 AM] [Info] Mafia.Erre teleported to Mafia.Elprah
+[1/31/2018 3:38:41 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:38:41 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Compound Bow] + [HEADSHOT] Mafia.Erre
+[1/31/2018 3:38:41 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the head by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:38:43 AM] [Info] Saving server
+[1/31/2018 3:38:46 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp e"
+[1/31/2018 3:38:46 AM] [Info] Mafia.Erre teleported to Mafia.Erre
+[1/31/2018 3:38:49 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp elp"
+[1/31/2018 3:38:49 AM] [Info] Mafia.Erre teleported to Mafia.Elprah
+[1/31/2018 3:39:23 AM] [Info] MessageAnnouncer >> Broadcast: Los kits disponibles son: Pve, Pvp, Colacion y Sniper
+[1/31/2018 3:39:23 AM] [Info] MessageAnnouncer >> Los kits disponibles son: Pve, Pvp, Colacion y Sniper
+[1/31/2018 3:39:43 AM] [Info] Saving server
+[1/31/2018 3:39:54 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:39:54 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Grizzly] + [HEADSHOT] Mafia.Erre
+[1/31/2018 3:39:54 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the head by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:40:00 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp elp"
+[1/31/2018 3:40:00 AM] [Info] Mafia.Erre teleported to Mafia.Elprah
+[1/31/2018 3:40:03 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:40:04 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Grizzly] + [HEADSHOT] Mafia.Erre
+[1/31/2018 3:40:04 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the head by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:40:06 AM] [Info] [World] Mafia.Elprah ['elpraaah]: "/kit"
+[1/31/2018 3:40:08 AM] [Info] [Area] Mafia.Elprah ['elpraaah]: "/kits"
+[1/31/2018 3:40:10 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/ci elprah"
+[1/31/2018 3:40:15 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp elp"
+[1/31/2018 3:40:15 AM] [Info] Mafia.Erre teleported to Mafia.Elprah
+[1/31/2018 3:40:20 AM] [Info] [Area] Mafia.Elprah ['elpraaah]: "/kit 8765"
+[1/31/2018 3:40:23 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:40:23 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Grizzly] + [HEADSHOT] Mafia.Erre
+[1/31/2018 3:40:23 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the head by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:40:30 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/kit"
+[1/31/2018 3:40:34 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/kit 8765"
+[1/31/2018 3:40:40 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp elp"
+[1/31/2018 3:40:40 AM] [Info] Mafia.Erre teleported to Mafia.Elprah
+[1/31/2018 3:40:43 AM] [Info] Saving server
+[1/31/2018 3:40:51 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/i ace"
+[1/31/2018 3:40:51 AM] [Info] Dando a Mafia.Erre un/a 107:1
+[1/31/2018 3:41:03 AM] [Info] MessageAnnouncer >> Broadcast: Staff: Elprah, Erre
+[1/31/2018 3:41:03 AM] [Info] MessageAnnouncer >> Staff: Elprah, Erre
+[1/31/2018 3:41:20 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "el flask"
+[1/31/2018 3:41:33 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:41:33 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Ace] + [HEADSHOT] Mafia.Erre
+[1/31/2018 3:41:33 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the head by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:41:38 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp elp"
+[1/31/2018 3:41:38 AM] [Info] Mafia.Erre teleported to Mafia.Elprah
+[1/31/2018 3:41:43 AM] [Info] Saving server
+[1/31/2018 3:42:05 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:42:05 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Ace] + [HEADSHOT] Mafia.Erre
+[1/31/2018 3:42:05 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the head by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:42:11 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp elprah"
+[1/31/2018 3:42:11 AM] [Info] Mafia.Erre teleported to Mafia.Elprah
+[1/31/2018 3:42:15 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/i beacon"
+[1/31/2018 3:42:15 AM] [Info] Dando a Mafia.Erre un/a 1194:1
+[1/31/2018 3:42:26 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/kit 8765"
+[1/31/2018 3:42:31 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/i maple"
+[1/31/2018 3:42:31 AM] [Info] Dando a Mafia.Erre un/a 507:1
+[1/31/2018 3:42:37 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/i maples"
+[1/31/2018 3:42:37 AM] [Info] Dando a Mafia.Erre un/a 363:1
+[1/31/2018 3:42:43 AM] [Info] Saving server
+[1/31/2018 3:42:43 AM] [Info] MessageAnnouncer >> Broadcast: Escribe /list para ver el top 3 de los mejores jugadores
+[1/31/2018 3:42:43 AM] [Info] MessageAnnouncer >> Escribe /list para ver el top 3 de los mejores jugadores
+[1/31/2018 3:42:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Cape Rock en 5 minuto(s)!
+[1/31/2018 3:43:43 AM] [Info] Saving server
+[1/31/2018 3:43:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Cape Rock en 4 minuto(s)!
+[1/31/2018 3:44:11 AM] [Info] [Area] Mafia.Erre [★MAFIA UNTURNED]: "sc"
+[1/31/2018 3:44:14 AM] [Info] [Area] Mafia.Erre [★MAFIA UNTURNED]: "escribe /list"
+[1/31/2018 3:44:17 AM] [Info] [Area] Mafia.Elprah ['elpraaah]: "/list"
+[1/31/2018 3:44:23 AM] [Info] MessageAnnouncer >> Broadcast: Escribe /rank para ver la posicion que ocupas en el server
+[1/31/2018 3:44:23 AM] [Info] MessageAnnouncer >> Escribe /rank para ver la posicion que ocupas en el server
+[1/31/2018 3:44:33 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:44:33 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Grizzly] Mafia.Erre
+[1/31/2018 3:44:33 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the arm by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:44:43 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "son 9 tiros"
+[1/31/2018 3:44:43 AM] [Info] Saving server
+[1/31/2018 3:44:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Cape Rock en 3 minuto(s)!
+[1/31/2018 3:44:45 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "por tiro"
+[1/31/2018 3:44:47 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp elp"
+[1/31/2018 3:44:47 AM] [Info] Mafia.Erre teleported to Mafia.Elprah
+[1/31/2018 3:44:55 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:44:55 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Maplestrike] + [HEADSHOT] Mafia.Erre
+[1/31/2018 3:44:55 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the head by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:45:03 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/kit 8765"
+[1/31/2018 3:45:08 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/vanish"
+[1/31/2018 3:45:08 AM] [Info] Mafia.Erre enabled Vanishmode
+[1/31/2018 3:45:17 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/p remove elprah admin"
+[1/31/2018 3:45:19 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "ahora"
+[1/31/2018 3:45:23 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/tp elp"
+[1/31/2018 3:45:23 AM] [Info] Mafia.Erre teleported to Mafia.Elprah
+[1/31/2018 3:45:29 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/vanish"
+[1/31/2018 3:45:29 AM] [Info] Mafia.Erre disabled Vanishmode
+[1/31/2018 3:45:30 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'Uconomy, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null'
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[1/31/2018 3:45:30 AM] [Info] SimpleDeathMessages >> Broadcast: Mafia.Elprah [GUN - Maplestrike] + [HEADSHOT] Mafia.Erre
+[1/31/2018 3:45:30 AM] [Info] Mafia.Erre [★MAFIA UNTURNED] was shot in the head by Mafia.Elprah ['elpraaah]!
+[1/31/2018 3:45:33 AM] [Info] [Area] Mafia.Elprah ['elpraaah]: "/kits"
+[1/31/2018 3:45:36 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "2?"
+[1/31/2018 3:45:40 AM] [Info] [Area] Mafia.Elprah ['elpraaah]: "/kits"
+[1/31/2018 3:45:42 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/rocket reload"
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] ZaupHomeCommand
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] ZaupFeast
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] ZaupClearInventoryLib
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] SmartSpawner
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] SimpleDeathMessages
+[1/31/2018 3:45:42 AM] [Info] SimpleDeathMessages >> Unload
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] RocketMod_TPA
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] MessageAnnouncer
+[1/31/2018 3:45:42 AM] [Info] MessageAnnouncer >> Unload
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] Kits
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] JoinLeaveMessages
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] FeexRanks
+[1/31/2018 3:45:42 AM] [Info] FeexRanks >> Freenex's FeexRanks has been unloaded!
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] FeexExp
+[1/31/2018 3:45:42 AM] [Info] FeexExp >> Freenex's FeexExp has been unloaded!
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] DeathMessagesRemastered
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] AdminWarnings
+[1/31/2018 3:45:42 AM] [Info] AdminWarnings >> AdminWarnings has Unloaded!
+[1/31/2018 3:45:42 AM] [Info] 
+[unloading] AdminChat
+[1/31/2018 3:45:44 AM] [Info] Loading AdminChat from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\AdminChat.dll
+[1/31/2018 3:45:44 AM] [Info] Loading AdminWarnings from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\AdminWarnings.dll
+[1/31/2018 3:45:44 AM] [Info] Loading DeathMessagesRemastered from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\DeathMessagesRemastered.dll
+[1/31/2018 3:45:44 AM] [Info] Loading FeexExp from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\FeexExp.dll
+[1/31/2018 3:45:44 AM] [Info] Loading FeexRanks from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\FeexRanks.dll
+[1/31/2018 3:45:44 AM] [Info] Loading JoinLeaveMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\JoinLeaveMessages.dll
+[1/31/2018 3:45:44 AM] [Info] Loading Kits from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\Kits.dll
+[1/31/2018 3:45:44 AM] [Info] Loading MessageAnnouncer from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\MessageAnnouncer.dll
+[1/31/2018 3:45:44 AM] [Info] Loading RocketMod_TPA from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\RocketMod_TPA.dll
+[1/31/2018 3:45:44 AM] [Info] Loading SimpleDeathMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SimpleDeathMessages.dll
+[1/31/2018 3:45:44 AM] [Info] Loading SmartSpawner from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SmartSpawner.dll
+[1/31/2018 3:45:44 AM] [Error] Invalid or outdated plugin assembly: Test
+[1/31/2018 3:45:44 AM] [Info] Loading ZaupClearInventoryLib from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupClearInventoryLib.dll
+[1/31/2018 3:45:44 AM] [Info] Loading ZaupFeast from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupFeast.dll
+[1/31/2018 3:45:44 AM] [Info] Loading ZaupHomeCommand from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupHomeCommand.dll
+[1/31/2018 3:45:44 AM] [Info] 
+[loading] AdminChat
+[1/31/2018 3:45:44 AM] [Info] [registered] /adminchat (AdminChat.CommandAdminChat/AdminChat)
+[1/31/2018 3:45:44 AM] [Info] [registered] /ac (AdminChat.CommandAdminChat/ac)
+[1/31/2018 3:45:44 AM] [Warning] AdminChat by Anomoly :)
+[1/31/2018 3:45:44 AM] [Warning] Current Version: 8
+[1/31/2018 3:45:44 AM] [Warning] Something wrong? Join my Discord for support discord.gg/4Fq2Spe
+[1/31/2018 3:45:44 AM] [Info] 
+[loading] AdminWarnings
+[1/31/2018 3:45:44 AM] [Info] [registered] /removewarn (AdminWarnings.CommandRemoveWarn/removewarn)
+[1/31/2018 3:45:44 AM] [Info] [registered] /warn (AdminWarnings.CommandWarn/warn)
+[1/31/2018 3:45:44 AM] [Info] [registered] /warnings (AdminWarnings.CommandWarnings/warnings)
+[1/31/2018 3:45:44 AM] [Info] [registered] /warns (AdminWarnings.CommandWarnings/warns)
+[1/31/2018 3:45:44 AM] [Info] [registered] /clearwarninglogs (AdminWarnings.Commands.CommandClearWarningLogs/clearwarninglogs)
+[1/31/2018 3:45:44 AM] [Info] AdminWarnings >> AdminWarnings has Loaded!
+[1/31/2018 3:45:44 AM] [Info] 
+[loading] DeathMessagesRemastered
+[1/31/2018 3:45:44 AM] [Info] DeathMessagesRemastered >> Death Messages Remastered has been loaded!
+[1/31/2018 3:45:44 AM] [Warning] --
+[1/31/2018 3:45:44 AM] [Warning] Suicide messages are enabled!
+[1/31/2018 3:45:44 AM] [Warning] Health warning messages are enabled!
+[1/31/2018 3:45:44 AM] [Warning] Uconomy is enabled!
+[1/31/2018 3:45:44 AM] [Warning] Experience is enabled!
+[1/31/2018 3:45:44 AM] [Warning] --
+[1/31/2018 3:45:44 AM] [Info] 
+[loading] FeexExp
+[1/31/2018 3:45:44 AM] [Info] [registered] /exp (Freenex.FeexExp.CommandExp/exp)
+[1/31/2018 3:45:44 AM] [Info] FeexExp >> Freenex's FeexExp has been loaded!
+[1/31/2018 3:45:44 AM] [Info] Adding UnturnedPlayerComponent: FeexExpPlayerComponent
+[1/31/2018 3:45:44 AM] [Info] 
+[loading] FeexRanks
+[1/31/2018 3:45:44 AM] [Info] [registered] /list (Freenex.FeexRanks.CommandList/list)
+[1/31/2018 3:45:44 AM] [Info] [registered] /points (Freenex.FeexRanks.CommandPoints/points)
+[1/31/2018 3:45:44 AM] [Info] [registered] /rank (Freenex.FeexRanks.CommandRank/rank)
+[1/31/2018 3:45:44 AM] [Info] FeexRanks >> Freenex's FeexRanks has been loaded!
+[1/31/2018 3:45:44 AM] [Info] 
+[loading] JoinLeaveMessages
+[1/31/2018 3:45:44 AM] [Info] 
+[loading] Kits
+[1/31/2018 3:45:44 AM] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[1/31/2018 3:45:44 AM] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[1/31/2018 3:45:44 AM] [Info] Kits >> Optional dependency Uconomy is not present.
+[1/31/2018 3:45:44 AM] [Info] 
+[loading] MessageAnnouncer
+[1/31/2018 3:45:44 AM] [Info] MessageAnnouncer >> Load
+[1/31/2018 3:45:44 AM] [Info] [registered] /reglas (fr34kyn01535.MessageAnnouncer.RocketTextCommand/Reglas)
+[1/31/2018 3:45:44 AM] [Info] [registered] /reglas (fr34kyn01535.MessageAnnouncer.RocketTextCommand/Reglas)
+[1/31/2018 3:45:44 AM] [Info] 
+[loading] RocketMod_TPA
+[1/31/2018 3:45:45 AM] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[1/31/2018 3:45:45 AM] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[1/31/2018 3:45:45 AM] [Warning] ...
+[1/31/2018 3:45:45 AM] [Warning] Current configuration:
+[1/31/2018 3:45:45 AM] [Warning] ...
+[1/31/2018 3:45:45 AM] [Warning] Cooldown TPA requests: enabled, Seconds: 20
+[1/31/2018 3:45:45 AM] [Warning] Delay teleporting: enabled, Seconds: 7
+[1/31/2018 3:45:45 AM] [Warning] Cancel teleport if bleeding: disabled
+[1/31/2018 3:45:45 AM] [Warning] NinjaTP: disabled, EffectID: 0
+[1/31/2018 3:45:45 AM] [Warning] [Delay] Cancel teleport if hurt: enabled
+[1/31/2018 3:45:45 AM] [Warning] ...
+[1/31/2018 3:45:45 AM] [Warning] Checking for problems:
+[1/31/2018 3:45:45 AM] [Warning] No errors have been found!
+[1/31/2018 3:45:45 AM] [Warning] ...
+[1/31/2018 3:45:45 AM] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[1/31/2018 3:45:45 AM] [Info] 
+[loading] SimpleDeathMessages
+[1/31/2018 3:45:45 AM] [Warning] [SimpleDeathMessages] Made by: Coolpuppy24
+[1/31/2018 3:45:45 AM] [Warning] ------------------------------------------------------
+[1/31/2018 3:45:45 AM] [Warning] [SimpleDeathMessages] Death Message Color: Red
+[1/31/2018 3:45:45 AM] [Warning] [SimpleDeathMessages] Show Suicide Messages: True
+[1/31/2018 3:45:45 AM] [Info] SimpleDeathMessages >> Successfully Loaded!
+[1/31/2018 3:45:45 AM] [Info] 
+[loading] SmartSpawner
+[1/31/2018 3:45:45 AM] [Info] [registered] /ss (SmartSpawner.SmartSpawner/ss)
+[1/31/2018 3:45:45 AM] [Info] 
+[loading] ZaupClearInventoryLib
+[1/31/2018 3:45:45 AM] [Info] [registered] /ci (ZaupClearInventoryLib.CommandCi/ci)
+[1/31/2018 3:45:45 AM] [Info] [registered] /clearinventory (ZaupClearInventoryLib.CommandCi/clearinventory)
+[1/31/2018 3:45:45 AM] [Info] [registered] /cleari (ZaupClearInventoryLib.CommandCi/cleari)
+[1/31/2018 3:45:45 AM] [Info] 
+[loading] ZaupFeast
+[1/31/2018 3:45:45 AM] [Info] [registered] /runfeast (ZaupFeast.CommandRunFeast/runfeast)
+[1/31/2018 3:45:45 AM] [Info] [registered] /frun (ZaupFeast.CommandRunFeast/frun)
+[1/31/2018 3:45:45 AM] [Info] 
+[loading] ZaupHomeCommand
+[1/31/2018 3:45:45 AM] [Info] [registered] /home (ZaupHomeCommand.CommandHome/home)
+[1/31/2018 3:45:45 AM] [Info] Adding UnturnedPlayerComponent: HomePlayer
+[1/31/2018 3:45:45 AM] [Info] Saving server
+[1/31/2018 3:45:45 AM] [Info] MessageAnnouncer >> Broadcast: Se amable con quienes no tienen armas.
+[1/31/2018 3:45:45 AM] [Info] MessageAnnouncer >> Se amable con quienes no tienen armas.
+[1/31/2018 3:46:08 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/p elprah user"
+[1/31/2018 3:46:12 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "/p add elprah user"
+[1/31/2018 3:46:15 AM] [Info] [World] Mafia.Erre [★MAFIA UNTURNED]: "ahora"
+[1/31/2018 3:46:18 AM] [Info] [Area] Mafia.Elprah ['elpraaah]: "/kits"
+[1/31/2018 3:46:45 AM] [Info] Saving server
+[1/31/2018 3:47:18 AM] [Info] Reloading Rocket
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] ZaupHomeCommand
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] ZaupFeast
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] ZaupClearInventoryLib
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] SmartSpawner
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] SimpleDeathMessages
+[1/31/2018 3:47:18 AM] [Info] SimpleDeathMessages >> Unload
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] RocketMod_TPA
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] MessageAnnouncer
+[1/31/2018 3:47:18 AM] [Info] MessageAnnouncer >> Unload
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] Kits
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] JoinLeaveMessages
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] FeexRanks
+[1/31/2018 3:47:18 AM] [Info] FeexRanks >> Freenex's FeexRanks has been unloaded!
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] FeexExp
+[1/31/2018 3:47:18 AM] [Info] FeexExp >> Freenex's FeexExp has been unloaded!
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] DeathMessagesRemastered
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] AdminWarnings
+[1/31/2018 3:47:18 AM] [Info] AdminWarnings >> AdminWarnings has Unloaded!
+[1/31/2018 3:47:18 AM] [Info] 
+[unloading] AdminChat
+[1/31/2018 3:47:21 AM] [Info] Loading AdminChat from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\AdminChat.dll
+[1/31/2018 3:47:21 AM] [Info] Loading AdminWarnings from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\AdminWarnings.dll
+[1/31/2018 3:47:21 AM] [Info] Loading DeathMessagesRemastered from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\DeathMessagesRemastered.dll
+[1/31/2018 3:47:21 AM] [Info] Loading FeexExp from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\FeexExp.dll
+[1/31/2018 3:47:21 AM] [Info] Loading FeexRanks from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\FeexRanks.dll
+[1/31/2018 3:47:21 AM] [Info] Loading JoinLeaveMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\JoinLeaveMessages.dll
+[1/31/2018 3:47:21 AM] [Info] Loading Kits from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\Kits.dll
+[1/31/2018 3:47:21 AM] [Info] Loading MessageAnnouncer from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\MessageAnnouncer.dll
+[1/31/2018 3:47:21 AM] [Info] Loading RocketMod_TPA from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\RocketMod_TPA.dll
+[1/31/2018 3:47:21 AM] [Info] Loading SimpleDeathMessages from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SimpleDeathMessages.dll
+[1/31/2018 3:47:21 AM] [Info] Loading SmartSpawner from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\SmartSpawner.dll
+[1/31/2018 3:47:21 AM] [Error] Invalid or outdated plugin assembly: Test
+[1/31/2018 3:47:21 AM] [Info] Loading ZaupClearInventoryLib from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupClearInventoryLib.dll
+[1/31/2018 3:47:21 AM] [Info] Loading ZaupFeast from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupFeast.dll
+[1/31/2018 3:47:21 AM] [Info] Loading ZaupHomeCommand from C:\Unturned server\game\Servers\mafia\Rocket\Plugins\ZaupHomeCommand.dll
+[1/31/2018 3:47:21 AM] [Info] 
+[loading] AdminChat
+[1/31/2018 3:47:21 AM] [Info] [registered] /adminchat (AdminChat.CommandAdminChat/AdminChat)
+[1/31/2018 3:47:21 AM] [Info] [registered] /ac (AdminChat.CommandAdminChat/ac)
+[1/31/2018 3:47:21 AM] [Warning] AdminChat by Anomoly :)
+[1/31/2018 3:47:21 AM] [Warning] Current Version: 8
+[1/31/2018 3:47:21 AM] [Warning] Something wrong? Join my Discord for support discord.gg/4Fq2Spe
+[1/31/2018 3:47:21 AM] [Info] 
+[loading] AdminWarnings
+[1/31/2018 3:47:21 AM] [Info] [registered] /removewarn (AdminWarnings.CommandRemoveWarn/removewarn)
+[1/31/2018 3:47:21 AM] [Info] [registered] /warn (AdminWarnings.CommandWarn/warn)
+[1/31/2018 3:47:21 AM] [Info] [registered] /warnings (AdminWarnings.CommandWarnings/warnings)
+[1/31/2018 3:47:21 AM] [Info] [registered] /warns (AdminWarnings.CommandWarnings/warns)
+[1/31/2018 3:47:21 AM] [Info] [registered] /clearwarninglogs (AdminWarnings.Commands.CommandClearWarningLogs/clearwarninglogs)
+[1/31/2018 3:47:21 AM] [Info] AdminWarnings >> AdminWarnings has Loaded!
+[1/31/2018 3:47:21 AM] [Info] 
+[loading] DeathMessagesRemastered
+[1/31/2018 3:47:21 AM] [Info] DeathMessagesRemastered >> Death Messages Remastered has been loaded!
+[1/31/2018 3:47:21 AM] [Warning] --
+[1/31/2018 3:47:21 AM] [Warning] Suicide messages are enabled!
+[1/31/2018 3:47:21 AM] [Warning] Health warning messages are enabled!
+[1/31/2018 3:47:21 AM] [Warning] Uconomy is enabled!
+[1/31/2018 3:47:21 AM] [Warning] Experience is enabled!
+[1/31/2018 3:47:21 AM] [Warning] --
+[1/31/2018 3:47:21 AM] [Info] 
+[loading] FeexExp
+[1/31/2018 3:47:21 AM] [Info] [registered] /exp (Freenex.FeexExp.CommandExp/exp)
+[1/31/2018 3:47:21 AM] [Info] FeexExp >> Freenex's FeexExp has been loaded!
+[1/31/2018 3:47:21 AM] [Info] Adding UnturnedPlayerComponent: FeexExpPlayerComponent
+[1/31/2018 3:47:21 AM] [Info] 
+[loading] FeexRanks
+[1/31/2018 3:47:21 AM] [Info] [registered] /list (Freenex.FeexRanks.CommandList/list)
+[1/31/2018 3:47:21 AM] [Info] [registered] /points (Freenex.FeexRanks.CommandPoints/points)
+[1/31/2018 3:47:21 AM] [Info] [registered] /rank (Freenex.FeexRanks.CommandRank/rank)
+[1/31/2018 3:47:22 AM] [Info] FeexRanks >> Freenex's FeexRanks has been loaded!
+[1/31/2018 3:47:22 AM] [Info] 
+[loading] JoinLeaveMessages
+[1/31/2018 3:47:22 AM] [Info] 
+[loading] Kits
+[1/31/2018 3:47:22 AM] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[1/31/2018 3:47:22 AM] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[1/31/2018 3:47:22 AM] [Info] Kits >> Optional dependency Uconomy is not present.
+[1/31/2018 3:47:22 AM] [Info] 
+[loading] MessageAnnouncer
+[1/31/2018 3:47:22 AM] [Info] MessageAnnouncer >> Load
+[1/31/2018 3:47:22 AM] [Info] [registered] /reglas (fr34kyn01535.MessageAnnouncer.RocketTextCommand/Reglas)
+[1/31/2018 3:47:22 AM] [Info] [registered] /reglas (fr34kyn01535.MessageAnnouncer.RocketTextCommand/Reglas)
+[1/31/2018 3:47:22 AM] [Info] 
+[loading] RocketMod_TPA
+[1/31/2018 3:47:22 AM] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[1/31/2018 3:47:22 AM] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[1/31/2018 3:47:22 AM] [Warning] ...
+[1/31/2018 3:47:22 AM] [Warning] Current configuration:
+[1/31/2018 3:47:22 AM] [Warning] ...
+[1/31/2018 3:47:22 AM] [Warning] Cooldown TPA requests: enabled, Seconds: 20
+[1/31/2018 3:47:22 AM] [Warning] Delay teleporting: enabled, Seconds: 7
+[1/31/2018 3:47:22 AM] [Warning] Cancel teleport if bleeding: disabled
+[1/31/2018 3:47:22 AM] [Warning] NinjaTP: disabled, EffectID: 0
+[1/31/2018 3:47:22 AM] [Warning] [Delay] Cancel teleport if hurt: enabled
+[1/31/2018 3:47:22 AM] [Warning] ...
+[1/31/2018 3:47:22 AM] [Warning] Checking for problems:
+[1/31/2018 3:47:22 AM] [Warning] No errors have been found!
+[1/31/2018 3:47:22 AM] [Warning] ...
+[1/31/2018 3:47:22 AM] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[1/31/2018 3:47:22 AM] [Info] 
+[loading] SimpleDeathMessages
+[1/31/2018 3:47:22 AM] [Warning] [SimpleDeathMessages] Made by: Coolpuppy24
+[1/31/2018 3:47:22 AM] [Warning] ------------------------------------------------------
+[1/31/2018 3:47:22 AM] [Warning] [SimpleDeathMessages] Death Message Color: Red
+[1/31/2018 3:47:22 AM] [Warning] [SimpleDeathMessages] Show Suicide Messages: True
+[1/31/2018 3:47:22 AM] [Info] SimpleDeathMessages >> Successfully Loaded!
+[1/31/2018 3:47:22 AM] [Info] 
+[loading] SmartSpawner
+[1/31/2018 3:47:22 AM] [Info] [registered] /ss (SmartSpawner.SmartSpawner/ss)
+[1/31/2018 3:47:22 AM] [Info] 
+[loading] ZaupClearInventoryLib
+[1/31/2018 3:47:22 AM] [Info] [registered] /ci (ZaupClearInventoryLib.CommandCi/ci)
+[1/31/2018 3:47:22 AM] [Info] [registered] /clearinventory (ZaupClearInventoryLib.CommandCi/clearinventory)
+[1/31/2018 3:47:22 AM] [Info] [registered] /cleari (ZaupClearInventoryLib.CommandCi/cleari)
+[1/31/2018 3:47:22 AM] [Info] 
+[loading] ZaupFeast
+[1/31/2018 3:47:22 AM] [Info] [registered] /runfeast (ZaupFeast.CommandRunFeast/runfeast)
+[1/31/2018 3:47:22 AM] [Info] [registered] /frun (ZaupFeast.CommandRunFeast/frun)
+[1/31/2018 3:47:22 AM] [Info] 
+[loading] ZaupHomeCommand
+[1/31/2018 3:47:22 AM] [Info] [registered] /home (ZaupHomeCommand.CommandHome/home)
+[1/31/2018 3:47:22 AM] [Info] Adding UnturnedPlayerComponent: HomePlayer
+[1/31/2018 3:47:22 AM] [Info] MessageAnnouncer >> Broadcast: Se amable con quienes no tienen armas.
+[1/31/2018 3:47:22 AM] [Info] MessageAnnouncer >> Se amable con quienes no tienen armas.
+[1/31/2018 3:47:33 AM] [Info] [Area] Mafia.Elprah ['elpraaah]: "/kits"
+[1/31/2018 3:47:41 AM] [Info] Successfully saved the game.
+[1/31/2018 3:47:43 AM] [Info] ZaupFeast >> The next feast will be at Pirate Cove at 1/31/2018 4:02:43 AM
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] SmartSpawner
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] SimpleDeathMessages
+[1/31/2018 3:47:43 AM] [Info] SimpleDeathMessages >> Unload
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] ZaupHomeCommand
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] AdminChat
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] JoinLeaveMessages
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] FeexRanks
+[1/31/2018 3:47:43 AM] [Info] FeexRanks >> Freenex's FeexRanks has been unloaded!
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] RocketMod_TPA
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] MessageAnnouncer
+[1/31/2018 3:47:43 AM] [Info] MessageAnnouncer >> Unload
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] AdminWarnings
+[1/31/2018 3:47:43 AM] [Info] AdminWarnings >> AdminWarnings has Unloaded!
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] FeexExp
+[1/31/2018 3:47:43 AM] [Info] FeexExp >> Freenex's FeexExp has been unloaded!
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] Kits
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] ZaupFeast
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] DeathMessagesRemastered
+[1/31/2018 3:47:43 AM] [Info] 
+[unloading] ZaupClearInventoryLib

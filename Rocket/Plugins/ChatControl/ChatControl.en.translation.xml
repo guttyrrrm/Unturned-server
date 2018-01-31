@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="command_player_not_found" Value="Jugador no encontrado" />
+  <Translation Id="command_mute" Value="{0} ha sido muteado" />
+  <Translation Id="command_unmute" Value="{0} ha sido desmuteado" />
+  <Translation Id="kick_ban_reason" Value="Muchas malas palabras." />
+  <Translation Id="you_are_muted" Value="ESTAS MUTEADO, NADIE PUEDE OIRTE :D" />
+  <Translation Id="badword_detected" Value="{0} is a badword, don't use it or bad things will happen to you. This is your {1}. warning." />
+</Translations>

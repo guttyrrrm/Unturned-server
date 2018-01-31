@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayerInfoLibConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DatabaseAddress>localhost</DatabaseAddress>
+  <DatabasePort>3306</DatabasePort>
+  <DatabaseUserName>root</DatabaseUserName>
+  <DatabasePassword>5505</DatabasePassword>
+  <DatabaseName>unturned</DatabaseName>
+  <DatabaseTableName>playerinfo</DatabaseTableName>
+  <KeepaliveInterval>10</KeepaliveInterval>
+  <CacheTime>180</CacheTime>
+  <ExpiredCheckInterval>30</ExpiredCheckInterval>
+  <ExpiresAfter>365</ExpiresAfter>
+</PlayerInfoLibConfig>

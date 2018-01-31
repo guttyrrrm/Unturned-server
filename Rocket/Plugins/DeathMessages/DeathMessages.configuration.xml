@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DMC2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <suicidemsg>true</suicidemsg>
+  <warningmsg>true</warningmsg>
+  <warning1>Tu vida es muy baja</warning1>
+  <warning2>Debes curarte pronto o morirás</warning2>
+  <zombie>lo mató un zombie</zombie>
+  <gun>fusiló a</gun>
+  <melee>apuñaló a</melee>
+  <melee2>hasta matarlo</melee2>
+  <punch>agarró a combos a</punch>
+  <punch2>hasta matarlo</punch2>
+  <roadkill>se hizo un Herrera con</roadkill>
+  <vehicle>murió luego de que un auto explotara</vehicle>
+  <food>se murió de hambre</food>
+  <water>se murió de sed</water>
+  <infection>SE CONVIRTIÓ EN UN ZOMBIE D:</infection>
+  <bleeding>murió desangrado</bleeding>
+  <suicide>se suicidó! rip in peace. PIERDE $4000 COMO PENALIZACION</suicide>
+  <landmine>explotó al pisar una mina</landmine>
+  <breath>murió ahogado</breath>
+</DMC2>

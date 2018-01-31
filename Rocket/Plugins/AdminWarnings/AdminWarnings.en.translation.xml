@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="warning" Value="You have you given a warning! Current warnings: {0}" />
+  <Translation Id="warning_reason" Value="You have been given a warning! Reason: '{0}'" />
+  <Translation Id="warning_count_self" Value="You currently have {0} warnings!" />
+  <Translation Id="warning_count_admin" Value="'{0}' currently has {1} warnings!" />
+  <Translation Id="warning_ban" Value="You have been banned because you reached {0} warnings! Ban duration (seconds): {1}" />
+  <Translation Id="warning_ban_reason" Value="You have been banned because you reached {0} warnings! Reason: '{1}' Ban duration (seconds): {2}" />
+  <Translation Id="warning_kick" Value="You have been kicked because you reached {0} warnings!" />
+  <Translation Id="warning_kick_reason" Value="You have been kicked because you reached {0} warnings! Reason: '{1}'" />
+  <Translation Id="warned_caller" Value="You have warned player: {0}" />
+  <Translation Id="warned_caller_reason" Value="You have warned player: '{0}' for '{1}'" />
+  <Translation Id="player_not_found" Value="A player by the name of '{0}' could not be found!" />
+  <Translation Id="wrong_usage" Value="Correct command usage: /warn &lt;player&gt; [reason]" />
+  <Translation Id="wrong_usage_removewarn" Value="Correct command usage: /removewarn &lt;player&gt; [amount]" />
+  <Translation Id="console_player_warning" Value="'{0}' has warned '{1}', '{1}' is at {2} warnings" />
+  <Translation Id="console_player_banned" Value="'{0}' has warned '{1}', '{1}' was banned for {2} seconds" />
+  <Translation Id="console_player_banned_reason" Value="'{0}' has warned '{1}', '{1}' was banned for {2} seconds with the reason '{3}'" />
+  <Translation Id="console_player_kicked" Value="'{0}' has warned '{1}', '{1}' was kicked" />
+  <Translation Id="console_player_kicked_reason" Value="'{0}' has warned '{1}', '{1}' was kicked with the reason '{2}'" />
+  <Translation Id="public_player_banned" Value="'{0}' has received {1} warnings and was banned for {2} seconds!" />
+  <Translation Id="public_player_kicked" Value="'{0}' has received {1} warnings and was kicked!" />
+  <Translation Id="public_player_warned" Value="'{0}' has been giving a warning, they are currently at {1} warnings!" />
+  <Translation Id="console_warnings_noparameter" Value="You must enter a player when calling this command from the console!" />
+  <Translation Id="public_player_warned_reason" Value="'{0}' has been giving a warning! Reason: {1}" />
+  <Translation Id="remove_warn" Value="Removed {0} warnings from '{1}'!" />
+  <Translation Id="no_data" Value="'{0}' does not have any warnings!" />
+  <Translation Id="cleared_logs" Value="Cleared warning logs!" />
+  <Translation Id="console_command" Value="Ran command '{0}' because player:{1} hit {2} warnings" />
+</Translations>

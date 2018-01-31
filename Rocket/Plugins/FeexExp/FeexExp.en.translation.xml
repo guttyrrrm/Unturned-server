@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="exp_general_not_found" Value="Jugador no encontrado." />
+  <Translation Id="exp_general_invalid_parameter" Value="Parametro invalido." />
+  <Translation Id="exp_self" Value="Te has dado {0} puntos de experiencia." />
+  <Translation Id="exp_give_player" Value="{1} te ha dado {0} puntos de experiencia." />
+  <Translation Id="exp_give_caller" Value="Has dado a {1} {0} puntos de experiencia." />
+  <Translation Id="exp_give_player_console" Value="Has conseguido {0} puntos de experiencia." />
+  <Translation Id="exp_transfer_player" Value="{1} te ha dado {0} puntos de experiencia." />
+  <Translation Id="exp_transfer_caller" Value="Has dado a {1} {0} puntos de experiencia." />
+  <Translation Id="exp_transfer_not_enough" Value="No tienes {0} puntos de experiencia." />
+  <Translation Id="exp_onrevive" Value="Has recibido {0} puntos de experiencia." />
+  <Translation Id="exp_onkill_true" Value="Has matado a {0} y recibiste {1} puntos de experiencia." />
+  <Translation Id="exp_onkill_false" Value="Has matado a {0} pero no recibiste experiencia." />
+  <Translation Id="general_not_found" Value="Player not found." />
+  <Translation Id="general_invalid_parameter" Value="Invalid parameter." />
+</Translations>

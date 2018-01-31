@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="wreckingball_scan" Value="Found {0} elements @ {1}m:{2}" />
+  <Translation Id="wreckingball_map_clear" Value="Map has no elements!" />
+  <Translation Id="wreckingball_not_found" Value="No elements found in a {0} radius!" />
+  <Translation Id="wreckingball_complete" Value="Wrecking Ball complete! {0} elements(s) Destroyed!" />
+  <Translation Id="wreckingball_initiated" Value="Wrecking Ball initiated: ~{0} sec(s) left." />
+  <Translation Id="wreckingball_processing" Value="Wrecking Ball started by: {0}, {1} element(s) left to destroy, ~{2} sec(s) left." />
+  <Translation Id="wreckingball_aborted" Value="Wrecking Ball Aborted! Destruction queue cleared!" />
+  <Translation Id="wreckingball_help" Value="Please define filter and radius: /wreck &lt;filter&gt; &lt;radius&gt; or /wreck teleport b|s" />
+  <Translation Id="wreckingball_help_teleport" Value="Please define type for teleport: /wreck teleport s|b" />
+  <Translation Id="wreckingball_help_scan" Value="Please define a scan filter and radius: /wreck scan &lt;filter&gt; &lt;radius&gt;" />
+  <Translation Id="wreckingball_queued" Value="{0} elements(s) found, ~{1} sec(s) to complete run." />
+  <Translation Id="wreckingball_prompt" Value="Type '/wreck confirm' or '/wreck abort'" />
+  <Translation Id="wreckingball_structure_array_sync_error" Value="Warning: Structure arrays out of sync, need to restart server." />
+  <Translation Id="wreckingball_barricade_array_sync_error" Value="Warning: Barricade arrays out of sync, need to restart server." />
+  <Translation Id="wreckingball_teleport_not_found" Value="Couldn't find any elements to teleport to, try to run the command again." />
+  <Translation Id="wreckingball_reload_abort" Value="Warning: Current wreck job in progress has been aborted from a plugin reload." />
+  <Translation Id="wreckingball_lv_help" Value="&lt;radius&gt; - distance to scan cars." />
+  <Translation Id="wreckingball_lv_vehicle" Value="Vehicle position: {0}, Barricade count on car: {1}." />
+  <Translation Id="werckingball_dcu_help" Value="&lt;&quot;playername&quot; | SteamID&gt; - disables cleanup on a player." />
+  <Translation Id="werckingball_dcu_not_enabled" Value="This command can only be used if the cleanup feature is enabled on the server." />
+  <Translation Id="wreckingball_dcu_player_not_found" Value="Couldn't find a player by that name on the server." />
+  <Translation Id="wreckingball_dcu_hasnt_played" Value="Player hasn't played on this server yet." />
+  <Translation Id="wreckingball_dcu_cleanup_disabled" Value="Auto Cleanup has been disabled for player {0} [{1}] ({2})" />
+  <Translation Id="wreckingball_dcu_cleanup_enabled" Value="Auto Cleanup has been enabled for player {0} [{1}] ({2})" />
+  <Translation Id="wreckingball_help_console" Value="Please define filter, radius and position: /wreck &lt;filter&gt; &lt;radius&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt;" />
+  <Translation Id="wreckingball_help_scan_console" Value="Please define a scan filter, radius and position: /wreck scan &lt;filter&gt; &lt;radius&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt;" />
+  <Translation Id="wreckingball_sync_error" Value="Warning: Element array sync error, not all elements will be cleaned up in range, server should be restarted." />
+  <Translation Id="wreckingball_teleport_not_allowed" Value="Not allowed to use wreck teleport from the console." />
+</Translations>
