@@ -1,0 +1,4 @@
+port 27015
+maxplayers 16
+password test
+perspective both
