@@ -1,0 +1,122 @@
+[1/25/2018 2:44:19 PM] [Info] [registered] /admins (Rocket.Unturned.Commands.UnturnedCommands/admins)
+[1/25/2018 2:44:19 PM] [Info] [registered] /airdrop (Rocket.Unturned.Commands.UnturnedCommands/airdrop)
+[1/25/2018 2:44:19 PM] [Info] [registered] /animal (Rocket.Unturned.Commands.UnturnedCommands/animal)
+[1/25/2018 2:44:19 PM] [Info] [registered] /ban (Rocket.Unturned.Commands.UnturnedCommands/ban)
+[1/25/2018 2:44:19 PM] [Info] [registered] /bans (Rocket.Unturned.Commands.UnturnedCommands/bans)
+[1/25/2018 2:44:19 PM] [Info] [registered] /bind (Rocket.Unturned.Commands.UnturnedCommands/bind)
+[1/25/2018 2:44:19 PM] [Info] [registered] /chatrate (Rocket.Unturned.Commands.UnturnedCommands/chatrate)
+[1/25/2018 2:44:19 PM] [Info] [registered] /cheats (Rocket.Unturned.Commands.UnturnedCommands/cheats)
+[1/25/2018 2:44:19 PM] [Info] [registered] /cycle (Rocket.Unturned.Commands.UnturnedCommands/cycle)
+[1/25/2018 2:44:19 PM] [Info] [registered] /day (Rocket.Unturned.Commands.UnturnedCommands/day)
+[1/25/2018 2:44:19 PM] [Info] [registered] /debug (Rocket.Unturned.Commands.UnturnedCommands/debug)
+[1/25/2018 2:44:19 PM] [Info] [registered] /experience (Rocket.Unturned.Commands.UnturnedCommands/experience)
+[1/25/2018 2:44:19 PM] [Info] [registered] /filter (Rocket.Unturned.Commands.UnturnedCommands/filter)
+[1/25/2018 2:44:19 PM] [Info] [registered] /flag (Rocket.Unturned.Commands.UnturnedCommands/flag)
+[1/25/2018 2:44:19 PM] [Info] [registered] /gamemode (Rocket.Unturned.Commands.UnturnedCommands/gamemode)
+[1/25/2018 2:44:19 PM] [Info] [registered] /give (Rocket.Unturned.Commands.UnturnedCommands/give)
+[1/25/2018 2:44:19 PM] [Info] [registered] /gold (Rocket.Unturned.Commands.UnturnedCommands/gold)
+[1/25/2018 2:44:19 PM] [Info] [registered] /hide_admins (Rocket.Unturned.Commands.UnturnedCommands/hide_admins)
+[1/25/2018 2:44:19 PM] [Info] [registered] /kick (Rocket.Unturned.Commands.UnturnedCommands/kick)
+[1/25/2018 2:44:19 PM] [Info] [registered] /kill (Rocket.Unturned.Commands.UnturnedCommands/kill)
+[1/25/2018 2:44:19 PM] [Info] [registered] /loadout (Rocket.Unturned.Commands.UnturnedCommands/loadout)
+[1/25/2018 2:44:19 PM] [Info] [registered] /log (Rocket.Unturned.Commands.UnturnedCommands/log)
+[1/25/2018 2:44:19 PM] [Info] [registered] /map (Rocket.Unturned.Commands.UnturnedCommands/map)
+[1/25/2018 2:44:19 PM] [Info] [registered] /maxplayers (Rocket.Unturned.Commands.UnturnedCommands/maxplayers)
+[1/25/2018 2:44:19 PM] [Info] [registered] /mode (Rocket.Unturned.Commands.UnturnedCommands/mode)
+[1/25/2018 2:44:19 PM] [Info] [registered] /modules (Rocket.Unturned.Commands.UnturnedCommands/modules)
+[1/25/2018 2:44:19 PM] [Info] [registered] /name (Rocket.Unturned.Commands.UnturnedCommands/name)
+[1/25/2018 2:44:19 PM] [Info] [registered] /night (Rocket.Unturned.Commands.UnturnedCommands/night)
+[1/25/2018 2:44:19 PM] [Info] [registered] /owner (Rocket.Unturned.Commands.UnturnedCommands/owner)
+[1/25/2018 2:44:19 PM] [Info] [registered] /password (Rocket.Unturned.Commands.UnturnedCommands/password)
+[1/25/2018 2:44:19 PM] [Info] [registered] /permit (Rocket.Unturned.Commands.UnturnedCommands/permit)
+[1/25/2018 2:44:19 PM] [Info] [registered] /permits (Rocket.Unturned.Commands.UnturnedCommands/permits)
+[1/25/2018 2:44:19 PM] [Info] [registered] /perspective (Rocket.Unturned.Commands.UnturnedCommands/perspective)
+[1/25/2018 2:44:19 PM] [Info] [registered] /players (Rocket.Unturned.Commands.UnturnedCommands/players)
+[1/25/2018 2:44:19 PM] [Info] [registered] /port (Rocket.Unturned.Commands.UnturnedCommands/port)
+[1/25/2018 2:44:19 PM] [Info] [registered] /pve (Rocket.Unturned.Commands.UnturnedCommands/pve)
+[1/25/2018 2:44:19 PM] [Info] [registered] /quest (Rocket.Unturned.Commands.UnturnedCommands/quest)
+[1/25/2018 2:44:19 PM] [Info] [registered] /queue_size (Rocket.Unturned.Commands.UnturnedCommands/queue_size)
+[1/25/2018 2:44:19 PM] [Info] [registered] /reputation (Rocket.Unturned.Commands.UnturnedCommands/reputation)
+[1/25/2018 2:44:19 PM] [Info] [registered] /resetconfig (Rocket.Unturned.Commands.UnturnedCommands/resetconfig)
+[1/25/2018 2:44:19 PM] [Info] [registered] /save (Rocket.Unturned.Commands.UnturnedCommands/save)
+[1/25/2018 2:44:19 PM] [Info] [registered] /say (Rocket.Unturned.Commands.UnturnedCommands/say)
+[1/25/2018 2:44:19 PM] [Info] [registered] /shutdown (Rocket.Unturned.Commands.UnturnedCommands/shutdown)
+[1/25/2018 2:44:19 PM] [Info] [registered] /slay (Rocket.Unturned.Commands.UnturnedCommands/slay)
+[1/25/2018 2:44:19 PM] [Info] [registered] /spy (Rocket.Unturned.Commands.UnturnedCommands/spy)
+[1/25/2018 2:44:19 PM] [Info] [registered] /sync (Rocket.Unturned.Commands.UnturnedCommands/sync)
+[1/25/2018 2:44:19 PM] [Info] [registered] /teleport (Rocket.Unturned.Commands.UnturnedCommands/teleport)
+[1/25/2018 2:44:19 PM] [Info] [registered] /time (Rocket.Unturned.Commands.UnturnedCommands/time)
+[1/25/2018 2:44:19 PM] [Info] [registered] /timeout (Rocket.Unturned.Commands.UnturnedCommands/timeout)
+[1/25/2018 2:44:19 PM] [Info] [registered] /unban (Rocket.Unturned.Commands.UnturnedCommands/unban)
+[1/25/2018 2:44:19 PM] [Info] [registered] /unpermit (Rocket.Unturned.Commands.UnturnedCommands/unpermit)
+[1/25/2018 2:44:19 PM] [Info] [registered] /vehicle (Rocket.Unturned.Commands.UnturnedCommands/vehicle)
+[1/25/2018 2:44:19 PM] [Info] [registered] /votify (Rocket.Unturned.Commands.UnturnedCommands/votify)
+[1/25/2018 2:44:19 PM] [Info] [registered] /weather (Rocket.Unturned.Commands.UnturnedCommands/weather)
+[1/25/2018 2:44:19 PM] [Info] [registered] /welcome (Rocket.Unturned.Commands.UnturnedCommands/welcome)
+[1/25/2018 2:44:19 PM] [Info] [registered] /whitelisted (Rocket.Unturned.Commands.UnturnedCommands/whitelisted)
+[1/25/2018 2:44:19 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[1/25/2018 2:44:19 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[1/25/2018 2:44:19 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[1/25/2018 2:44:19 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[1/25/2018 2:44:19 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[1/25/2018 2:44:19 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[1/25/2018 2:44:19 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[1/25/2018 2:44:19 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[1/25/2018 2:44:19 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[1/25/2018 2:44:19 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[1/25/2018 2:44:19 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[1/25/2018 2:44:19 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[1/25/2018 2:44:19 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[1/25/2018 2:44:19 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[1/25/2018 2:44:19 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[1/25/2018 2:44:19 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[1/25/2018 2:44:19 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[1/25/2018 2:44:19 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[1/25/2018 2:44:19 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[1/25/2018 2:44:19 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[1/25/2018 2:44:19 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[1/25/2018 2:44:19 PM] [Info] Loading Kits from D:\unturned\Servers\Servidor\Rocket\Plugins\Kits.dll
+[1/25/2018 2:44:19 PM] [Info] Loading RocketMod_TPA from D:\unturned\Servers\Servidor\Rocket\Plugins\RocketMod_TPA.dll
+[1/25/2018 2:44:19 PM] [Info] 
+[loading] Kits
+[1/25/2018 2:44:19 PM] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[1/25/2018 2:44:19 PM] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[1/25/2018 2:44:19 PM] [Info] Kits >> Optional dependency Uconomy is not present.
+[1/25/2018 2:44:19 PM] [Info] 
+[loading] RocketMod_TPA
+[1/25/2018 2:44:19 PM] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[1/25/2018 2:44:19 PM] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[1/25/2018 2:44:19 PM] [Warning] ...
+[1/25/2018 2:44:19 PM] [Warning] Current configuration:
+[1/25/2018 2:44:19 PM] [Warning] ...
+[1/25/2018 2:44:19 PM] [Warning] Cooldown TPA requests: disabled, Seconds: 20
+[1/25/2018 2:44:19 PM] [Warning] Delay teleporting: disabled, Seconds: 10
+[1/25/2018 2:44:19 PM] [Warning] Cancel teleport if bleeding: disabled
+[1/25/2018 2:44:19 PM] [Warning] NinjaTP: disabled, EffectID: 45
+[1/25/2018 2:44:19 PM] [Warning] [Delay] Cancel teleport if hurt: disabled
+[1/25/2018 2:44:19 PM] [Warning] ...
+[1/25/2018 2:44:19 PM] [Warning] Checking for problems:
+[1/25/2018 2:44:19 PM] [Warning] No errors have been found!
+[1/25/2018 2:44:19 PM] [Warning] ...
+[1/25/2018 2:44:19 PM] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[1/25/2018 2:44:19 PM] [Info] This server will automatically save every 1800 seconds
+[1/25/2018 2:44:21 PM] [Info] Steam servers ready!
+[1/25/2018 2:44:21 PM] [Info] Workshop install folder: D:\unturned/Servers/Servidor/Workshop/Steam
+[1/25/2018 2:44:21 PM] [Info] Downloading 0 workshop items...
+[1/25/2018 2:44:21 PM] [Info] General: Survival
+[1/25/2018 2:44:21 PM] [Info] Loading level: 8%
+[1/25/2018 2:44:22 PM] [Info] Loading level: 16%
+[1/25/2018 2:44:31 PM] [Info] Loading level: 25%
+[1/25/2018 2:44:31 PM] [Info] Loading level: 33%
+[1/25/2018 2:44:31 PM] [Info] Loading level: 41%
+[1/25/2018 2:44:31 PM] [Info] Loading level: 50%
+[1/25/2018 2:44:31 PM] [Info] Loading level: 58%
+[1/25/2018 2:44:31 PM] [Info] Loading level: 66%
+[1/25/2018 2:44:31 PM] [Info] Loading level: 75%
+[1/25/2018 2:44:31 PM] [Info] Loading level: 83%
+[1/25/2018 2:44:31 PM] [Info] Loading level: 91%
+[1/25/2018 2:44:31 PM] [Info] Loading level: 100%
+[1/25/2018 2:44:35 PM] [Info] 
+[unloading] RocketMod_TPA
+[1/25/2018 2:44:35 PM] [Info] 
+[unloading] Kits

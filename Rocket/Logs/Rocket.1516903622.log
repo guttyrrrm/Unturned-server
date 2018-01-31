@@ -1,0 +1,277 @@
+[7/31/2016 12:49:56 PM] [Info] [registered] /admins (Rocket.Unturned.Commands.UnturnedCommands/admins)
+[7/31/2016 12:49:56 PM] [Info] [registered] /airdrop (Rocket.Unturned.Commands.UnturnedCommands/airdrop)
+[7/31/2016 12:49:56 PM] [Info] [registered] /bans (Rocket.Unturned.Commands.UnturnedCommands/bans)
+[7/31/2016 12:49:56 PM] [Info] [registered] /bind (Rocket.Unturned.Commands.UnturnedCommands/bind)
+[7/31/2016 12:49:56 PM] [Info] [registered] /chatrate (Rocket.Unturned.Commands.UnturnedCommands/chatrate)
+[7/31/2016 12:49:56 PM] [Info] [registered] /cheats (Rocket.Unturned.Commands.UnturnedCommands/cheats)
+[7/31/2016 12:49:56 PM] [Info] [registered] /cycle (Rocket.Unturned.Commands.UnturnedCommands/cycle)
+[7/31/2016 12:49:56 PM] [Info] [registered] /day (Rocket.Unturned.Commands.UnturnedCommands/day)
+[7/31/2016 12:49:56 PM] [Info] [registered] /debug (Rocket.Unturned.Commands.UnturnedCommands/debug)
+[7/31/2016 12:49:56 PM] [Info] [registered] /experience (Rocket.Unturned.Commands.UnturnedCommands/experience)
+[7/31/2016 12:49:56 PM] [Info] [registered] /filter (Rocket.Unturned.Commands.UnturnedCommands/filter)
+[7/31/2016 12:49:56 PM] [Info] [registered] /give (Rocket.Unturned.Commands.UnturnedCommands/give)
+[7/31/2016 12:49:56 PM] [Info] [registered] /gold (Rocket.Unturned.Commands.UnturnedCommands/gold)
+[7/31/2016 12:49:56 PM] [Info] [registered] /hide_admins (Rocket.Unturned.Commands.UnturnedCommands/hide_admins)
+[7/31/2016 12:49:56 PM] [Info] [registered] /loadout (Rocket.Unturned.Commands.UnturnedCommands/loadout)
+[7/31/2016 12:49:56 PM] [Info] [registered] /log (Rocket.Unturned.Commands.UnturnedCommands/log)
+[7/31/2016 12:49:56 PM] [Info] [registered] /map (Rocket.Unturned.Commands.UnturnedCommands/map)
+[7/31/2016 12:49:56 PM] [Info] [registered] /maxplayers (Rocket.Unturned.Commands.UnturnedCommands/maxplayers)
+[7/31/2016 12:49:56 PM] [Info] [registered] /mode (Rocket.Unturned.Commands.UnturnedCommands/mode)
+[7/31/2016 12:49:56 PM] [Info] [registered] /name (Rocket.Unturned.Commands.UnturnedCommands/name)
+[7/31/2016 12:49:56 PM] [Info] [registered] /night (Rocket.Unturned.Commands.UnturnedCommands/night)
+[7/31/2016 12:49:56 PM] [Info] [registered] /owner (Rocket.Unturned.Commands.UnturnedCommands/owner)
+[7/31/2016 12:49:56 PM] [Info] [registered] /password (Rocket.Unturned.Commands.UnturnedCommands/password)
+[7/31/2016 12:49:56 PM] [Info] [registered] /permit (Rocket.Unturned.Commands.UnturnedCommands/permit)
+[7/31/2016 12:49:56 PM] [Info] [registered] /permits (Rocket.Unturned.Commands.UnturnedCommands/permits)
+[7/31/2016 12:49:56 PM] [Info] [registered] /perspective (Rocket.Unturned.Commands.UnturnedCommands/perspective)
+[7/31/2016 12:49:56 PM] [Info] [registered] /players (Rocket.Unturned.Commands.UnturnedCommands/players)
+[7/31/2016 12:49:56 PM] [Info] [registered] /port (Rocket.Unturned.Commands.UnturnedCommands/port)
+[7/31/2016 12:49:56 PM] [Info] [registered] /pve (Rocket.Unturned.Commands.UnturnedCommands/pve)
+[7/31/2016 12:49:56 PM] [Info] [registered] /queue_size (Rocket.Unturned.Commands.UnturnedCommands/queue_size)
+[7/31/2016 12:49:56 PM] [Info] [registered] /resetconfig (Rocket.Unturned.Commands.UnturnedCommands/resetconfig)
+[7/31/2016 12:49:56 PM] [Info] [registered] /save (Rocket.Unturned.Commands.UnturnedCommands/save)
+[7/31/2016 12:49:56 PM] [Info] [registered] /say (Rocket.Unturned.Commands.UnturnedCommands/say)
+[7/31/2016 12:49:56 PM] [Info] [registered] /shutdown (Rocket.Unturned.Commands.UnturnedCommands/shutdown)
+[7/31/2016 12:49:56 PM] [Info] [registered] /spy (Rocket.Unturned.Commands.UnturnedCommands/spy)
+[7/31/2016 12:49:56 PM] [Info] [registered] /storm (Rocket.Unturned.Commands.UnturnedCommands/storm)
+[7/31/2016 12:49:56 PM] [Info] [registered] /sync (Rocket.Unturned.Commands.UnturnedCommands/sync)
+[7/31/2016 12:49:56 PM] [Info] [registered] /teleport (Rocket.Unturned.Commands.UnturnedCommands/teleport)
+[7/31/2016 12:49:56 PM] [Info] [registered] /time (Rocket.Unturned.Commands.UnturnedCommands/time)
+[7/31/2016 12:49:56 PM] [Info] [registered] /timeout (Rocket.Unturned.Commands.UnturnedCommands/timeout)
+[7/31/2016 12:49:56 PM] [Info] [registered] /unpermit (Rocket.Unturned.Commands.UnturnedCommands/unpermit)
+[7/31/2016 12:49:56 PM] [Info] [registered] /vehicle (Rocket.Unturned.Commands.UnturnedCommands/vehicle)
+[7/31/2016 12:49:56 PM] [Info] [registered] /votify (Rocket.Unturned.Commands.UnturnedCommands/votify)
+[7/31/2016 12:49:56 PM] [Info] [registered] /welcome (Rocket.Unturned.Commands.UnturnedCommands/welcome)
+[7/31/2016 12:49:56 PM] [Info] [registered] /whitelisted (Rocket.Unturned.Commands.UnturnedCommands/whitelisted)
+[7/31/2016 12:49:56 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[7/31/2016 12:49:56 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[7/31/2016 12:49:56 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[7/31/2016 12:49:56 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[7/31/2016 12:49:56 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[7/31/2016 12:49:56 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[7/31/2016 12:49:56 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[7/31/2016 12:49:56 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[7/31/2016 12:49:56 PM] [Info] [registered] /tphome (Rocket.Unturned.Commands.CommandHome/home)
+[7/31/2016 12:49:56 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[7/31/2016 12:49:56 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[7/31/2016 12:49:56 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[7/31/2016 12:49:56 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[7/31/2016 12:49:56 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[7/31/2016 12:49:56 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[7/31/2016 12:49:56 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[7/31/2016 12:49:56 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[7/31/2016 12:49:56 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[7/31/2016 12:49:56 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[7/31/2016 12:49:56 PM] [Info] 
+[loading] CallVote
+[7/31/2016 12:49:56 PM] [Info] [registered] /callvote.cvote (CallVoteCommands.CVoteCommand/callvote.cvote)
+[7/31/2016 12:49:56 PM] [Info] [registered] /cvote (CallVoteCommands.CVoteCommand/cvote)
+[7/31/2016 12:49:56 PM] [Info] CallVote >> CallVote has been loaded!
+[7/31/2016 12:49:56 PM] [Info] 
+[loading] ChatControl
+[7/31/2016 12:49:56 PM] [Info] [registered] /unmute (fr34kyn01535.ChatControl.CommandUnmute/unmute)
+[7/31/2016 12:49:56 PM] [Info] [registered] /mute (fr34kyn01535.ChatControl.CommandMute/mute)
+[7/31/2016 12:49:56 PM] [Info] Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[7/31/2016 12:49:56 PM] [Info] 
+[loading] DeathMessages
+[7/31/2016 12:49:56 PM] [Info] DeathMessages >> Sadusko's Death Messages has been loaded!
+[7/31/2016 12:49:56 PM] [Error] NOTE:
+[7/31/2016 12:49:56 PM] [Error] Don't forget to set the permission 'deathmessage' in one of the groups.
+[7/31/2016 12:49:56 PM] [Info] 
+[loading] FeexAFK
+[7/31/2016 12:49:56 PM] [Info] [registered] /afk (Freenex.FeexAFK.CommandAFK/afk)
+[7/31/2016 12:49:56 PM] [Info] FeexAFK >> Freenex's FeexAFK has been loaded!
+[7/31/2016 12:49:56 PM] [Info] Adding UnturnedPlayerComponent: FeexAFKPlayerComponent
+[7/31/2016 12:49:56 PM] [Info] 
+[loading] FeexExp
+[7/31/2016 12:49:56 PM] [Info] [registered] /exp (Freenex.FeexExp.CommandExp/exp)
+[7/31/2016 12:49:56 PM] [Info] FeexExp >> Freenex's FeexExp has been loaded!
+[7/31/2016 12:49:56 PM] [Info] Adding UnturnedPlayerComponent: FeexExpPlayerComponent
+[7/31/2016 12:49:56 PM] [Info] 
+[loading] FeexGeoBlock
+[7/31/2016 12:49:56 PM] [Info] FeexGeoBlock >> Freenex's FeexGeoBlock has been loaded!
+[7/31/2016 12:49:56 PM] [Info] 
+[loading] FeexHitman
+[7/31/2016 12:49:56 PM] [Info] [registered] /bounty (Freenex.FeexHitman.CommandBounty/bounty)
+[7/31/2016 12:49:56 PM] [Info] [registered] /hitman (Freenex.FeexHitman.CommandHitman/hitman)
+[7/31/2016 12:49:57 PM] [Info] FeexHitman >> Freenex's FeexHitman has been loaded!
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] FeexLimiter
+[7/31/2016 12:49:57 PM] [Info] FeexLimiter >> Freenex's FeexLimiter has been loaded!
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] FeexRanks
+[7/31/2016 12:49:57 PM] [Info] [registered] /list (Freenex.FeexRanks.CommandList/list)
+[7/31/2016 12:49:57 PM] [Info] [registered] /points (Freenex.FeexRanks.CommandPoints/points)
+[7/31/2016 12:49:57 PM] [Info] [registered] /rank (Freenex.FeexRanks.CommandRank/rank)
+[7/31/2016 12:49:57 PM] [Info] FeexRanks >> Freenex's FeexRanks has been loaded!
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] GlobalBan
+[7/31/2016 12:49:57 PM] [Info] [registered] /slay (fr34kyn01535.GlobalBan.CommandSlay/slay)
+[7/31/2016 12:49:57 PM] [Info] [registered] /kick (fr34kyn01535.GlobalBan.CommandKick/kick)
+[7/31/2016 12:49:57 PM] [Info] [registered] /unban (fr34kyn01535.GlobalBan.CommandUnban/unban)
+[7/31/2016 12:49:57 PM] [Info] [registered] /ban (fr34kyn01535.GlobalBan.CommandBan/ban)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] GutyFy
+[7/31/2016 12:49:57 PM] [Info] [registered] /voti (VotifySay.VotifySay/voti)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] JailTime
+[7/31/2016 12:49:57 PM] [Info] [registered] /jail (ApokPT.RocketPlugins.JailTimeCommand/jail)
+[7/31/2016 12:49:57 PM] [Warning] JailTime by ApokPT, fix by Lossy
+[7/31/2016 12:49:57 PM] [Info] Adding UnturnedPlayerComponent: JailTimePlayer
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] JoinLeaveMessages
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] Kits
+[7/31/2016 12:49:57 PM] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[7/31/2016 12:49:57 PM] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[7/31/2016 12:49:57 PM] [Info] Kits >> Optional dependency Uconomy is not present.
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] MessageAnnouncer
+[7/31/2016 12:49:57 PM] [Info] MessageAnnouncer >> Load
+[7/31/2016 12:49:57 PM] [Info] [registered] /reglas (fr34kyn01535.MessageAnnouncer.RocketTextCommand/Reglas)
+[7/31/2016 12:49:57 PM] [Info] [registered] /reglas (fr34kyn01535.MessageAnnouncer.RocketTextCommand/Reglas)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] MOTD
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] P2P
+[7/31/2016 12:49:57 PM] [Info] [registered] /p2p.pm (P2PCommands.PMCommand/p2p.pm)
+[7/31/2016 12:49:57 PM] [Info] [registered] /pm (P2PCommands.PMCommand/pm)
+[7/31/2016 12:49:57 PM] [Info] [registered] /p2p.r (P2PCommands.RCommand/p2p.r)
+[7/31/2016 12:49:57 PM] [Info] [registered] /r (P2PCommands.RCommand/r)
+[7/31/2016 12:49:57 PM] [Info] P2P >> P2P has been loaded!
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] PlayerInfoLib
+[7/31/2016 12:49:57 PM] [Info] [registered] /delint (PlayerInfoLibrary.CommandDelInstance/delint)
+[7/31/2016 12:49:57 PM] [Info] [registered] /rnint (PlayerInfoLibrary.CommandRnInstance/rnint)
+[7/31/2016 12:49:57 PM] [Info] [registered] /investigate (PlayerInfoLibrary.CommandInvestigate/investigate)
+[7/31/2016 12:49:57 PM] [Info] PlayerInfoLib >> PlayerInfoLib plugin has been loaded, Server Instance ID is: 1
+[7/31/2016 12:49:57 PM] [Info] Adding UnturnedPlayerComponent: PlayerInfoLibPComponent
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] ReservedSlots
+[7/31/2016 12:49:57 PM] [Info] ReservedSlots >> Reserved Slots enabled: True, Count: 1, Allowfill: False, DynamicSlots: True, min: 24, max:24.
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] Rocket-Regions
+[7/31/2016 12:49:57 PM] [Info] [registered] /coords (RocketRegions.Commands.CoordsCommand/coords)
+[7/31/2016 12:49:57 PM] [Info] [registered] /regioncreate (RocketRegions.Commands.CreateCommand/regioncreate)
+[7/31/2016 12:49:57 PM] [Info] [registered] /rcreate (RocketRegions.Commands.CreateCommand/rcreate)
+[7/31/2016 12:49:57 PM] [Info] [registered] /regionflag (RocketRegions.Commands.FlagCommand/regionflag)
+[7/31/2016 12:49:57 PM] [Info] [registered] /rflag (RocketRegions.Commands.FlagCommand/rflag)
+[7/31/2016 12:49:57 PM] [Info] [registered] /regionsinfo (RocketRegions.Commands.InfoCommand/regionsinfo)
+[7/31/2016 12:49:57 PM] [Info] [registered] /rinfo (RocketRegions.Commands.InfoCommand/rinfo)
+[7/31/2016 12:49:57 PM] [Info] [registered] /regionlist (RocketRegions.Commands.ListCommand/regionlist)
+[7/31/2016 12:49:57 PM] [Info] [registered] /rlist (RocketRegions.Commands.ListCommand/rlist)
+[7/31/2016 12:49:57 PM] [Info] [registered] /regionpos (RocketRegions.Commands.PosCommand/regionpos)
+[7/31/2016 12:49:57 PM] [Info] [registered] /rpos (RocketRegions.Commands.PosCommand/rpos)
+[7/31/2016 12:49:57 PM] [Info] [registered] /regionredefine (RocketRegions.Commands.RedefineCommand/regionredefine)
+[7/31/2016 12:49:57 PM] [Info] [registered] /rredefine (RocketRegions.Commands.RedefineCommand/rredefine)
+[7/31/2016 12:49:57 PM] [Info] [registered] /regionremove (RocketRegions.Commands.RemoveCommand/regionremove)
+[7/31/2016 12:49:57 PM] [Info] [registered] /rremove (RocketRegions.Commands.RemoveCommand/rremove)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] RocketMod_ItemRestriction
+[7/31/2016 12:49:57 PM] [Warning] Setting up Item Restrictions by LeeIzaZombie. v1.0.0.0
+[7/31/2016 12:49:57 PM] [Warning] --
+[7/31/2016 12:49:57 PM] [Warning] Black listed items found: 9
+[7/31/2016 12:49:57 PM] [Warning] --
+[7/31/2016 12:49:57 PM] [Warning] Item Restrictions is ready!
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] RocketMod_TPA
+[7/31/2016 12:49:57 PM] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[7/31/2016 12:49:57 PM] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[7/31/2016 12:49:57 PM] [Warning] ...
+[7/31/2016 12:49:57 PM] [Warning] Current configuration:
+[7/31/2016 12:49:57 PM] [Warning] ...
+[7/31/2016 12:49:57 PM] [Warning] Cooldown TPA requests: enabled, Seconds: 20
+[7/31/2016 12:49:57 PM] [Warning] Delay teleporting: enabled, Seconds: 7
+[7/31/2016 12:49:57 PM] [Warning] Cancel teleport if bleeding: disabled
+[7/31/2016 12:49:57 PM] [Warning] NinjaTP: disabled, EffectID: 0
+[7/31/2016 12:49:57 PM] [Warning] [Delay] Cancel teleport if hurt: enabled
+[7/31/2016 12:49:57 PM] [Warning] ...
+[7/31/2016 12:49:57 PM] [Warning] Checking for problems:
+[7/31/2016 12:49:57 PM] [Warning] No errors have been found!
+[7/31/2016 12:49:57 PM] [Warning] ...
+[7/31/2016 12:49:57 PM] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] SplashBackup
+[7/31/2016 12:49:57 PM] [Warning] 
+[7/31/2016 12:49:57 PM] [Warning] Backup created :)
+[7/31/2016 12:49:57 PM] [Warning] Structures size: 148kb
+[7/31/2016 12:49:57 PM] [Warning] Objects size   : 21kb
+[7/31/2016 12:49:57 PM] [Warning] Barricades size: 204kb
+[7/31/2016 12:49:57 PM] [Info] SplashBackup >> Broadcast: Backup del servidor creado satisfactoriamente!
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] GutyFy.Ts3
+[7/31/2016 12:49:57 PM] [Info] [registered] /ts (Teamspeak.Ts/ts)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] Uconomy
+[7/31/2016 12:49:57 PM] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[7/31/2016 12:49:57 PM] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] uReport
+[7/31/2016 12:49:57 PM] [Info] [registered] /report (kohai.uReport.CommandReport/report)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] Votifier
+[7/31/2016 12:49:57 PM] [Info] [registered] /reward (fr34kyn01535.Votifier.CommandReward/reward)
+[7/31/2016 12:49:57 PM] [Info] [registered] /vote (fr34kyn01535.Votifier.CommandReward/vote)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] Warps
+[7/31/2016 12:49:57 PM] [Info] [registered] /delwarp (Warps.CommandDelWarp/delwarp)
+[7/31/2016 12:49:57 PM] [Info] [registered] /setwarp (Warps.CommandSetWarp/setwarp)
+[7/31/2016 12:49:57 PM] [Info] [registered] /warp (Warps.CommandWarp/warp)
+[7/31/2016 12:49:57 PM] [Info] [registered] /warps (Warps.CommandWarps/warps)
+[7/31/2016 12:49:57 PM] [Info] [registered] /delwarpall (Warps.CommandDelWarpAll/delwarpall)
+[7/31/2016 12:49:57 PM] [Info] Adding UnturnedPlayerComponent: WarpsPlayerComponent
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] WreckingBall
+[7/31/2016 12:49:57 PM] [Info] [registered] /wreck (ApokPT.RocketPlugins.WreckingBall/wreck)
+[7/31/2016 12:49:57 PM] [Info] [registered] /wreck (ApokPT.RocketPlugins.WreckingBall/wreck)
+[7/31/2016 12:49:57 PM] [Info] [registered] /w (ApokPT.RocketPlugins.WreckingBall/w)
+[7/31/2016 12:49:57 PM] [Info] [registered] /wreck (ApokPT.RocketPlugins.WreckingBall/wreck)
+[7/31/2016 12:49:57 PM] [Info] [registered] /listvehicles (ApokPT.RocketPlugins.WreckingBall/listvehicles)
+[7/31/2016 12:49:57 PM] [Info] [registered] /listvehicles (ApokPT.RocketPlugins.WreckingBall/listvehicles)
+[7/31/2016 12:49:57 PM] [Info] [registered] /disablecleanup (ApokPT.RocketPlugins.WreckingBall/disablecleanup)
+[7/31/2016 12:49:57 PM] [Info] [registered] /disablecleanup (ApokPT.RocketPlugins.WreckingBall/disablecleanup)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] ZaupClearInventoryLib
+[7/31/2016 12:49:57 PM] [Info] [registered] /ci (ZaupClearInventoryLib.CommandCi/ci)
+[7/31/2016 12:49:57 PM] [Info] [registered] /clearinventory (ZaupClearInventoryLib.CommandCi/clearinventory)
+[7/31/2016 12:49:57 PM] [Info] [registered] /cleari (ZaupClearInventoryLib.CommandCi/cleari)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] ZaupFeast
+[7/31/2016 12:49:57 PM] [Info] [registered] /runfeast (ZaupFeast.CommandRunFeast/runfeast)
+[7/31/2016 12:49:57 PM] [Info] [registered] /frun (ZaupFeast.CommandRunFeast/frun)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] ZaupHomeCommand
+[7/31/2016 12:49:57 PM] [Info] [registered] /home (ZaupHomeCommand.CommandHome/home)
+[7/31/2016 12:49:57 PM] [Info] Adding UnturnedPlayerComponent: HomePlayer
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] ZaupShop
+[7/31/2016 12:49:57 PM] [Info] [registered] /buy (ZaupShop.CommandBuy/buy)
+[7/31/2016 12:49:57 PM] [Info] [registered] /cost (ZaupShop.CommandCost/cost)
+[7/31/2016 12:49:57 PM] [Info] [registered] /sell (ZaupShop.CommandSell/sell)
+[7/31/2016 12:49:57 PM] [Info] [registered] /shop (ZaupShop.CommandShop/shop)
+[7/31/2016 12:49:57 PM] [Info] 
+[loading] ZaupUconomyEssentials
+[7/31/2016 12:49:57 PM] [Info] [registered] /apay (Uconomy_Essentials.CommandApay/apay)
+[7/31/2016 12:49:57 PM] [Info] [registered] /exchange (Uconomy_Essentials.CommandExchange/exchange)
+[7/31/2016 12:49:57 PM] [Info] [registered] /buyexp (Uconomy_Essentials.CommandExchange/exchange)
+[7/31/2016 12:49:57 PM] [Info] Adding UnturnedPlayerComponent: PlayerUE
+[7/31/2016 12:49:57 PM] [Info] This server will automatically save every 60 seconds
+[7/31/2016 12:49:58 PM] [Info] Loading level: 8%
+[7/31/2016 12:49:58 PM] [Info] MessageAnnouncer >> Broadcast: Se amable con quienes no tienen armas.
+[7/31/2016 12:49:58 PM] [Info] MessageAnnouncer >> Se amable con quienes no tienen armas.
+[7/31/2016 12:49:58 PM] [Info] Loading level: 16%
+[7/31/2016 12:49:58 PM] [Info] Loading level: 25%
+[7/31/2016 12:49:59 PM] [Info] Loading level: 33%
+[7/31/2016 12:49:59 PM] [Info] Loading level: 41%
+[7/31/2016 12:49:59 PM] [Info] Loading level: 50%
+[7/31/2016 12:49:59 PM] [Info] Loading level: 58%
+[7/31/2016 12:49:59 PM] [Info] Loading level: 66%
+[7/31/2016 12:49:59 PM] [Info] Loading level: 75%
+[7/31/2016 12:49:59 PM] [Info] Loading level: 83%
+[7/31/2016 12:49:59 PM] [Info] Loading level: 91%
+[7/31/2016 12:49:59 PM] [Info] Loading level: 100%
+[7/31/2016 12:50:02 PM] [Info] ZaupFeast >> The next feast will be at Pirate Cove at 7/31/2016 1:05:02 PM
+[7/31/2016 12:50:57 PM] [Info] Saving server
+[7/31/2016 12:51:38 PM] [Info] MessageAnnouncer >> Broadcast: RANGOS DISPONIBLES EN TS!! mafiainc.funs.cl
+[7/31/2016 12:51:38 PM] [Info] MessageAnnouncer >> RANGOS DISPONIBLES EN TS!! mafiainc.funs.cl
+[7/31/2016 12:51:57 PM] [Info] Saving server

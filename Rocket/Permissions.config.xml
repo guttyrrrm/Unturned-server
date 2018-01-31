@@ -96,7 +96,9 @@
       <Prefix>Staff-</Prefix>
       <Suffix />
       <Color>ff5b5b</Color>
-      <Members />
+      <Members>
+        <Member>76561198160890445</Member>
+      </Members>
       <ParentGroup>admin</ParentGroup>
       <Priority>100</Priority>
       <Permissions>

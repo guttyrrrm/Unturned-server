@@ -1,0 +1,2245 @@
+[7/31/2016 12:40:38 AM] [Info] [registered] /admins (Rocket.Unturned.Commands.UnturnedCommands/admins)
+[7/31/2016 12:40:38 AM] [Info] [registered] /airdrop (Rocket.Unturned.Commands.UnturnedCommands/airdrop)
+[7/31/2016 12:40:38 AM] [Info] [registered] /bans (Rocket.Unturned.Commands.UnturnedCommands/bans)
+[7/31/2016 12:40:38 AM] [Info] [registered] /bind (Rocket.Unturned.Commands.UnturnedCommands/bind)
+[7/31/2016 12:40:38 AM] [Info] [registered] /chatrate (Rocket.Unturned.Commands.UnturnedCommands/chatrate)
+[7/31/2016 12:40:38 AM] [Info] [registered] /cheats (Rocket.Unturned.Commands.UnturnedCommands/cheats)
+[7/31/2016 12:40:38 AM] [Info] [registered] /cycle (Rocket.Unturned.Commands.UnturnedCommands/cycle)
+[7/31/2016 12:40:38 AM] [Info] [registered] /day (Rocket.Unturned.Commands.UnturnedCommands/day)
+[7/31/2016 12:40:38 AM] [Info] [registered] /debug (Rocket.Unturned.Commands.UnturnedCommands/debug)
+[7/31/2016 12:40:38 AM] [Info] [registered] /experience (Rocket.Unturned.Commands.UnturnedCommands/experience)
+[7/31/2016 12:40:38 AM] [Info] [registered] /filter (Rocket.Unturned.Commands.UnturnedCommands/filter)
+[7/31/2016 12:40:38 AM] [Info] [registered] /give (Rocket.Unturned.Commands.UnturnedCommands/give)
+[7/31/2016 12:40:38 AM] [Info] [registered] /gold (Rocket.Unturned.Commands.UnturnedCommands/gold)
+[7/31/2016 12:40:38 AM] [Info] [registered] /hide_admins (Rocket.Unturned.Commands.UnturnedCommands/hide_admins)
+[7/31/2016 12:40:38 AM] [Info] [registered] /loadout (Rocket.Unturned.Commands.UnturnedCommands/loadout)
+[7/31/2016 12:40:38 AM] [Info] [registered] /log (Rocket.Unturned.Commands.UnturnedCommands/log)
+[7/31/2016 12:40:38 AM] [Info] [registered] /map (Rocket.Unturned.Commands.UnturnedCommands/map)
+[7/31/2016 12:40:38 AM] [Info] [registered] /maxplayers (Rocket.Unturned.Commands.UnturnedCommands/maxplayers)
+[7/31/2016 12:40:38 AM] [Info] [registered] /mode (Rocket.Unturned.Commands.UnturnedCommands/mode)
+[7/31/2016 12:40:38 AM] [Info] [registered] /name (Rocket.Unturned.Commands.UnturnedCommands/name)
+[7/31/2016 12:40:38 AM] [Info] [registered] /night (Rocket.Unturned.Commands.UnturnedCommands/night)
+[7/31/2016 12:40:38 AM] [Info] [registered] /owner (Rocket.Unturned.Commands.UnturnedCommands/owner)
+[7/31/2016 12:40:38 AM] [Info] [registered] /password (Rocket.Unturned.Commands.UnturnedCommands/password)
+[7/31/2016 12:40:38 AM] [Info] [registered] /permit (Rocket.Unturned.Commands.UnturnedCommands/permit)
+[7/31/2016 12:40:38 AM] [Info] [registered] /permits (Rocket.Unturned.Commands.UnturnedCommands/permits)
+[7/31/2016 12:40:38 AM] [Info] [registered] /perspective (Rocket.Unturned.Commands.UnturnedCommands/perspective)
+[7/31/2016 12:40:38 AM] [Info] [registered] /players (Rocket.Unturned.Commands.UnturnedCommands/players)
+[7/31/2016 12:40:38 AM] [Info] [registered] /port (Rocket.Unturned.Commands.UnturnedCommands/port)
+[7/31/2016 12:40:38 AM] [Info] [registered] /pve (Rocket.Unturned.Commands.UnturnedCommands/pve)
+[7/31/2016 12:40:38 AM] [Info] [registered] /queue_size (Rocket.Unturned.Commands.UnturnedCommands/queue_size)
+[7/31/2016 12:40:38 AM] [Info] [registered] /resetconfig (Rocket.Unturned.Commands.UnturnedCommands/resetconfig)
+[7/31/2016 12:40:38 AM] [Info] [registered] /save (Rocket.Unturned.Commands.UnturnedCommands/save)
+[7/31/2016 12:40:38 AM] [Info] [registered] /say (Rocket.Unturned.Commands.UnturnedCommands/say)
+[7/31/2016 12:40:38 AM] [Info] [registered] /shutdown (Rocket.Unturned.Commands.UnturnedCommands/shutdown)
+[7/31/2016 12:40:38 AM] [Info] [registered] /spy (Rocket.Unturned.Commands.UnturnedCommands/spy)
+[7/31/2016 12:40:38 AM] [Info] [registered] /storm (Rocket.Unturned.Commands.UnturnedCommands/storm)
+[7/31/2016 12:40:38 AM] [Info] [registered] /sync (Rocket.Unturned.Commands.UnturnedCommands/sync)
+[7/31/2016 12:40:38 AM] [Info] [registered] /teleport (Rocket.Unturned.Commands.UnturnedCommands/teleport)
+[7/31/2016 12:40:38 AM] [Info] [registered] /time (Rocket.Unturned.Commands.UnturnedCommands/time)
+[7/31/2016 12:40:38 AM] [Info] [registered] /timeout (Rocket.Unturned.Commands.UnturnedCommands/timeout)
+[7/31/2016 12:40:38 AM] [Info] [registered] /unpermit (Rocket.Unturned.Commands.UnturnedCommands/unpermit)
+[7/31/2016 12:40:38 AM] [Info] [registered] /vehicle (Rocket.Unturned.Commands.UnturnedCommands/vehicle)
+[7/31/2016 12:40:38 AM] [Info] [registered] /votify (Rocket.Unturned.Commands.UnturnedCommands/votify)
+[7/31/2016 12:40:38 AM] [Info] [registered] /welcome (Rocket.Unturned.Commands.UnturnedCommands/welcome)
+[7/31/2016 12:40:38 AM] [Info] [registered] /whitelisted (Rocket.Unturned.Commands.UnturnedCommands/whitelisted)
+[7/31/2016 12:40:38 AM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[7/31/2016 12:40:38 AM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[7/31/2016 12:40:38 AM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[7/31/2016 12:40:38 AM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[7/31/2016 12:40:38 AM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[7/31/2016 12:40:38 AM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[7/31/2016 12:40:38 AM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[7/31/2016 12:40:38 AM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[7/31/2016 12:40:38 AM] [Info] [registered] /tphome (Rocket.Unturned.Commands.CommandHome/home)
+[7/31/2016 12:40:38 AM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[7/31/2016 12:40:38 AM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[7/31/2016 12:40:38 AM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[7/31/2016 12:40:38 AM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[7/31/2016 12:40:38 AM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[7/31/2016 12:40:38 AM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[7/31/2016 12:40:38 AM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[7/31/2016 12:40:38 AM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[7/31/2016 12:40:38 AM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[7/31/2016 12:40:38 AM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] CallVote
+[7/31/2016 12:40:38 AM] [Info] [registered] /callvote.cvote (CallVoteCommands.CVoteCommand/callvote.cvote)
+[7/31/2016 12:40:38 AM] [Info] [registered] /cvote (CallVoteCommands.CVoteCommand/cvote)
+[7/31/2016 12:40:38 AM] [Info] CallVote >> CallVote has been loaded!
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] ChatControl
+[7/31/2016 12:40:38 AM] [Info] [registered] /unmute (fr34kyn01535.ChatControl.CommandUnmute/unmute)
+[7/31/2016 12:40:38 AM] [Info] [registered] /mute (fr34kyn01535.ChatControl.CommandMute/mute)
+[7/31/2016 12:40:38 AM] [Info] Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] DeathMessages
+[7/31/2016 12:40:38 AM] [Info] DeathMessages >> Sadusko's Death Messages has been loaded!
+[7/31/2016 12:40:38 AM] [Error] NOTE:
+[7/31/2016 12:40:38 AM] [Error] Don't forget to set the permission 'deathmessage' in one of the groups.
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] FeexAFK
+[7/31/2016 12:40:38 AM] [Info] [registered] /afk (Freenex.FeexAFK.CommandAFK/afk)
+[7/31/2016 12:40:38 AM] [Info] FeexAFK >> Freenex's FeexAFK has been loaded!
+[7/31/2016 12:40:38 AM] [Info] Adding UnturnedPlayerComponent: FeexAFKPlayerComponent
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] FeexExp
+[7/31/2016 12:40:38 AM] [Info] [registered] /exp (Freenex.FeexExp.CommandExp/exp)
+[7/31/2016 12:40:38 AM] [Info] FeexExp >> Freenex's FeexExp has been loaded!
+[7/31/2016 12:40:38 AM] [Info] Adding UnturnedPlayerComponent: FeexExpPlayerComponent
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] FeexGeoBlock
+[7/31/2016 12:40:38 AM] [Info] FeexGeoBlock >> Freenex's FeexGeoBlock has been loaded!
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] FeexHitman
+[7/31/2016 12:40:38 AM] [Info] [registered] /bounty (Freenex.FeexHitman.CommandBounty/bounty)
+[7/31/2016 12:40:38 AM] [Info] [registered] /hitman (Freenex.FeexHitman.CommandHitman/hitman)
+[7/31/2016 12:40:38 AM] [Info] FeexHitman >> Freenex's FeexHitman has been loaded!
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] FeexLimiter
+[7/31/2016 12:40:38 AM] [Info] FeexLimiter >> Freenex's FeexLimiter has been loaded!
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] FeexRanks
+[7/31/2016 12:40:38 AM] [Info] [registered] /list (Freenex.FeexRanks.CommandList/list)
+[7/31/2016 12:40:38 AM] [Info] [registered] /points (Freenex.FeexRanks.CommandPoints/points)
+[7/31/2016 12:40:38 AM] [Info] [registered] /rank (Freenex.FeexRanks.CommandRank/rank)
+[7/31/2016 12:40:38 AM] [Info] FeexRanks >> Freenex's FeexRanks has been loaded!
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] GlobalBan
+[7/31/2016 12:40:38 AM] [Info] [registered] /slay (fr34kyn01535.GlobalBan.CommandSlay/slay)
+[7/31/2016 12:40:38 AM] [Info] [registered] /kick (fr34kyn01535.GlobalBan.CommandKick/kick)
+[7/31/2016 12:40:38 AM] [Info] [registered] /unban (fr34kyn01535.GlobalBan.CommandUnban/unban)
+[7/31/2016 12:40:38 AM] [Info] [registered] /ban (fr34kyn01535.GlobalBan.CommandBan/ban)
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] GutyFy
+[7/31/2016 12:40:38 AM] [Info] [registered] /voti (VotifySay.VotifySay/voti)
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] JailTime
+[7/31/2016 12:40:38 AM] [Info] [registered] /jail (ApokPT.RocketPlugins.JailTimeCommand/jail)
+[7/31/2016 12:40:38 AM] [Warning] JailTime by ApokPT, fix by Lossy
+[7/31/2016 12:40:38 AM] [Info] Adding UnturnedPlayerComponent: JailTimePlayer
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] JoinLeaveMessages
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] Kits
+[7/31/2016 12:40:38 AM] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[7/31/2016 12:40:38 AM] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[7/31/2016 12:40:38 AM] [Info] Kits >> Optional dependency Uconomy is not present.
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] MessageAnnouncer
+[7/31/2016 12:40:38 AM] [Info] MessageAnnouncer >> Load
+[7/31/2016 12:40:38 AM] [Info] [registered] /reglas (fr34kyn01535.MessageAnnouncer.RocketTextCommand/Reglas)
+[7/31/2016 12:40:38 AM] [Info] [registered] /reglas (fr34kyn01535.MessageAnnouncer.RocketTextCommand/Reglas)
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] MOTD
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] P2P
+[7/31/2016 12:40:38 AM] [Info] [registered] /p2p.pm (P2PCommands.PMCommand/p2p.pm)
+[7/31/2016 12:40:38 AM] [Info] [registered] /pm (P2PCommands.PMCommand/pm)
+[7/31/2016 12:40:38 AM] [Info] [registered] /p2p.r (P2PCommands.RCommand/p2p.r)
+[7/31/2016 12:40:38 AM] [Info] [registered] /r (P2PCommands.RCommand/r)
+[7/31/2016 12:40:38 AM] [Info] P2P >> P2P has been loaded!
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] PlayerInfoLib
+[7/31/2016 12:40:38 AM] [Info] [registered] /delint (PlayerInfoLibrary.CommandDelInstance/delint)
+[7/31/2016 12:40:38 AM] [Info] [registered] /rnint (PlayerInfoLibrary.CommandRnInstance/rnint)
+[7/31/2016 12:40:38 AM] [Info] [registered] /investigate (PlayerInfoLibrary.CommandInvestigate/investigate)
+[7/31/2016 12:40:38 AM] [Info] PlayerInfoLib >> PlayerInfoLib plugin has been loaded, Server Instance ID is: 1
+[7/31/2016 12:40:38 AM] [Info] Adding UnturnedPlayerComponent: PlayerInfoLibPComponent
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] ReservedSlots
+[7/31/2016 12:40:38 AM] [Info] ReservedSlots >> Reserved Slots enabled: True, Count: 1, Allowfill: False, DynamicSlots: True, min: 24, max:24.
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] Rocket-Regions
+[7/31/2016 12:40:38 AM] [Info] [registered] /coords (RocketRegions.Commands.CoordsCommand/coords)
+[7/31/2016 12:40:38 AM] [Info] [registered] /regioncreate (RocketRegions.Commands.CreateCommand/regioncreate)
+[7/31/2016 12:40:38 AM] [Info] [registered] /rcreate (RocketRegions.Commands.CreateCommand/rcreate)
+[7/31/2016 12:40:38 AM] [Info] [registered] /regionflag (RocketRegions.Commands.FlagCommand/regionflag)
+[7/31/2016 12:40:38 AM] [Info] [registered] /rflag (RocketRegions.Commands.FlagCommand/rflag)
+[7/31/2016 12:40:38 AM] [Info] [registered] /regionsinfo (RocketRegions.Commands.InfoCommand/regionsinfo)
+[7/31/2016 12:40:38 AM] [Info] [registered] /rinfo (RocketRegions.Commands.InfoCommand/rinfo)
+[7/31/2016 12:40:38 AM] [Info] [registered] /regionlist (RocketRegions.Commands.ListCommand/regionlist)
+[7/31/2016 12:40:38 AM] [Info] [registered] /rlist (RocketRegions.Commands.ListCommand/rlist)
+[7/31/2016 12:40:38 AM] [Info] [registered] /regionpos (RocketRegions.Commands.PosCommand/regionpos)
+[7/31/2016 12:40:38 AM] [Info] [registered] /rpos (RocketRegions.Commands.PosCommand/rpos)
+[7/31/2016 12:40:38 AM] [Info] [registered] /regionredefine (RocketRegions.Commands.RedefineCommand/regionredefine)
+[7/31/2016 12:40:38 AM] [Info] [registered] /rredefine (RocketRegions.Commands.RedefineCommand/rredefine)
+[7/31/2016 12:40:38 AM] [Info] [registered] /regionremove (RocketRegions.Commands.RemoveCommand/regionremove)
+[7/31/2016 12:40:38 AM] [Info] [registered] /rremove (RocketRegions.Commands.RemoveCommand/rremove)
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] RocketMod_ItemRestriction
+[7/31/2016 12:40:38 AM] [Warning] Setting up Item Restrictions by LeeIzaZombie. v1.0.0.0
+[7/31/2016 12:40:38 AM] [Warning] --
+[7/31/2016 12:40:38 AM] [Warning] Black listed items found: 9
+[7/31/2016 12:40:38 AM] [Warning] --
+[7/31/2016 12:40:38 AM] [Warning] Item Restrictions is ready!
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] RocketMod_TPA
+[7/31/2016 12:40:38 AM] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[7/31/2016 12:40:38 AM] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[7/31/2016 12:40:38 AM] [Warning] ...
+[7/31/2016 12:40:38 AM] [Warning] Current configuration:
+[7/31/2016 12:40:38 AM] [Warning] ...
+[7/31/2016 12:40:38 AM] [Warning] Cooldown TPA requests: enabled, Seconds: 20
+[7/31/2016 12:40:38 AM] [Warning] Delay teleporting: enabled, Seconds: 7
+[7/31/2016 12:40:38 AM] [Warning] Cancel teleport if bleeding: disabled
+[7/31/2016 12:40:38 AM] [Warning] NinjaTP: disabled, EffectID: 0
+[7/31/2016 12:40:38 AM] [Warning] [Delay] Cancel teleport if hurt: enabled
+[7/31/2016 12:40:38 AM] [Warning] ...
+[7/31/2016 12:40:38 AM] [Warning] Checking for problems:
+[7/31/2016 12:40:38 AM] [Warning] No errors have been found!
+[7/31/2016 12:40:38 AM] [Warning] ...
+[7/31/2016 12:40:38 AM] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] SplashBackup
+[7/31/2016 12:40:38 AM] [Warning] 
+[7/31/2016 12:40:38 AM] [Warning] Backup created :)
+[7/31/2016 12:40:38 AM] [Warning] Structures size: 154kb
+[7/31/2016 12:40:38 AM] [Warning] Objects size   : 21kb
+[7/31/2016 12:40:38 AM] [Warning] Barricades size: 209kb
+[7/31/2016 12:40:38 AM] [Info] SplashBackup >> Broadcast: Backup del servidor creado satisfactoriamente!
+[7/31/2016 12:40:38 AM] [Info] 
+[loading] GutyFy.Ts3
+[7/31/2016 12:40:38 AM] [Info] [registered] /ts (Teamspeak.Ts/ts)
+[7/31/2016 12:40:39 AM] [Info] 
+[loading] Uconomy
+[7/31/2016 12:40:39 AM] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[7/31/2016 12:40:39 AM] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[7/31/2016 12:40:39 AM] [Info] 
+[loading] uReport
+[7/31/2016 12:40:39 AM] [Info] [registered] /report (kohai.uReport.CommandReport/report)
+[7/31/2016 12:40:39 AM] [Info] 
+[loading] Votifier
+[7/31/2016 12:40:39 AM] [Info] [registered] /reward (fr34kyn01535.Votifier.CommandReward/reward)
+[7/31/2016 12:40:39 AM] [Info] [registered] /vote (fr34kyn01535.Votifier.CommandReward/vote)
+[7/31/2016 12:40:39 AM] [Info] 
+[loading] Warps
+[7/31/2016 12:40:39 AM] [Info] [registered] /delwarp (Warps.CommandDelWarp/delwarp)
+[7/31/2016 12:40:39 AM] [Info] [registered] /setwarp (Warps.CommandSetWarp/setwarp)
+[7/31/2016 12:40:39 AM] [Info] [registered] /warp (Warps.CommandWarp/warp)
+[7/31/2016 12:40:39 AM] [Info] [registered] /warps (Warps.CommandWarps/warps)
+[7/31/2016 12:40:39 AM] [Info] [registered] /delwarpall (Warps.CommandDelWarpAll/delwarpall)
+[7/31/2016 12:40:39 AM] [Info] Adding UnturnedPlayerComponent: WarpsPlayerComponent
+[7/31/2016 12:40:39 AM] [Info] 
+[loading] WreckingBall
+[7/31/2016 12:40:39 AM] [Info] [registered] /wreck (ApokPT.RocketPlugins.WreckingBall/wreck)
+[7/31/2016 12:40:39 AM] [Info] [registered] /wreck (ApokPT.RocketPlugins.WreckingBall/wreck)
+[7/31/2016 12:40:39 AM] [Info] [registered] /w (ApokPT.RocketPlugins.WreckingBall/w)
+[7/31/2016 12:40:39 AM] [Info] [registered] /wreck (ApokPT.RocketPlugins.WreckingBall/wreck)
+[7/31/2016 12:40:39 AM] [Info] [registered] /listvehicles (ApokPT.RocketPlugins.WreckingBall/listvehicles)
+[7/31/2016 12:40:39 AM] [Info] [registered] /listvehicles (ApokPT.RocketPlugins.WreckingBall/listvehicles)
+[7/31/2016 12:40:39 AM] [Info] [registered] /disablecleanup (ApokPT.RocketPlugins.WreckingBall/disablecleanup)
+[7/31/2016 12:40:39 AM] [Info] [registered] /disablecleanup (ApokPT.RocketPlugins.WreckingBall/disablecleanup)
+[7/31/2016 12:40:39 AM] [Info] 
+[loading] ZaupClearInventoryLib
+[7/31/2016 12:40:39 AM] [Info] [registered] /ci (ZaupClearInventoryLib.CommandCi/ci)
+[7/31/2016 12:40:39 AM] [Info] [registered] /clearinventory (ZaupClearInventoryLib.CommandCi/clearinventory)
+[7/31/2016 12:40:39 AM] [Info] [registered] /cleari (ZaupClearInventoryLib.CommandCi/cleari)
+[7/31/2016 12:40:39 AM] [Info] 
+[loading] ZaupFeast
+[7/31/2016 12:40:39 AM] [Info] [registered] /runfeast (ZaupFeast.CommandRunFeast/runfeast)
+[7/31/2016 12:40:39 AM] [Info] [registered] /frun (ZaupFeast.CommandRunFeast/frun)
+[7/31/2016 12:40:39 AM] [Info] 
+[loading] ZaupHomeCommand
+[7/31/2016 12:40:39 AM] [Info] [registered] /home (ZaupHomeCommand.CommandHome/home)
+[7/31/2016 12:40:39 AM] [Info] Adding UnturnedPlayerComponent: HomePlayer
+[7/31/2016 12:40:39 AM] [Info] 
+[loading] ZaupShop
+[7/31/2016 12:40:39 AM] [Info] [registered] /buy (ZaupShop.CommandBuy/buy)
+[7/31/2016 12:40:39 AM] [Info] [registered] /cost (ZaupShop.CommandCost/cost)
+[7/31/2016 12:40:39 AM] [Info] [registered] /sell (ZaupShop.CommandSell/sell)
+[7/31/2016 12:40:39 AM] [Info] [registered] /shop (ZaupShop.CommandShop/shop)
+[7/31/2016 12:40:39 AM] [Info] 
+[loading] ZaupUconomyEssentials
+[7/31/2016 12:40:39 AM] [Info] [registered] /apay (Uconomy_Essentials.CommandApay/apay)
+[7/31/2016 12:40:39 AM] [Info] [registered] /exchange (Uconomy_Essentials.CommandExchange/exchange)
+[7/31/2016 12:40:39 AM] [Info] [registered] /buyexp (Uconomy_Essentials.CommandExchange/exchange)
+[7/31/2016 12:40:39 AM] [Info] Adding UnturnedPlayerComponent: PlayerUE
+[7/31/2016 12:40:39 AM] [Info] This server will automatically save every 60 seconds
+[7/31/2016 12:40:39 AM] [Info] Loading level: 8%
+[7/31/2016 12:40:40 AM] [Info] MessageAnnouncer >> Broadcast: Se amable con quienes no tienen armas.
+[7/31/2016 12:40:40 AM] [Info] MessageAnnouncer >> Se amable con quienes no tienen armas.
+[7/31/2016 12:40:40 AM] [Info] Loading level: 16%
+[7/31/2016 12:40:40 AM] [Info] Loading level: 25%
+[7/31/2016 12:40:41 AM] [Info] Loading level: 33%
+[7/31/2016 12:40:41 AM] [Info] Loading level: 41%
+[7/31/2016 12:40:41 AM] [Info] Loading level: 50%
+[7/31/2016 12:40:41 AM] [Info] Loading level: 58%
+[7/31/2016 12:40:41 AM] [Info] Loading level: 66%
+[7/31/2016 12:40:41 AM] [Info] Loading level: 75%
+[7/31/2016 12:40:41 AM] [Info] Loading level: 83%
+[7/31/2016 12:40:41 AM] [Info] Loading level: 91%
+[7/31/2016 12:40:41 AM] [Info] Loading level: 100%
+[7/31/2016 12:40:44 AM] [Info] ZaupFeast >> The next feast will be at Alberton at 7/31/2016 12:55:44 AM
+[7/31/2016 12:40:58 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:40:58 AM] [Info] Connecting: PlayerID: 76561198091502715 Name: locowarpro Character: locowarpro
+[7/31/2016 12:40:58 AM] [Info] FeexRanks >> Broadcast: [Consigliere] locowarpro (4381 puntos, posicion 5) se ha conectado al server.
+[7/31/2016 12:40:59 AM] [Info] ask
+[7/31/2016 12:41:06 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:41:06 AM] [Info] Connecting: PlayerID: 76561198134218395 Name: Fker Character: FeoQL
+[7/31/2016 12:41:06 AM] [Info] FeexRanks >> Broadcast: [Soldato] FeoQL (940 puntos, posicion 28) se ha conectado al server.
+[7/31/2016 12:41:06 AM] [Info] ask
+[7/31/2016 12:41:13 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:41:13 AM] [Info] Connecting: PlayerID: 76561198083867191 Name: :3 Character: :3
+[7/31/2016 12:41:13 AM] [Info] FeexRanks >> Broadcast: [Sottocapo] :3 (5190 puntos, posicion 1) se ha conectado al server.
+[7/31/2016 12:41:14 AM] [Info] ask
+[7/31/2016 12:41:20 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:41:20 AM] [Info] Connecting: PlayerID: 76561198263315003 Name: 1Vicho1 Character: LCG VichoQQ
+[7/31/2016 12:41:20 AM] [Info] FeexRanks >> Broadcast: [Caporégime] LCG VichoQQ (1592 puntos, posicion 11) se ha conectado al server.
+[7/31/2016 12:41:20 AM] [Info] ask
+[7/31/2016 12:41:27 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:41:27 AM] [Info] Connecting: PlayerID: 76561198134642734 Name: Koriasd Character: Koriasd CSGODiceGame.com
+[7/31/2016 12:41:27 AM] [Info] FeexRanks >> Broadcast: [Associato] Koriasd CSGODiceGame.com (253 puntos, posicion 136) se ha conectado al server.
+[7/31/2016 12:41:28 AM] [Info] ask
+[7/31/2016 12:41:32 AM] [Info] [World] :3 [:3]: "/pm guty encontre el cartel estas cerca donde es ? esta en la ciudad ¿"
+[7/31/2016 12:41:34 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:41:34 AM] [Info] Connecting: PlayerID: 76561198160890445 Name: TS3 mafiainc.funs.cl Character: GutyFruti
+[7/31/2016 12:41:34 AM] [Info] FeexRanks >> Broadcast: [Consigliere] GutyFruti (4604 puntos, posicion 3) se ha conectado al server.
+[7/31/2016 12:41:34 AM] [Warning] [MOTD] Warning: Player GutyFruti has more than one permission.
+[7/31/2016 12:41:34 AM] [Warning] [MOTD] Warning: We will show messages only from latest group (in MOTD config) to him.
+[7/31/2016 12:41:35 AM] [Info] ask
+[7/31/2016 12:41:39 AM] [Info] Saving server
+[7/31/2016 12:41:43 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:41:43 AM] [Info] Connecting: PlayerID: 76561198070674319 Name: Zev* Character: LCG" Zev*
+[7/31/2016 12:41:43 AM] [Info] FeexRanks >> Broadcast: [Soldato] LCG" Zev* (547 puntos, posicion 55) se ha conectado al server.
+[7/31/2016 12:41:44 AM] [Info] ask
+[7/31/2016 12:41:45 AM] [Info] [World] locowarpro [locowarpro]: "/home"
+[7/31/2016 12:41:45 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 12:41:45 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 12:41:45 AM] [Info] ZaupHomeCommand >> locowarpro [locowarpro] name
+[7/31/2016 12:41:45 AM] [Info] ZaupHomeCommand >> (-247.5, 44.4, 8.8)
+[7/31/2016 12:41:45 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 12:41:45 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:41:46 AM] [Info] [World] FeoQL [Fker]: "me ganaron"
+[7/31/2016 12:41:49 AM] [Info] [World] locowarpro [locowarpro]: "/home"
+[7/31/2016 12:41:49 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 12:41:49 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 12:41:49 AM] [Info] ZaupHomeCommand >> locowarpro [locowarpro] name
+[7/31/2016 12:41:49 AM] [Info] ZaupHomeCommand >> (-247.5, 44.4, 8.8)
+[7/31/2016 12:41:49 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 12:41:49 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:41:51 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* murió desangrado
+[7/31/2016 12:41:51 AM] [Info] LCG" Zev* [Zev*] bled to death!
+[7/31/2016 12:42:01 AM] [Info] LCG VichoQQ [1Vicho1] was blown up by an explosive bullet!
+[7/31/2016 12:42:04 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:42:12 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa :·"
+[7/31/2016 12:42:17 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa :3"
+[7/31/2016 12:42:20 AM] [Info] MessageAnnouncer >> Broadcast: RANGOS DISPONIBLES EN TS!! mafiainc.funs.cl
+[7/31/2016 12:42:20 AM] [Info] MessageAnnouncer >> RANGOS DISPONIBLES EN TS!! mafiainc.funs.cl
+[7/31/2016 12:42:23 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/rank"
+[7/31/2016 12:42:28 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/balance"
+[7/31/2016 12:42:34 AM] [Info] DeathMessages >> Broadcast: Koriasd CSGODiceGame.com lo mató un zombie 
+[7/31/2016 12:42:34 AM] [Info] Koriasd CSGODiceGame.com [Koriasd] was mauled by a zombie!
+[7/31/2016 12:42:39 AM] [Info] Saving server
+[7/31/2016 12:42:43 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa zev"
+[7/31/2016 12:42:46 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 12:42:46 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/kit pvp"
+[7/31/2016 12:42:47 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 12:42:48 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 12:42:49 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 12:42:50 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 12:43:10 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/GO"
+[7/31/2016 12:43:11 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/GOD"
+[7/31/2016 12:43:11 AM] [Info] GutyFruti enabled Godmode
+[7/31/2016 12:43:12 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a locowarpro!
+[7/31/2016 12:43:12 AM] [Info] locowarpro [locowarpro] was shot in the torso by :3 [:3]!
+[7/31/2016 12:43:14 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/tp pirate cove"
+[7/31/2016 12:43:15 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/tp pirate"
+[7/31/2016 12:43:15 AM] [Info] GutyFruti teleported to Pirate Cove
+[7/31/2016 12:43:15 AM] [Info] [World] locowarpro [locowarpro]: "/sell nykorev"
+[7/31/2016 12:43:16 AM] [Info] [World] Koriasd CSGODiceGame.com [Koriasd]: "/KIT PVE"
+[7/31/2016 12:43:20 AM] [Info] [World] locowarpro [locowarpro]: "/home"
+[7/31/2016 12:43:20 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 12:43:20 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 12:43:20 AM] [Info] ZaupHomeCommand >> locowarpro [locowarpro] name
+[7/31/2016 12:43:20 AM] [Info] ZaupHomeCommand >> (-247.5, 44.4, 8.8)
+[7/31/2016 12:43:20 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 12:43:20 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:43:22 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Ya, como son pocos"
+[7/31/2016 12:43:25 AM] [Info] [World] locowarpro [locowarpro]: "/kit sniper"
+[7/31/2016 12:43:28 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "hay mayor prob de que ganen"
+[7/31/2016 12:43:35 AM] [Info] [World] :3 [:3]: "guty"
+[7/31/2016 12:43:35 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:43:35 AM] [Info] [World] LCG" Zev* [Zev*]: "/kit pvp"
+[7/31/2016 12:43:36 AM] [Info] locowarpro moved x:-247.5153 y:45.71651(+16.16352) z:8.799148 in the last second (0.8616524)
+[7/31/2016 12:43:39 AM] [Info] Saving server
+[7/31/2016 12:43:48 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Dime"
+[7/31/2016 12:43:59 AM] [Info] DeathMessages >> Broadcast: locowarpro fusiló a Koriasd CSGODiceGame.com!
+[7/31/2016 12:43:59 AM] [Info] Koriasd CSGODiceGame.com [Koriasd] was shot in the head by locowarpro [locowarpro]!
+[7/31/2016 12:44:00 AM] [Info] MessageAnnouncer >> Broadcast: Bienvenido a Mafia Inc. Disfruta tu estadia♥
+[7/31/2016 12:44:00 AM] [Info] MessageAnnouncer >> Bienvenido a Mafia Inc. Disfruta tu estadia♥
+[7/31/2016 12:44:12 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:44:12 AM] [Info] Connecting: PlayerID: 76561198321349289 Name: rengar_159 Character: Rekknar159
+[7/31/2016 12:44:12 AM] [Info] FeexRanks >> Broadcast: [Associato] Rekknar159 (NULL puntos, posicion NULL) se ha conectado al server.
+[7/31/2016 12:44:13 AM] [Info] ask
+[7/31/2016 12:44:18 AM] [Info] [World] Koriasd CSGODiceGame.com [Koriasd]: "ADMIN"
+[7/31/2016 12:44:19 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:44:19 AM] [Info] Connecting: PlayerID: 76561198271707310 Name: Ruthless Character: [LLU] Ruthless
+[7/31/2016 12:44:19 AM] [Info] FeexRanks >> Broadcast: [Associato] [LLU] Ruthless (326 puntos, posicion 103) se ha conectado al server.
+[7/31/2016 12:44:19 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a FeoQL!
+[7/31/2016 12:44:19 AM] [Info] FeoQL [Fker] was shot in the head by :3 [:3]!
+[7/31/2016 12:44:20 AM] [Info] ask
+[7/31/2016 12:44:25 AM] [Info] [World] FeoQL [Fker]: "puta la wea"
+[7/31/2016 12:44:27 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:44:27 AM] [Info] Connecting: PlayerID: 76561198171492782 Name: Nasuke Character: Subdito Pinochet
+[7/31/2016 12:44:27 AM] [Info] FeexRanks >> Broadcast: [Soldato] Subdito Pinochet (683 puntos, posicion 41) se ha conectado al server.
+[7/31/2016 12:44:27 AM] [Info] ask
+[7/31/2016 12:44:32 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Dime"
+[7/31/2016 12:44:36 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:44:36 AM] [Info] Connecting: PlayerID: 76561198240601256 Name: [LPV]PipeYkPz Character: [LPV]PipeYkPz
+[7/31/2016 12:44:36 AM] [Info] FeexRanks >> Broadcast: [Soldato] [LPV]PipeYkPz (602 puntos, posicion 50) se ha conectado al server.
+[7/31/2016 12:44:37 AM] [Info] ask
+[7/31/2016 12:44:39 AM] [Info] Saving server
+[7/31/2016 12:44:39 AM] [Info] [World] :3 [:3]: "vebn"
+[7/31/2016 12:44:40 AM] [Info] [World] FeoQL [Fker]: "me mato el watonsito ql"
+[7/31/2016 12:44:42 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "Oie Guty"
+[7/31/2016 12:44:42 AM] [Info] [World] Koriasd CSGODiceGame.com [Koriasd]: "SE PUEDEN COMPRAR AUTOS?"
+[7/31/2016 12:44:43 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:44:43 AM] [Info] Connecting: PlayerID: 76561198166063319 Name: Daniel-. Character: Daniel-.
+[7/31/2016 12:44:43 AM] [Info] FeexRanks >> Broadcast: [Soldato] Daniel-. (516 puntos, posicion 63) se ha conectado al server.
+[7/31/2016 12:44:45 AM] [Info] ask
+[7/31/2016 12:44:45 AM] [Info] [World] Rekknar159 [rengar_159]: "/teleport FeoQL"
+[7/31/2016 12:44:48 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy gas"
+[7/31/2016 12:44:48 AM] [Info] [World] FeoQL [Fker]: "/kit pvp"
+[7/31/2016 12:44:50 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:44:50 AM] [Info] Connecting: PlayerID: 76561198145132763 Name: LmSm Character: [LLU] LmSm
+[7/31/2016 12:44:51 AM] [Info] FeexRanks >> Broadcast: [Associato] [LLU] LmSm (0 puntos, posicion 2583) se ha conectado al server.
+[7/31/2016 12:44:51 AM] [Info] ask
+[7/31/2016 12:44:58 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:44:58 AM] [Info] Connecting: PlayerID: 76561198271107446 Name: teemotiamat Character: temmotiamat
+[7/31/2016 12:44:58 AM] [Info] FeexRanks >> Broadcast: [Associato] temmotiamat (60 puntos, posicion 502) se ha conectado al server.
+[7/31/2016 12:44:58 AM] [Info] ask
+[7/31/2016 12:45:03 AM] [Info] [World] Daniel-. [Daniel-.]: "/reward"
+[7/31/2016 12:45:03 AM] [Info] Broadcast: Daniel-. ha votado en unturned-servers.net y ha recibido el pack "Voti1" !
+[7/31/2016 12:45:04 AM] [Info] DeathMessages >> Broadcast: [LLU] Ruthless fusiló a LCG" Zev*!
+[7/31/2016 12:45:04 AM] [Info] LCG" Zev* [Zev*] was shot in the torso by [LLU] Ruthless [Ruthless]!
+[7/31/2016 12:45:05 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:45:05 AM] [Info] Connecting: PlayerID: 76561198137342088 Name: xSnowZaick Character: xSnowZaick
+[7/31/2016 12:45:05 AM] [Info] FeexRanks >> Broadcast: [Consigliere] xSnowZaick (4526 puntos, posicion 4) se ha conectado al server.
+[7/31/2016 12:45:06 AM] [Info] ask
+[7/31/2016 12:45:09 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa vicho"
+[7/31/2016 12:45:12 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:45:12 AM] [Info] Connecting: PlayerID: 76561198320215283 Name: Guille_214 Character: Guille_214
+[7/31/2016 12:45:12 AM] [Info] FeexRanks >> Broadcast: [Soldato] Guille_214 (930 puntos, posicion 31) se ha conectado al server.
+[7/31/2016 12:45:13 AM] [Info] ask
+[7/31/2016 12:45:14 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a [LLU] Ruthless!
+[7/31/2016 12:45:14 AM] [Info] [LLU] Ruthless [Ruthless] was shot in the torso by :3 [:3]!
+[7/31/2016 12:45:18 AM] [Info] [Group] [LLU] Ruthless [Ruthless]: "/tpa lm"
+[7/31/2016 12:45:20 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:45:20 AM] [Info] Connecting: PlayerID: 76561198055534178 Name: jusepe123 Character: jusepe123
+[7/31/2016 12:45:20 AM] [Info] FeexRanks >> Broadcast: [Capodecime] jusepe123 (2221 puntos, posicion 7) se ha conectado al server.
+[7/31/2016 12:45:20 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 12:45:20 AM] [Info] ask
+[7/31/2016 12:45:20 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "/kit vip2"
+[7/31/2016 12:45:21 AM] [Info] [World] [LLU] LmSm [LmSm]: "/tpa a"
+[7/31/2016 12:45:22 AM] [Info] [World] [LLU] LmSm [LmSm]: "/tpa a"
+[7/31/2016 12:45:22 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 12:45:24 AM] [Info] [World] LCG" Zev* [Zev*]: "/kit sniper"
+[7/31/2016 12:45:28 AM] [Info] DeathMessages >> Broadcast: Koriasd CSGODiceGame.com fusiló a FeoQL!
+[7/31/2016 12:45:28 AM] [Info] FeoQL [Fker] was shot in the torso by Koriasd CSGODiceGame.com [Koriasd]!
+[7/31/2016 12:45:31 AM] [Info] [World] Subdito Pinochet [Nasuke]: "xd"
+[7/31/2016 12:45:38 AM] [Info] [World] FeoQL [Fker]: "korias no seai maricon wn"
+[7/31/2016 12:45:39 AM] [Info] Saving server
+[7/31/2016 12:45:40 AM] [Info] MessageAnnouncer >> Broadcast: Puedes ver la IP de nuestro servidor de ts3 con el comando /ts
+[7/31/2016 12:45:40 AM] [Info] MessageAnnouncer >> Puedes ver la IP de nuestro servidor de ts3 con el comando /ts
+[7/31/2016 12:45:42 AM] [Info] DeathMessages >> Broadcast: [LLU] Ruthless fusiló a LCG" Zev*!
+[7/31/2016 12:45:42 AM] [Info] LCG" Zev* [Zev*] was shot in the head by [LLU] Ruthless [Ruthless]!
+[7/31/2016 12:45:46 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa vicho"
+[7/31/2016 12:45:52 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a [LLU] LmSm!
+[7/31/2016 12:45:52 AM] [Info] [LLU] LmSm [LmSm] was shot in the torso by :3 [:3]!
+[7/31/2016 12:45:54 AM] [Info] [World] LCG" Zev* [Zev*]: "/kit pve"
+[7/31/2016 12:45:55 AM] [Info] DeathMessages >> Broadcast: Rekknar159 lo mató un zombie 
+[7/31/2016 12:45:55 AM] [Info] Rekknar159 [rengar_159] was mauled by a zombie!
+[7/31/2016 12:45:59 AM] [Info] [World] [LLU] LmSm [LmSm]: "/tpa ruth"
+[7/31/2016 12:46:00 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 12:46:00 AM] [Info] DeathMessages >> Broadcast: [LLU] Ruthless fusiló a locowarpro!
+[7/31/2016 12:46:00 AM] [Info] locowarpro [locowarpro] was shot in the torso by [LLU] Ruthless [Ruthless]!
+[7/31/2016 12:46:02 AM] [Info] [Group] [LLU] Ruthless [Ruthless]: "/tpa a"
+[7/31/2016 12:46:03 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 12:46:04 AM] [Info] [World] locowarpro [locowarpro]: "/home"
+[7/31/2016 12:46:04 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 12:46:04 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 12:46:04 AM] [Info] ZaupHomeCommand >> locowarpro [locowarpro] name
+[7/31/2016 12:46:04 AM] [Info] ZaupHomeCommand >> (-247.5, 44.4, 8.8)
+[7/31/2016 12:46:04 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 12:46:04 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:46:07 AM] [Info] [World] locowarpro [locowarpro]: "/kit pvp"
+[7/31/2016 12:46:07 AM] [Info] [World] LCG" Zev* [Zev*]: "/kit pvp"
+[7/31/2016 12:46:08 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a [LLU] Ruthless!
+[7/31/2016 12:46:08 AM] [Info] [LLU] Ruthless [Ruthless] was shot in the head by :3 [:3]!
+[7/31/2016 12:46:13 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a [LLU] LmSm!
+[7/31/2016 12:46:13 AM] [Info] [LLU] LmSm [LmSm] was shot in the torso by :3 [:3]!
+[7/31/2016 12:46:13 AM] [Info] [Group] [LLU] Ruthless [Ruthless]: "/tpa lm"
+[7/31/2016 12:46:16 AM] [Info] [World] locowarpro [locowarpro]: "/buy axe"
+[7/31/2016 12:46:16 AM] [Info] [World] Rekknar159 [rengar_159]: "como se llama este server"
+[7/31/2016 12:46:19 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:46:20 AM] [Info] locowarpro moved x:-247.5153 y:44.95486(+18.66305) z:8.799148 in the last second (0.09999847)
+[7/31/2016 12:46:21 AM] [Info] [World] xSnowZaick [xSnowZaick]: "/tpa :3"
+[7/31/2016 12:46:24 AM] [Info] [World] xSnowZaick [xSnowZaick]: "/tpa :3"
+[7/31/2016 12:46:27 AM] [Info] [World] [LLU] LmSm [LmSm]: "/tpa a"
+[7/31/2016 12:46:30 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "acepta mi amigo"
+[7/31/2016 12:46:32 AM] [Info] [World] jusepe123 [jusepe123]: "/tpa pipe"
+[7/31/2016 12:46:36 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/tpa a"
+[7/31/2016 12:46:36 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/tpa a"
+[7/31/2016 12:46:38 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "/kit"
+[7/31/2016 12:46:39 AM] [Info] Saving server
+[7/31/2016 12:46:39 AM] [Info] [World] [LLU] LmSm [LmSm]: "/tpaa"
+[7/31/2016 12:46:39 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "/kits"
+[7/31/2016 12:46:40 AM] [Info] [Group] [LLU] Ruthless [Ruthless]: "/tpa lm"
+[7/31/2016 12:46:41 AM] [Info] [World] [LLU] LmSm [LmSm]: "/tpa a"
+[7/31/2016 12:46:41 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:46:41 AM] [Info] Connecting: PlayerID: 76561198144635370 Name: Diegomon Character: Only Shadow Fiend
+[7/31/2016 12:46:41 AM] [Info] FeexRanks >> Broadcast: [Associato] Only Shadow Fiend (0 puntos, posicion 2581) se ha conectado al server.
+[7/31/2016 12:46:42 AM] [Info] ask
+[7/31/2016 12:46:43 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/home"
+[7/31/2016 12:46:43 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 12:46:43 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 12:46:43 AM] [Info] ZaupHomeCommand >> LCG VichoQQ [1Vicho1] name
+[7/31/2016 12:46:43 AM] [Info] ZaupHomeCommand >> (826.7, 24.7, 234.2)
+[7/31/2016 12:46:43 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 12:46:43 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:46:43 AM] [Info] [World] Daniel-. [Daniel-.]: "mafia"
+[7/31/2016 12:46:45 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/kit pvp"
+[7/31/2016 12:46:48 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "/kit pvp"
+[7/31/2016 12:46:54 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "7kit vip"
+[7/31/2016 12:46:55 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "/kit vip"
+[7/31/2016 12:46:58 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:46:59 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Mafia.INC"
+[7/31/2016 12:47:02 AM] [Info] [World] :3 [:3]: "/pm guty estoy en alver pero no entinedo el cartel porq son 2"
+[7/31/2016 12:47:04 AM] [Info] [World] FeoQL [Fker]: "/kit sniper"
+[7/31/2016 12:47:04 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "ts: mafiainc.funs.cl"
+[7/31/2016 12:47:06 AM] [Info] [World] Rekknar159 [rengar_159]: "como ago un mapa"
+[7/31/2016 12:47:13 AM] [Info] [World] xSnowZaick [xSnowZaick]: "lagg"
+[7/31/2016 12:47:13 AM] [Info] [World] Rekknar159 [rengar_159]: "/kits"
+[7/31/2016 12:47:15 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/vanish"
+[7/31/2016 12:47:15 AM] [Info] GutyFruti enabled Vanishmode
+[7/31/2016 12:47:16 AM] [Info] [World] Koriasd CSGODiceGame.com [Koriasd]: "SE PUEDEN COMPRAR AUTOS?"
+[7/31/2016 12:47:17 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/tp :3"
+[7/31/2016 12:47:17 AM] [Info] GutyFruti teleported to :3
+[7/31/2016 12:47:20 AM] [Info] MessageAnnouncer >> Broadcast: Los kits disponibles son: Pve, Pvp, Colacion y Sniper
+[7/31/2016 12:47:20 AM] [Info] MessageAnnouncer >> Los kits disponibles son: Pve, Pvp, Colacion y Sniper
+[7/31/2016 12:47:20 AM] [Info] [World] xSnowZaick [xSnowZaick]: "si"
+[7/31/2016 12:47:21 AM] [Info] [World] :3 [:3]: "/tpa accept"
+[7/31/2016 12:47:21 AM] [Info] [World] :3 [:3]: "/tpa accept"
+[7/31/2016 12:47:22 AM] [Info] [World] :3 [:3]: "/tpa accept"
+[7/31/2016 12:47:24 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w * 5"
+[7/31/2016 12:47:25 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w confirm"
+[7/31/2016 12:47:30 AM] [Info] [World] Rekknar159 [rengar_159]: "/kit sniper"
+[7/31/2016 12:47:31 AM] [Info] [World] Daniel-. [Daniel-.]: "oye feo team ?"
+[7/31/2016 12:47:32 AM] [Info] [World] xSnowZaick [xSnowZaick]: "tienes que poner /buy v. y el numero del auto"
+[7/31/2016 12:47:33 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:47:33 AM] [Info] Connecting: PlayerID: 76561198314165909 Name: emiley16 Character: elviolador69
+[7/31/2016 12:47:33 AM] [Info] FeexRanks >> Broadcast: [Associato] elviolador69 (50 puntos, posicion 585) se ha conectado al server.
+[7/31/2016 12:47:33 AM] [Info] ask
+[7/31/2016 12:47:39 AM] [Info] Saving server
+[7/31/2016 12:47:42 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "EL ULTIMO PREMIO"
+[7/31/2016 12:47:43 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/buy 17"
+[7/31/2016 12:47:45 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a Rekknar159!
+[7/31/2016 12:47:45 AM] [Info] Rekknar159 [rengar_159] was shot in the head by :3 [:3]!
+[7/31/2016 12:47:45 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "ESTA EN PIRATE COVE"
+[7/31/2016 12:47:46 AM] [Info] [World] Daniel-. [Daniel-.]: ":0"
+[7/31/2016 12:47:48 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "EL QUE LO ENCUENTRA SE LO QUEDA"
+[7/31/2016 12:47:54 AM] [Info] [World] jusepe123 [jusepe123]: "PEPINO"
+[7/31/2016 12:47:54 AM] [Info] [World] Guille_214 [Guille_214]: "(buy gps"
+[7/31/2016 12:47:54 AM] [Info] [World] Subdito Pinochet [Nasuke]: "perosi"
+[7/31/2016 12:47:55 AM] [Info] [World] FeoQL [Fker]: "/buyexp 1500 1"
+[7/31/2016 12:47:57 AM] [Info] [World] Subdito Pinochet [Nasuke]: "ya lo sacamos"
+[7/31/2016 12:47:57 AM] [Info] [World] Rekknar159 [rengar_159]: "/kit sniper"
+[7/31/2016 12:47:57 AM] [Info] [World] Guille_214 [Guille_214]: "/buy gps"
+[7/31/2016 12:47:57 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "tengo lag"
+[7/31/2016 12:47:58 AM] [Info] [World] Subdito Pinochet [Nasuke]: "e ai"
+[7/31/2016 12:47:59 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "WPPPP"
+[7/31/2016 12:47:59 AM] [Info] [World] jusepe123 [jusepe123]: "PEPINO"
+[7/31/2016 12:47:59 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "no puedo ayudarte"
+[7/31/2016 12:48:01 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "ese lo sacamos"
+[7/31/2016 12:48:04 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:48:04 AM] [Info] Connecting: PlayerID: 76561198309865019 Name: purri Character: purri
+[7/31/2016 12:48:04 AM] [Info] FeexRanks >> Broadcast: [Soldato] purri (543 puntos, posicion 57) se ha conectado al server.
+[7/31/2016 12:48:05 AM] [Info] ask
+[7/31/2016 12:48:06 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "nosotros"
+[7/31/2016 12:48:08 AM] [Info] [World] Rekknar159 [rengar_159]: "/kit PVP"
+[7/31/2016 12:48:09 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Sacaron el del barco"
+[7/31/2016 12:48:12 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Ustedes"
+[7/31/2016 12:48:12 AM] [Info] [World] Guille_214 [Guille_214]: "/buy v.1"
+[7/31/2016 12:48:12 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "no"
+[7/31/2016 12:48:13 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:48:13 AM] [Info] Connecting: PlayerID: 76561198275817230 Name: PapaPitufo Character: CrackFussion
+[7/31/2016 12:48:13 AM] [Info] FeexRanks >> Broadcast: [Associato] CrackFussion (260 puntos, posicion 133) se ha conectado al server.
+[7/31/2016 12:48:13 AM] [Info] ask
+[7/31/2016 12:48:15 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Lol?"
+[7/31/2016 12:48:16 AM] [Info] DeathMessages >> Broadcast: Koriasd CSGODiceGame.com fusiló a CrackFussion!
+[7/31/2016 12:48:16 AM] [Info] CrackFussion [PapaPitufo] was shot in the torso by Koriasd CSGODiceGame.com [Koriasd]!
+[7/31/2016 12:48:17 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "/buy v.1"
+[7/31/2016 12:48:18 AM] [Info] [World] jusepe123 [jusepe123]: ":D"
+[7/31/2016 12:48:18 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "el de pirate cobe"
+[7/31/2016 12:48:23 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a locowarpro!
+[7/31/2016 12:48:23 AM] [Info] locowarpro [locowarpro] was shot in the head by :3 [:3]!
+[7/31/2016 12:48:23 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa emi"
+[7/31/2016 12:48:25 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy gps"
+[7/31/2016 12:48:26 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa vicho"
+[7/31/2016 12:48:29 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 12:48:30 AM] [Info] [World] CrackFussion [PapaPitufo]: "/kit pvp"
+[7/31/2016 12:48:31 AM] [Info] [World] FeoQL [Fker]: "puta wn"
+[7/31/2016 12:48:31 AM] [Info] [World] locowarpro [locowarpro]: ":3 metete fngsjg"
+[7/31/2016 12:48:32 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 12:48:34 AM] [Info] [World] locowarpro [locowarpro]: "/home"
+[7/31/2016 12:48:34 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 12:48:34 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 12:48:34 AM] [Info] ZaupHomeCommand >> locowarpro [locowarpro] name
+[7/31/2016 12:48:34 AM] [Info] ZaupHomeCommand >> (-247.5, 44.4, 8.8)
+[7/31/2016 12:48:34 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 12:48:34 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:48:34 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "segun el log"
+[7/31/2016 12:48:35 AM] [Info] [Group] jusepe123 [jusepe123]: "/balance"
+[7/31/2016 12:48:36 AM] [Info] [World] FeoQL [Fker]: "yo estaba buscando en ese"
+[7/31/2016 12:48:37 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "recien lo dijo el"
+[7/31/2016 12:48:39 AM] [Info] Saving server
+[7/31/2016 12:48:40 AM] [Info] [World] locowarpro [locowarpro]: "/kit sniper"
+[7/31/2016 12:48:40 AM] [Info] [World] elviolador69 [emiley16]: "/TPA A"
+[7/31/2016 12:48:44 AM] [Info] [World] LCG" Zev* [Zev*]: "/buy locker"
+[7/31/2016 12:48:45 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/buy v.77"
+[7/31/2016 12:48:45 AM] [Info] [World] locowarpro [locowarpro]: "/kit pve"
+[7/31/2016 12:48:49 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:49:00 AM] [Info] MessageAnnouncer >> Broadcast: Staff: Toy.Boy, Elprah, Schutzstaffel, Rainbow Dash
+[7/31/2016 12:49:00 AM] [Info] MessageAnnouncer >> Staff: Toy.Boy, Elprah, Schutzstaffel, Rainbow Dash
+[7/31/2016 12:49:01 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "[7/31/2016 12:47:59 AM] [Info] [World] jusepe123 [jusepe123]: "PEPINO""
+[7/31/2016 12:49:05 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:49:05 AM] [Info] Connecting: PlayerID: 76561198317830757 Name: PabloPiola Character: PabloPiola
+[7/31/2016 12:49:05 AM] [Info] FeexRanks >> Broadcast: [Associato] PabloPiola (82 puntos, posicion 392) se ha conectado al server.
+[7/31/2016 12:49:05 AM] [Info] ask
+[7/31/2016 12:49:06 AM] [Info] [Group] jusepe123 [jusepe123]: ":D"
+[7/31/2016 12:49:10 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "wena"
+[7/31/2016 12:49:11 AM] [Info] DeathMessages >> Broadcast: FeoQL murió desangrado
+[7/31/2016 12:49:11 AM] [Info] FeoQL [Fker] bled to death!
+[7/31/2016 12:49:14 AM] [Info] [World] jusepe123 [jusepe123]: ":D"
+[7/31/2016 12:49:16 AM] [Info] [World] Subdito Pinochet [Nasuke]: "lo gano?"
+[7/31/2016 12:49:20 AM] [Info] [World] purri [purri]: "awd"
+[7/31/2016 12:49:24 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/apay usepe123 15000000"
+[7/31/2016 12:49:28 AM] [Info] [World] Guille_214 [Guille_214]: "/tpa subdito"
+[7/31/2016 12:49:30 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/tp pirate"
+[7/31/2016 12:49:30 AM] [Info] GutyFruti teleported to Pirate Cove
+[7/31/2016 12:49:30 AM] [Info] DeathMessages >> Broadcast: [LPV]PipeYkPz fusiló a temmotiamat!
+[7/31/2016 12:49:30 AM] [Info] temmotiamat [teemotiamat] was shot in the head by [LPV]PipeYkPz [[LPV]PipeYkPz]!
+[7/31/2016 12:49:31 AM] [Info] DeathMessages >> Broadcast: Koriasd CSGODiceGame.com fusiló a CrackFussion!
+[7/31/2016 12:49:31 AM] [Info] CrackFussion [PapaPitufo] was shot in the torso by Koriasd CSGODiceGame.com [Koriasd]!
+[7/31/2016 12:49:32 AM] [Error] Error in MulticastDelegate PlayerDeath: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Sadusko.DeathMessages.PlayerDeath.UnturnedPlayerEvents_OnPlayerDeath (Rocket.Unturned.Player.UnturnedPlayer player, EDeathCause cause, ELimb limb, CSteamID murderer) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00000] in <filename unknown>:0 
+[7/31/2016 12:49:32 AM] [Info] Subdito Pinochet [Nasuke] was roadkilled by ? [?]!
+[7/31/2016 12:49:33 AM] [Info] Subdito Pinochet moved x:-620.9806 y:43.82663(+16.01472) z:-247.7252 in the last second (5.958107)
+[7/31/2016 12:49:34 AM] [Info] DeathMessages >> Broadcast: elviolador69 fusiló a Koriasd CSGODiceGame.com!
+[7/31/2016 12:49:34 AM] [Info] Koriasd CSGODiceGame.com [Koriasd] was shot in the head by elviolador69 [emiley16]!
+[7/31/2016 12:49:34 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w * 80"
+[7/31/2016 12:49:35 AM] [Info] DeathMessages >> Broadcast: [LPV]PipeYkPz fusiló a Rekknar159!
+[7/31/2016 12:49:35 AM] [Info] Rekknar159 [rengar_159] was shot in the leg by [LPV]PipeYkPz [[LPV]PipeYkPz]!
+[7/31/2016 12:49:35 AM] [Info] [World] :3 [:3]: "pero si habia 2 carteles en alverton"
+[7/31/2016 12:49:35 AM] [Info] [World] jusepe123 [jusepe123]: ":D"
+[7/31/2016 12:49:36 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w confirm"
+[7/31/2016 12:49:39 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "sepo"
+[7/31/2016 12:49:39 AM] [Info] Saving server
+[7/31/2016 12:49:40 AM] [Info] [World] jusepe123 [jusepe123]: "gracias tio admin <3"
+[7/31/2016 12:49:41 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa emi"
+[7/31/2016 12:49:42 AM] [Info] [World] xSnowZaick [xSnowZaick]: "cualquer lag en estap orqueria"
+[7/31/2016 12:49:42 AM] [Info] [World] elviolador69 [emiley16]: "/TPA A"
+[7/31/2016 12:49:43 AM] [Info] Disconnecting: PlayerID: 76561198144635370 Name: Diegomon Character: Only Shadow Fiend
+[7/31/2016 12:49:56 AM] [Info] [World] FeoQL [Fker]: "wn habian 3 carteles en stratford"
+[7/31/2016 12:49:57 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa emi"
+[7/31/2016 12:49:58 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Uno estaba en la cueva"
+[7/31/2016 12:50:00 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "oie y ken gano ?"
+[7/31/2016 12:50:01 AM] [Info] [World] FeoQL [Fker]: "despues me salieron 2"
+[7/31/2016 12:50:05 AM] [Info] [World] jusepe123 [jusepe123]: "/pay pipe 3000000"
+[7/31/2016 12:50:05 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa emi"
+[7/31/2016 12:50:07 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Y otro estaba abajo del barco"
+[7/31/2016 12:50:09 AM] [Info] [World] elviolador69 [emiley16]: "/TPA A"
+[7/31/2016 12:50:09 AM] [Info] Disconnecting: PlayerID: 76561198166063319 Name: Daniel-. Character: Daniel-.
+[7/31/2016 12:50:12 AM] [Info] Disconnecting: PlayerID: 76561198271107446 Name: teemotiamat Character: temmotiamat
+[7/31/2016 12:50:15 AM] [Info] [World] elviolador69 [emiley16]: "/TPA A"
+[7/31/2016 12:50:15 AM] [Info] DeathMessages >> Broadcast: xSnowZaick fusiló a locowarpro!
+[7/31/2016 12:50:15 AM] [Info] locowarpro [locowarpro] was shot in the arm by xSnowZaick [xSnowZaick]!
+[7/31/2016 12:50:15 AM] [Info] [World] Subdito Pinochet [Nasuke]: "date jusepe no te cagoneees"
+[7/31/2016 12:50:18 AM] [Info] [World] FeoQL [Fker]: "y como decia arriba"
+[7/31/2016 12:50:21 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "y que era? Xd"
+[7/31/2016 12:50:24 AM] [Info] [World] locowarpro [locowarpro]: "/home"
+[7/31/2016 12:50:24 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 12:50:24 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 12:50:24 AM] [Info] ZaupHomeCommand >> locowarpro [locowarpro] name
+[7/31/2016 12:50:24 AM] [Info] ZaupHomeCommand >> (-247.5, 44.4, 8.8)
+[7/31/2016 12:50:24 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 12:50:24 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:50:27 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "15m y 20m"
+[7/31/2016 12:50:31 AM] [Info] Disconnecting: PlayerID: 76561198321349289 Name: rengar_159 Character: Rekknar159
+[7/31/2016 12:50:34 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "ah?"
+[7/31/2016 12:50:35 AM] [Info] [World] locowarpro [locowarpro]: "/kit sniper"
+[7/31/2016 12:50:39 AM] [Info] Saving server
+[7/31/2016 12:50:40 AM] [Info] MessageAnnouncer >> Broadcast: Escribe /list para ver el top 3 de los mejores jugadores
+[7/31/2016 12:50:40 AM] [Info] MessageAnnouncer >> Escribe /list para ver el top 3 de los mejores jugadores
+[7/31/2016 12:50:41 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "15 y 20 millones"
+[7/31/2016 12:50:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Alberton en 5 minuto(s)!
+[7/31/2016 12:50:44 AM] [Info] [World] jusepe123 [jusepe123]: "/balance"
+[7/31/2016 12:50:46 AM] [Info] [World] locowarpro [locowarpro]: "lol"
+[7/31/2016 12:50:46 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "shia"
+[7/31/2016 12:50:47 AM] [Info] [World] locowarpro [locowarpro]: "tanto"
+[7/31/2016 12:50:54 AM] [Info] [World] purri [purri]: "como compro colores??"
+[7/31/2016 12:50:54 AM] [Info] [World] FeoQL [Fker]: "ni el pika gana tanto"
+[7/31/2016 12:50:54 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Evento zukulemtho"
+[7/31/2016 12:50:58 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:50:58 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:51:03 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Proxima semana evento parecido"
+[7/31/2016 12:51:05 AM] [Info] [World] FeoQL [Fker]: "y eso que el pika ql es entero chupapico"
+[7/31/2016 12:51:06 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:51:07 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:51:07 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "ASi que esten atentos"
+[7/31/2016 12:51:07 AM] [Info] [World] [LLU] LmSm [LmSm]: "/tpa ruth"
+[7/31/2016 12:51:08 AM] [Info] [World] locowarpro [locowarpro]: "eso es demasiada zhukulemsia"
+[7/31/2016 12:51:09 AM] [Info] [World] Koriasd CSGODiceGame.com [Koriasd]: "aDMIN SE PUEDEN COMPRAR AUTOS?"
+[7/31/2016 12:51:13 AM] [Info] ZaupUconomyEssentials >> voti
+[7/31/2016 12:51:13 AM] [Info] ZaupUconomyEssentials >> 0
+[7/31/2016 12:51:13 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:51:13 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:51:15 AM] [Info] [Group] [LLU] Ruthless [Ruthless]: "/tpa a"
+[7/31/2016 12:51:17 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "no tienes lag __"
+[7/31/2016 12:51:17 AM] [Info] [World] Guille_214 [Guille_214]: "pero falta un cartel po"
+[7/31/2016 12:51:18 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "??"
+[7/31/2016 12:51:19 AM] [Info] DeathMessages >> Broadcast: [LLU] Ruthless fusiló a Guille_214!
+[7/31/2016 12:51:19 AM] [Info] Guille_214 [Guille_214] was shot in the head by [LLU] Ruthless [Ruthless]!
+[7/31/2016 12:51:19 AM] [Info] Guille_214 moved x:-451.3055 y:55.47161(+21.56805) z:-708.472 in the last second (1.000008)
+[7/31/2016 12:51:20 AM] [Info] [World] [LLU] LmSm [LmSm]: "/cost matamorez"
+[7/31/2016 12:51:20 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:51:20 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:51:21 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "korias te han respondido 5 veces que SI SE PUEDE"
+[7/31/2016 12:51:21 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "no tienes lag ???"
+[7/31/2016 12:51:22 AM] [Info] [World] FeoQL [Fker]: "guty aclarame una duda"
+[7/31/2016 12:51:22 AM] [Info] [Group] [LLU] Ruthless [Ruthless]: "/tpa a"
+[7/31/2016 12:51:25 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Dime"
+[7/31/2016 12:51:27 AM] [Info] [World] Guille_214 [Guille_214]: "/buy gps"
+[7/31/2016 12:51:27 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:51:27 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:51:29 AM] [Info] [LLU] LmSm moved x:-403.891 y:67.08277(+39.96917) z:-683.5369 in the last second (0.1315384)
+[7/31/2016 12:51:31 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "tengo mucho lag"
+[7/31/2016 12:51:32 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "xD"
+[7/31/2016 12:51:34 AM] [Info] ZaupUconomyEssentials >> owner
+[7/31/2016 12:51:34 AM] [Info] ZaupUconomyEssentials >> 500
+[7/31/2016 12:51:34 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:51:34 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:51:35 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "/kit vip2"
+[7/31/2016 12:51:38 AM] [Info] [World] FeoQL [Fker]: "en stratford ya sacaron premio?"
+[7/31/2016 12:51:38 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "debe ser mi internet o no"
+[7/31/2016 12:51:39 AM] [Info] Saving server
+[7/31/2016 12:51:42 AM] [Info] [World] Guille_214 [Guille_214]: "puta rutless e la conchetuare"
+[7/31/2016 12:51:42 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/tp stratf"
+[7/31/2016 12:51:43 AM] [Info] GutyFruti teleported to Stratford
+[7/31/2016 12:51:43 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:51:43 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:51:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Alberton en 4 minuto(s)!
+[7/31/2016 12:51:48 AM] [Info] [World] Guille_214 [Guille_214]: "/pm"
+[7/31/2016 12:51:48 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "sha k paza"
+[7/31/2016 12:51:49 AM] [Info] [World] :3 [:3]: "/sell blun 2"
+[7/31/2016 12:51:54 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:51:54 AM] [Info] Connecting: PlayerID: 76561198193127395 Name: gabrielprofe Character: gabrielprofe
+[7/31/2016 12:51:54 AM] [Info] FeexRanks >> Broadcast: [Avvocato] gabrielprofe (1079 puntos, posicion 20) se ha conectado al server.
+[7/31/2016 12:51:55 AM] [Info] ask
+[7/31/2016 12:51:56 AM] [Info] [World] locowarpro [locowarpro]: "admin volveran a poner el mapa de washigton?"
+[7/31/2016 12:51:58 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "No habia premio en statford"
+[7/31/2016 12:52:03 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa pipe"
+[7/31/2016 12:52:03 AM] [Info] [World] Guille_214 [Guille_214]: "/pm pinoochet"
+[7/31/2016 12:52:05 AM] [Info] [World] FeoQL [Fker]: "en la wea del barco"
+[7/31/2016 12:52:06 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Si, pero en otro servidor"
+[7/31/2016 12:52:09 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "/kit vip2"
+[7/31/2016 12:52:09 AM] [Info] [World] Subdito Pinochet [Nasuke]: "oe jusepe"
+[7/31/2016 12:52:09 AM] [Info] [World] :3 [:3]: "pero en el barco no habia nada"
+[7/31/2016 12:52:15 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Abajo del barco estaba el premio"
+[7/31/2016 12:52:17 AM] [Info] [World] Guille_214 [Guille_214]: "/tpa subdito"
+[7/31/2016 12:52:20 AM] [Info] MessageAnnouncer >> Broadcast: Escribe /rank para ver la posicion que ocupas en el server
+[7/31/2016 12:52:20 AM] [Info] MessageAnnouncer >> Escribe /rank para ver la posicion que ocupas en el server
+[7/31/2016 12:52:24 AM] [Info] Disconnecting: PlayerID: 76561198240601256 Name: [LPV]PipeYkPz Character: [LPV]PipeYkPz
+[7/31/2016 12:52:26 AM] [Info] [World] FeoQL [Fker]: "y como me dijo arriba la wea"
+[7/31/2016 12:52:27 AM] [Info] [World] locowarpro [locowarpro]: "pero en el otro server tendremos el mismo dinero que tenemos aqui"
+[7/31/2016 12:52:32 AM] [Info] [World] :3 [:3]: "no esta xd y eso que pase antes que lo resetiaras"
+[7/31/2016 12:52:33 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Arriba del container decia que estaba abajo del barco"
+[7/31/2016 12:52:34 AM] [Info] [World] Guille_214 [Guille_214]: "oye subdito pinochet aceptame el tpa"
+[7/31/2016 12:52:36 AM] [Info] Disconnecting: PlayerID: 76561198134642734 Name: Koriasd Character: Koriasd CSGODiceGame.com
+[7/31/2016 12:52:36 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/kit pvp"
+[7/31/2016 12:52:38 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:52:38 AM] [Info] Connecting: PlayerID: 76561198142925845 Name: Benjaminlp13 Character: [Militar]Benjaminlp13
+[7/31/2016 12:52:38 AM] [Info] FeexRanks >> Broadcast: [Soldato] [Militar]Benjaminlp13 (509 puntos, posicion 65) se ha conectado al server.
+[7/31/2016 12:52:39 AM] [Info] Disconnecting: PlayerID: 76561198309865019 Name: purri Character: purri
+[7/31/2016 12:52:39 AM] [Info] Saving server
+[7/31/2016 12:52:40 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/kit sniper"
+[7/31/2016 12:52:41 AM] [Info] ask
+[7/31/2016 12:52:43 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Por eso dije"
+[7/31/2016 12:52:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Alberton en 3 minuto(s)!
+[7/31/2016 12:52:46 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Que buscaran por todosl ados"
+[7/31/2016 12:52:47 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:52:47 AM] [Info] Connecting: PlayerID: 76561198167933024 Name: [L.P.V]pollo13 Character: [L.P.V]Pollo12
+[7/31/2016 12:52:47 AM] [Info] FeexRanks >> Broadcast: [Associato] [L.P.V]Pollo12 (36 puntos, posicion 763) se ha conectado al server.
+[7/31/2016 12:52:47 AM] [Info] [World] FeoQL [Fker]: "se mas especifico pa la otra po :c"
+[7/31/2016 12:52:49 AM] [Info] ask
+[7/31/2016 12:52:51 AM] [Info] [World] locowarpro [locowarpro]: "/buy gps"
+[7/31/2016 12:53:02 AM] [Info] [World] Subdito Pinochet [Nasuke]: "oe jusepe ql"
+[7/31/2016 12:53:03 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:53:03 AM] [Info] Connecting: PlayerID: 76561198309865019 Name: purri Character: purri
+[7/31/2016 12:53:03 AM] [Info] FeexRanks >> Broadcast: [Soldato] purri (543 puntos, posicion 57) se ha conectado al server.
+[7/31/2016 12:53:03 AM] [Info] ask
+[7/31/2016 12:53:05 AM] [Info] [World] FeoQL [Fker]: "casi le hacia y el ql del snow me cago"
+[7/31/2016 12:53:08 AM] [Info] [World] locowarpro [locowarpro]: "/kit pvp"
+[7/31/2016 12:53:11 AM] [Info] [Group] FeoQL [Fker]: "el feo ql :c"
+[7/31/2016 12:53:11 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:53:11 AM] [Info] Connecting: PlayerID: 76561198319420604 Name: sub-zero Character: SUB-ZERO
+[7/31/2016 12:53:11 AM] [Info] FeexRanks >> Broadcast: [Soldato] SUB-ZERO (938 puntos, posicion 30) se ha conectado al server.
+[7/31/2016 12:53:12 AM] [Info] ask
+[7/31/2016 12:53:13 AM] [Info] [World] locowarpro [locowarpro]: "/kit sniper"
+[7/31/2016 12:53:15 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa juse"
+[7/31/2016 12:53:17 AM] [Info] [World] locowarpro [locowarpro]: "/kit pve"
+[7/31/2016 12:53:19 AM] [Info] [World] SUB-ZERO [sub-zero]: "oye guille"
+[7/31/2016 12:53:23 AM] [Info] [World] locowarpro [locowarpro]: "/kit sniper"
+[7/31/2016 12:53:26 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/rank"
+[7/31/2016 12:53:26 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/rank"
+[7/31/2016 12:53:27 AM] [Info] [World] Guille_214 [Guille_214]: "que"
+[7/31/2016 12:53:28 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "/list"
+[7/31/2016 12:53:30 AM] [Info] [World] Subdito Pinochet [Nasuke]: "jusepe"
+[7/31/2016 12:53:32 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:53:32 AM] [Info] Connecting: PlayerID: 76561198250963880 Name: Santiiago7u7 Character: Santiiago7u7
+[7/31/2016 12:53:32 AM] [Info] FeexRanks >> Broadcast: [Associato] Santiiago7u7 (NULL puntos, posicion NULL) se ha conectado al server.
+[7/31/2016 12:53:32 AM] [Info] ask
+[7/31/2016 12:53:32 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "/rank"
+[7/31/2016 12:53:32 AM] [Info] [World] SUB-ZERO [sub-zero]: "acepta"
+[7/31/2016 12:53:35 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "/list"
+[7/31/2016 12:53:38 AM] [Info] [World] SUB-ZERO [sub-zero]: "/tpa guille"
+[7/31/2016 12:53:39 AM] [Info] Saving server
+[7/31/2016 12:53:39 AM] [Info] [World] Guille_214 [Guille_214]: "/tpa accept"
+[7/31/2016 12:53:39 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/kit mafia"
+[7/31/2016 12:53:42 AM] [Info] [World] Guille_214 [Guille_214]: "/tpa accept"
+[7/31/2016 12:53:43 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:53:43 AM] [Info] Connecting: PlayerID: 76561198255624025 Name: SrCelio21 Character: LCG SrCelio21
+[7/31/2016 12:53:43 AM] [Info] FeexRanks >> Broadcast: [Soldato] LCG SrCelio21 (474 puntos, posicion 73) se ha conectado al server.
+[7/31/2016 12:53:43 AM] [Info] ask
+[7/31/2016 12:53:44 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "ts: mafiainc.funs.cl"
+[7/31/2016 12:53:44 AM] [Info] [World] SUB-ZERO [sub-zero]: "/kit pvp"
+[7/31/2016 12:53:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Alberton en 2 minuto(s)!
+[7/31/2016 12:53:46 AM] [Info] [World] FeoQL [Fker]: "jusepe"
+[7/31/2016 12:53:46 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/sell timber"
+[7/31/2016 12:53:48 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/sell ace"
+[7/31/2016 12:53:52 AM] [Info] [World] Santiiago7u7 [Santiiago7u7]: "/tp rekknar159"
+[7/31/2016 12:53:54 AM] [Info] DeathMessages >> Broadcast: SUB-ZERO fusiló a Guille_214!
+[7/31/2016 12:53:54 AM] [Info] Guille_214 [Guille_214] was shot in the torso by SUB-ZERO [sub-zero]!
+[7/31/2016 12:53:57 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/kit pvp"
+[7/31/2016 12:53:57 AM] [Info] [World] Santiiago7u7 [Santiiago7u7]: "/tp"
+[7/31/2016 12:53:58 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/tpa benja"
+[7/31/2016 12:53:59 AM] [Info] [World] FeoQL [Fker]: "oye jusepe"
+[7/31/2016 12:53:59 AM] [Info] [World] SUB-ZERO [sub-zero]: "no"
+[7/31/2016 12:54:00 AM] [Info] MessageAnnouncer >> Broadcast: Recuerda votar por el servidor! mas info escribe /voti
+[7/31/2016 12:54:00 AM] [Info] MessageAnnouncer >> Recuerda votar por el servidor! mas info escribe /voti
+[7/31/2016 12:54:02 AM] [Info] [World] jusepe123 [jusepe123]: "si _"
+[7/31/2016 12:54:02 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:54:02 AM] [Info] Connecting: PlayerID: 76561198208149815 Name: =[M.O.W]=Nightmare Balloon Boy Character: Lucasge999
+[7/31/2016 12:54:02 AM] [Info] FeexRanks >> Broadcast: [Associato] Lucasge999 (5 puntos, posicion 1806) se ha conectado al server.
+[7/31/2016 12:54:03 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/tpa a"
+[7/31/2016 12:54:04 AM] [Info] [World] Santiiago7u7 [Santiiago7u7]: "/tpa"
+[7/31/2016 12:54:04 AM] [Info] [World] Subdito Pinochet [Nasuke]: "oe po jusepe"
+[7/31/2016 12:54:04 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/tpa a"
+[7/31/2016 12:54:05 AM] [Info] ask
+[7/31/2016 12:54:06 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/tpa a"
+[7/31/2016 12:54:06 AM] [Info] [World] jusepe123 [jusepe123]: "??"
+[7/31/2016 12:54:07 AM] [Info] [World] PabloPiola [PabloPiola]: "/voti"
+[7/31/2016 12:54:07 AM] [Info] [World] SUB-ZERO [sub-zero]: "enbia"
+[7/31/2016 12:54:10 AM] [Info] [World] FeoQL [Fker]: "rajate con 10 pesos"
+[7/31/2016 12:54:12 AM] [Info] [World] Guille_214 [Guille_214]: "/tpa sub"
+[7/31/2016 12:54:14 AM] [Info] [World] Santiiago7u7 [Santiiago7u7]: "/kits"
+[7/31/2016 12:54:18 AM] [Info] [World] jusepe123 [jusepe123]: "JA !"
+[7/31/2016 12:54:19 AM] [Info] ZaupUconomyEssentials >> vip
+[7/31/2016 12:54:19 AM] [Info] ZaupUconomyEssentials >> 2700
+[7/31/2016 12:54:19 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:54:19 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:54:21 AM] [Info] [World] purri [purri]: "admin"
+[7/31/2016 12:54:21 AM] [Info] [World] SUB-ZERO [sub-zero]: "yo soy del clanbb"
+[7/31/2016 12:54:23 AM] [Info] [World] Subdito Pinochet [Nasuke]: "no te cagoneees rajate con sus 4 millones si grasias ami encontraron la wea"
+[7/31/2016 12:54:24 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Dime"
+[7/31/2016 12:54:24 AM] [Info] [World] Santiiago7u7 [Santiiago7u7]: "/kit pve"
+[7/31/2016 12:54:27 AM] [Info] ZaupUconomyEssentials >> mafia
+[7/31/2016 12:54:27 AM] [Info] ZaupUconomyEssentials >> 0
+[7/31/2016 12:54:27 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:54:27 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:54:28 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "lag loc"
+[7/31/2016 12:54:30 AM] [Info] [World] FeoQL [Fker]: "si wn"
+[7/31/2016 12:54:30 AM] [Info] [World] Guille_214 [Guille_214]: "admin regalame color para mi nombre porfa"
+[7/31/2016 12:54:32 AM] [Info] [World] purri [purri]: "como puedo comprar un helicoptero"
+[7/31/2016 12:54:32 AM] [Info] DeathMessages >> Broadcast: [LLU] Ruthless fusiló a xSnowZaick!
+[7/31/2016 12:54:32 AM] [Info] xSnowZaick [xSnowZaick] was shot in the head by [LLU] Ruthless [Ruthless]!
+[7/31/2016 12:54:32 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "wena raton cristobal"
+[7/31/2016 12:54:33 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "No"
+[7/31/2016 12:54:36 AM] [Info] [World] SUB-ZERO [sub-zero]: "guille"
+[7/31/2016 12:54:37 AM] [Info] [World] Subdito Pinochet [Nasuke]: "oe jusepe"
+[7/31/2016 12:54:38 AM] [Info] [World] Subdito Pinochet [Nasuke]: "ql"
+[7/31/2016 12:54:39 AM] [Info] Saving server
+[7/31/2016 12:54:40 AM] [Info] [World] jusepe123 [jusepe123]: "/tpa pinochet"
+[7/31/2016 12:54:40 AM] [Info] [World] Guille_214 [Guille_214]: "a ok :("
+[7/31/2016 12:54:41 AM] [Info] [World] xSnowZaick [xSnowZaick]: "QUE LAG POR LA RECRESTA"
+[7/31/2016 12:54:43 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:54:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Alberton en 1 minuto(s)!
+[7/31/2016 12:54:44 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:54:44 AM] [Info] [World] SUB-ZERO [sub-zero]: "disculpa"
+[7/31/2016 12:54:44 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "con /buy.v 94"
+[7/31/2016 12:54:44 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:54:45 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:54:47 AM] [Info] DeathMessages >> Broadcast: [LLU] LmSm fusiló a :3!
+[7/31/2016 12:54:47 AM] [Info] :3 [:3] was shot in the torso by [LLU] LmSm [LmSm]!
+[7/31/2016 12:54:49 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/cost v 94"
+[7/31/2016 12:54:51 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:54:51 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:54:52 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "e.e"
+[7/31/2016 12:54:53 AM] [Info] [World] LCG" Zev* [Zev*]: "/kit policia"
+[7/31/2016 12:54:53 AM] [Warning] The player LCG" Zev* has no permission to execute the command kit
+[7/31/2016 12:54:54 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "es encerio"
+[7/31/2016 12:54:55 AM] [Info] Disconnecting: PlayerID: 76561198250963880 Name: Santiiago7u7 Character: Santiiago7u7
+[7/31/2016 12:54:55 AM] [Info] [World] FeoQL [Fker]: "guty"
+[7/31/2016 12:54:55 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "hay mucho lag"
+[7/31/2016 12:54:58 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "DIme"
+[7/31/2016 12:54:58 AM] [Info] [World] Guille_214 [Guille_214]: "na nimporta"
+[7/31/2016 12:54:59 AM] [Info] [Group] :3 [:3]: "sierto que el manco ese tenia kit"
+[7/31/2016 12:55:00 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "no puedo jugar asi"
+[7/31/2016 12:55:02 AM] [Info] [World] FeoQL [Fker]: "por que le bajaron el precio al scrap"
+[7/31/2016 12:55:05 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:55:05 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:55:05 AM] [Info] [World] FeoQL [Fker]: "al venderlo"
+[7/31/2016 12:55:05 AM] [Info] [Area] Subdito Pinochet [Nasuke]: "oe jusepe date 4 millones si grasias ami encontraron la wea"
+[7/31/2016 12:55:06 AM] [Info] [Group] :3 [:3]: "400"
+[7/31/2016 12:55:07 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "hay mucho lag"
+[7/31/2016 12:55:09 AM] [Info] [World] :3 [:3]: "400 ms"
+[7/31/2016 12:55:10 AM] [Info] [World] SUB-ZERO [sub-zero]: "/tpa guille"
+[7/31/2016 12:55:10 AM] [Info] DeathMessages >> Broadcast: [LLU] LmSm fusiló a gabrielprofe!
+[7/31/2016 12:55:10 AM] [Info] gabrielprofe [gabrielprofe] was shot in the head by [LLU] LmSm [LmSm]!
+[7/31/2016 12:55:11 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "400 ms"
+[7/31/2016 12:55:12 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "yo igual"
+[7/31/2016 12:55:12 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:55:12 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:55:14 AM] [Info] [World] FeoQL [Fker]: "yo me hacia millonario con esa wea :c"
+[7/31/2016 12:55:14 AM] [Info] [World] :3 [:3]: "250 ms"
+[7/31/2016 12:55:14 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "xD"
+[7/31/2016 12:55:14 AM] [Info] [World] SUB-ZERO [sub-zero]: "acepta"
+[7/31/2016 12:55:15 AM] [Info] [World] Guille_214 [Guille_214]: "/tpa accept"
+[7/31/2016 12:55:17 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Porque"
+[7/31/2016 12:55:17 AM] [Info] [World] Guille_214 [Guille_214]: "/tpa accept"
+[7/31/2016 12:55:18 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/tpa benja"
+[7/31/2016 12:55:19 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Por eso mismo xD"
+[7/31/2016 12:55:20 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:55:20 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:55:21 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:55:21 AM] [Info] Connecting: PlayerID: 76561198254067277 Name: PITUCHO Character: XxPerritoxX
+[7/31/2016 12:55:21 AM] [Info] FeexRanks >> Broadcast: [Associato] XxPerritoxX (12 puntos, posicion 1348) se ha conectado al server.
+[7/31/2016 12:55:21 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/tpa a"
+[7/31/2016 12:55:22 AM] [Info] [World] xSnowZaick [xSnowZaick]: "porque tanto lag"
+[7/31/2016 12:55:22 AM] [Info] ask
+[7/31/2016 12:55:23 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/tpa a"
+[7/31/2016 12:55:26 AM] [Info] [Area] Subdito Pinochet [Nasuke]: "ya date altoque"
+[7/31/2016 12:55:27 AM] [Info] DeathMessages >> Broadcast: [LLU] LmSm fusiló a [Militar]Benjaminlp13!
+[7/31/2016 12:55:27 AM] [Info] [Militar]Benjaminlp13 [Benjaminlp13] was shot in the head by [LLU] LmSm [LmSm]!
+[7/31/2016 12:55:29 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Para mantener un poco el valor de la moneda"
+[7/31/2016 12:55:32 AM] [Info] Disconnecting: PlayerID: 76561198208149815 Name: =[M.O.W]=Nightmare Balloon Boy Character: Lucasge999
+[7/31/2016 12:55:33 AM] [Info] [Area] Subdito Pinochet [Nasuke]: "quekosa"
+[7/31/2016 12:55:34 AM] [Info] [World] FeoQL [Fker]: "e_e"
+[7/31/2016 12:55:36 AM] [Info] DeathMessages >> Broadcast: gabrielprofe agarró a combos a :3 hasta matarlo
+[7/31/2016 12:55:36 AM] [Info] :3 [:3] was punched in the head by gabrielprofe [gabrielprofe]!
+[7/31/2016 12:55:39 AM] [Info] Saving server
+[7/31/2016 12:55:39 AM] [Info] [World] :3 [:3]: "bue gg"
+[7/31/2016 12:55:39 AM] [Info] [Area] Subdito Pinochet [Nasuke]: "si"
+[7/31/2016 12:55:39 AM] [Info] [World] FeoQL [Fker]: "me cagaste wn"
+[7/31/2016 12:55:40 AM] [Info] MessageAnnouncer >> Broadcast: Los kits disponibles son: Pve, Pvp, Colacion y Sniper
+[7/31/2016 12:55:40 AM] [Info] MessageAnnouncer >> Los kits disponibles son: Pve, Pvp, Colacion y Sniper
+[7/31/2016 12:55:43 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/kit pvp"
+[7/31/2016 12:55:44 AM] [Info] ZaupFeast >> Broadcast: Acaba de caer un airdrop en Alberton ! ! !
+[7/31/2016 12:55:44 AM] [Info] ZaupFeast >> The next feast will be at Pirate Cove at 7/31/2016 1:10:44 AM
+[7/31/2016 12:55:44 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/kit pve"
+[7/31/2016 12:55:47 AM] [Info] [World] :3 [:3]: "no se puede caminar del lag"
+[7/31/2016 12:55:50 AM] [Info] [World] FeoQL [Fker]: "ma encima le subiste el precio al rocket"
+[7/31/2016 12:55:50 AM] [Info] [Area] Subdito Pinochet [Nasuke]: "3 millones"
+[7/31/2016 12:55:52 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:55:52 AM] [Info] Connecting: PlayerID: 76561198240601256 Name: [LPV]PipeYkPz Character: [LPV]PipeYkPz
+[7/31/2016 12:55:52 AM] [Info] FeexRanks >> Broadcast: [Soldato] [LPV]PipeYkPz (612 puntos, posicion 50) se ha conectado al server.
+[7/31/2016 12:55:53 AM] [Info] ask
+[7/31/2016 12:55:56 AM] [Info] [World] xSnowZaick [xSnowZaick]: "no se puede ni sacar el arma"
+[7/31/2016 12:55:57 AM] [Info] [World] xSnowZaick [xSnowZaick]: "xD"
+[7/31/2016 12:55:59 AM] [Info] [World] jusepe123 [jusepe123]: "/pay pinochet 3000000"
+[7/31/2016 12:56:01 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "admin"
+[7/31/2016 12:56:03 AM] [Info] [World] XxPerritoxX [PITUCHO]: "hola"
+[7/31/2016 12:56:06 AM] [Info] [Area] Subdito Pinochet [Nasuke]: "ok"
+[7/31/2016 12:56:06 AM] [Info] [World] :3 [:3]: "guty resetialo"
+[7/31/2016 12:56:12 AM] [Info] [World] FeoQL [Fker]: "no se puede ni mirar"
+[7/31/2016 12:56:17 AM] [Info] [World] Subdito Pinochet [Nasuke]: "pipe tira tp"
+[7/31/2016 12:56:18 AM] [Info] DeathMessages >> Broadcast: [L.P.V]Pollo12 se suicidó! rip in peace. PIERDE $4000 COMO PENALIZACION
+[7/31/2016 12:56:19 AM] [Info] [L.P.V]Pollo12 [[L.P.V]pollo13] killed themself.
+[7/31/2016 12:56:19 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/pay xxperritoxx 500000"
+[7/31/2016 12:56:23 AM] [Info] Disconnecting: PlayerID: 76561198134218395 Name: Fker Character: FeoQL
+[7/31/2016 12:56:24 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a jusepe123!
+[7/31/2016 12:56:24 AM] [Info] jusepe123 [jusepe123] was shot in the head by LCG" Zev* [Zev*]!
+[7/31/2016 12:56:25 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/b"
+[7/31/2016 12:56:25 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a Subdito Pinochet!
+[7/31/2016 12:56:25 AM] [Info] Subdito Pinochet [Nasuke] was shot in the torso by LCG" Zev* [Zev*]!
+[7/31/2016 12:56:26 AM] [Info] [World] XxPerritoxX [PITUCHO]: "wqeqw"
+[7/31/2016 12:56:30 AM] [Info] [World] Subdito Pinochet [Nasuke]: "o la wea"
+[7/31/2016 12:56:35 AM] [Info] [World] purri [purri]: "wafaf"
+[7/31/2016 12:56:36 AM] [Info] [World] jusepe123 [jusepe123]: "la envidia de los premios"
+[7/31/2016 12:56:37 AM] [Info] [World] purri [purri]: "awf"
+[7/31/2016 12:56:37 AM] [Info] [World] purri [purri]: "waf"
+[7/31/2016 12:56:38 AM] [Info] [World] purri [purri]: "awf"
+[7/31/2016 12:56:38 AM] [Info] [World] purri [purri]: "wf"
+[7/31/2016 12:56:39 AM] [Info] Saving server
+[7/31/2016 12:56:41 AM] [Info] [Group] :3 [:3]: "el subdito y ese que no mato le dio kit por 1 evento el admin manco no me lo quiso dar"
+[7/31/2016 12:56:41 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/pay purri 500000"
+[7/31/2016 12:56:43 AM] [Info] [World] Subdito Pinochet [Nasuke]: "xd"
+[7/31/2016 12:56:47 AM] [Info] [World] Subdito Pinochet [Nasuke]: "los como la envidia"
+[7/31/2016 12:56:50 AM] [Info] [Area] xSnowZaick [xSnowZaick]: "xD"
+[7/31/2016 12:56:50 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/p"
+[7/31/2016 12:56:51 AM] [Info] [Group] :3 [:3]: "2 pregunta ya la buscqew"
+[7/31/2016 12:56:51 AM] [Info] [World] Guille_214 [Guille_214]: "/kit pvp"
+[7/31/2016 12:56:55 AM] [Info] [World] Guille_214 [Guille_214]: "/kit sniper"
+[7/31/2016 12:56:55 AM] [Info] [World] purri [purri]: "alate perro culiao"
+[7/31/2016 12:56:55 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/kit"
+[7/31/2016 12:56:56 AM] [Info] [Group] :3 [:3]: "del tesoro"
+[7/31/2016 12:56:58 AM] [Info] [World] Guille_214 [Guille_214]: "/kit pve"
+[7/31/2016 12:56:59 AM] [Info] [World] elviolador69 [emiley16]: "/TPA PABLO"
+[7/31/2016 12:56:59 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "xD"
+[7/31/2016 12:56:59 AM] [Info] [World] purri [purri]: "callate"
+[7/31/2016 12:56:59 AM] [Info] [World] SUB-ZERO [sub-zero]: "/kit sniper"
+[7/31/2016 12:57:03 AM] [Info] [World] PabloPiola [PabloPiola]: "/tpa a"
+[7/31/2016 12:57:05 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "esto es injusto"
+[7/31/2016 12:57:06 AM] [Info] [World] PabloPiola [PabloPiola]: "/tpa a"
+[7/31/2016 12:57:06 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "creo"
+[7/31/2016 12:57:10 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/tpa subdit"
+[7/31/2016 12:57:11 AM] [Info] [World] jusepe123 [jusepe123]: "/kit sniperç"
+[7/31/2016 12:57:14 AM] [Info] [World] jusepe123 [jusepe123]: "/kit sniper"
+[7/31/2016 12:57:14 AM] [Info] [World] purri [purri]: "/buy 17"
+[7/31/2016 12:57:16 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa pipe"
+[7/31/2016 12:57:18 AM] [Info] [World] [LLU] LmSm [LmSm]: "/rank"
+[7/31/2016 12:57:20 AM] [Info] MessageAnnouncer >> Broadcast: Se amable con quienes no tienen armas.
+[7/31/2016 12:57:20 AM] [Info] MessageAnnouncer >> Se amable con quienes no tienen armas.
+[7/31/2016 12:57:20 AM] [Info] DeathMessages >> Broadcast: jusepe123 fusiló a gabrielprofe!
+[7/31/2016 12:57:20 AM] [Info] gabrielprofe [gabrielprofe] was shot in the head by jusepe123 [jusepe123]!
+[7/31/2016 12:57:25 AM] [Info] DeathMessages >> Broadcast: jusepe123 fusiló a [Militar]Benjaminlp13!
+[7/31/2016 12:57:25 AM] [Info] [Militar]Benjaminlp13 [Benjaminlp13] was shot in the torso by jusepe123 [jusepe123]!
+[7/31/2016 12:57:26 AM] [Info] [Group] :3 [:3]: "yo sabia la respuesta de 1"
+[7/31/2016 12:57:31 AM] [Info] [World] jusepe123 [jusepe123]: "qlo proooo"
+[7/31/2016 12:57:33 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:57:33 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:57:33 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/kit escopeta"
+[7/31/2016 12:57:35 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "/buy honey"
+[7/31/2016 12:57:36 AM] [Info] [World] SUB-ZERO [sub-zero]: "/sell mre"
+[7/31/2016 12:57:36 AM] [Info] [Group] :3 [:3]: "pero no me funcionaba el 3"
+[7/31/2016 12:57:39 AM] [Info] [World] purri [purri]: "/uy honey"
+[7/31/2016 12:57:39 AM] [Info] Saving server
+[7/31/2016 12:57:42 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/p"
+[7/31/2016 12:57:43 AM] [Info] [World] purri [purri]: "/buy honey"
+[7/31/2016 12:57:44 AM] [Info] [Group] :3 [:3]: "pone 3 solo y no me salia"
+[7/31/2016 12:57:44 AM] [Info] DeathMessages >> Broadcast: locowarpro murió luego de que un auto explotara
+[7/31/2016 12:57:44 AM] [Info] locowarpro [locowarpro] was blown up by a vehicle!
+[7/31/2016 12:57:45 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 12:57:45 AM] [Info] Connecting: PlayerID: 76561198154241790 Name: ~Sai, Bluhcitu~ ^kill me^ Character: [pN] Sai<:
+[7/31/2016 12:57:45 AM] [Info] FeexRanks >> Broadcast: [Soldato] [pN] Sai<: (746 puntos, posicion 38) se ha conectado al server.
+[7/31/2016 12:57:46 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/kit hitman"
+[7/31/2016 12:57:47 AM] [Info] ask
+[7/31/2016 12:57:49 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Lo que hace algunos millones :v"
+[7/31/2016 12:57:51 AM] [Info] [World] locowarpro [locowarpro]: "what que lag"
+[7/31/2016 12:57:52 AM] [Info] [Group] :3 [:3]: "y se gane le kit el otro manco"
+[7/31/2016 12:57:52 AM] [Info] [World] Subdito Pinochet [Nasuke]: "jusepe mandatp"
+[7/31/2016 12:57:52 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a [LPV]PipeYkPz!
+[7/31/2016 12:57:52 AM] [Info] [LPV]PipeYkPz [[LPV]PipeYkPz] was shot in the head by LCG" Zev* [Zev*]!
+[7/31/2016 12:57:53 AM] [Info] [World] Guille_214 [Guille_214]: "si tengo 2"
+[7/31/2016 12:57:53 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "admin+"
+[7/31/2016 12:57:56 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/spy pinochet"
+[7/31/2016 12:57:56 AM] [Info] Successfully taking a screenshot of Nasuke.
+[7/31/2016 12:57:56 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "/tpa purri"
+[7/31/2016 12:57:58 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/tpa subdito"
+[7/31/2016 12:57:59 AM] [Info] [World] locowarpro [locowarpro]: "adios mucho lag"
+[7/31/2016 12:57:59 AM] [Info] DeathMessages >> Broadcast: [LLU] LmSm fusiló a xSnowZaick!
+[7/31/2016 12:57:59 AM] [Info] xSnowZaick [xSnowZaick] was shot in the torso by [LLU] LmSm [LmSm]!
+[7/31/2016 12:58:00 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Dime"
+[7/31/2016 12:58:00 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:58:01 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:58:02 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:58:02 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:58:04 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "para la casa irraideable yo tengo que hacer la casa?"
+[7/31/2016 12:58:06 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:58:07 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:58:08 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:58:08 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "o vos me la das"
+[7/31/2016 12:58:08 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:58:08 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "cacheton subdito pinochet"
+[7/31/2016 12:58:12 AM] [Info] Disconnecting: PlayerID: 76561198091502715 Name: locowarpro Character: locowarpro
+[7/31/2016 12:58:13 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:58:13 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:58:13 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell mre 5"
+[7/31/2016 12:58:18 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/kit sniper"
+[7/31/2016 12:58:19 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy 1153"
+[7/31/2016 12:58:21 AM] [Info] [World] LCG" Zev* [Zev*]: "cacheton :O"
+[7/31/2016 12:58:25 AM] [Info] [World] jusepe123 [jusepe123]: "/home"
+[7/31/2016 12:58:25 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 12:58:25 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 12:58:25 AM] [Info] ZaupHomeCommand >> jusepe123 [jusepe123] name
+[7/31/2016 12:58:25 AM] [Info] ZaupHomeCommand >> (474.8, 13.2, 952.0)
+[7/31/2016 12:58:25 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 12:58:25 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:58:25 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/kit pvp"
+[7/31/2016 12:58:25 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/p"
+[7/31/2016 12:58:28 AM] [Info] [World] Subdito Pinochet [Nasuke]: "Te come la envidia"
+[7/31/2016 12:58:31 AM] [Info] [World] SUB-ZERO [sub-zero]: "/sell arow"
+[7/31/2016 12:58:33 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "tengo mucho alg"
+[7/31/2016 12:58:34 AM] [Info] [World] Subdito Pinochet [Nasuke]: "aonde no ganaste ni una wea"
+[7/31/2016 12:58:34 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "callate pendejo qlo"
+[7/31/2016 12:58:34 AM] [Info] [World] jusepe123 [jusepe123]: "/sell nyko"
+[7/31/2016 12:58:35 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/kit pvp"
+[7/31/2016 12:58:39 AM] [Info] Saving server
+[7/31/2016 12:58:40 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "se me hace imposible jugar asi"
+[7/31/2016 12:58:40 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/kit pvp"
+[7/31/2016 12:58:40 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 12:58:41 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/tpa ruben"
+[7/31/2016 12:58:42 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "hach papi qlo"
+[7/31/2016 12:58:44 AM] [Info] [World] SUB-ZERO [sub-zero]: "/sell arow"
+[7/31/2016 12:58:47 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/tpa purri"
+[7/31/2016 12:58:49 AM] [Info] [World] :3 [:3]: "Sos un manco sub"
+[7/31/2016 12:58:49 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:58:51 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:58:51 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:58:53 AM] [Info] [World] Subdito Pinochet [Nasuke]: "jusepe"
+[7/31/2016 12:58:55 AM] [Info] [World] Subdito Pinochet [Nasuke]: "manda tp"
+[7/31/2016 12:58:56 AM] [Info] [World] :3 [:3]: "Te busco y ya me fuleo"
+[7/31/2016 12:58:57 AM] [Info] [World] SUB-ZERO [sub-zero]: "/sell arrow"
+[7/31/2016 12:58:59 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "que wue ales pasa pao rectmare"
+[7/31/2016 12:59:00 AM] [Info] [World] Subdito Pinochet [Nasuke]: "ajaja"
+[7/31/2016 12:59:00 AM] [Info] MessageAnnouncer >> Broadcast: Echale un vistazo a nuestra pagina ! lamafiaunturned.tk
+[7/31/2016 12:59:00 AM] [Info] MessageAnnouncer >> Echale un vistazo a nuestra pagina ! lamafiaunturned.tk
+[7/31/2016 12:59:02 AM] [Info] [World] jusepe123 [jusepe123]: "/tpa subdito"
+[7/31/2016 12:59:05 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 12:59:05 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 12:59:05 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa pablo"
+[7/31/2016 12:59:06 AM] [Info] [World] SUB-ZERO [sub-zero]: "/sell arrow"
+[7/31/2016 12:59:07 AM] [Info] [World] Subdito Pinochet [Nasuke]: "pauqepo"
+[7/31/2016 12:59:08 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/tpa purri"
+[7/31/2016 12:59:11 AM] [Info] [World] SUB-ZERO [sub-zero]: "/sell arrow"
+[7/31/2016 12:59:12 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "chupapi"
+[7/31/2016 12:59:12 AM] [Info] [World] Subdito Pinochet [Nasuke]: "si :3 usai lulo"
+[7/31/2016 12:59:12 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "admin para la casa irraideable la tengo que construir yo o la haces vos¿"
+[7/31/2016 12:59:12 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:59:13 AM] [Info] [World] xSnowZaick [xSnowZaick]: "Puros longi nms"
+[7/31/2016 12:59:13 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:59:13 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Tpa a"
+[7/31/2016 12:59:14 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "chupapi"
+[7/31/2016 12:59:16 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "chupapi"
+[7/31/2016 12:59:16 AM] [Info] [World] jusepe123 [jusepe123]: "/sell eagle"
+[7/31/2016 12:59:17 AM] [Info] [World] :3 [:3]: "JAJAA"
+[7/31/2016 12:59:17 AM] [Info] [World] SUB-ZERO [sub-zero]: "/sell arrow"
+[7/31/2016 12:59:18 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "chupapi"
+[7/31/2016 12:59:22 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "los meo pajarones qlos"
+[7/31/2016 12:59:23 AM] [Info] [World] xSnowZaick [xSnowZaick]: "/tpa vicho"
+[7/31/2016 12:59:25 AM] [Info] [World] LCG" Zev* [Zev*]: "AJAJAJ"
+[7/31/2016 12:59:25 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "avo :3"
+[7/31/2016 12:59:27 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 12:59:27 AM] [Info] [World] :3 [:3]: "lulo dice el manco"
+[7/31/2016 12:59:28 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "y al zev"
+[7/31/2016 12:59:29 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 12:59:29 AM] [Info] DeathMessages >> Broadcast: XxPerritoxX fusiló a gabrielprofe!
+[7/31/2016 12:59:29 AM] [Info] gabrielprofe [gabrielprofe] was shot in the torso by XxPerritoxX [PITUCHO]!
+[7/31/2016 12:59:29 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "tambien"
+[7/31/2016 12:59:32 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/list"
+[7/31/2016 12:59:32 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "chuchetumar"
+[7/31/2016 12:59:33 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "/list"
+[7/31/2016 12:59:34 AM] [Info] [World] xSnowZaick [xSnowZaick]: "Puros wetas"
+[7/31/2016 12:59:36 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/tpa ruben"
+[7/31/2016 12:59:37 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/tpa benja"
+[7/31/2016 12:59:38 AM] [Info] [World] :3 [:3]: "ez mancos"
+[7/31/2016 12:59:39 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/tpa purro"
+[7/31/2016 12:59:39 AM] [Info] Saving server
+[7/31/2016 12:59:39 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/kit mafia"
+[7/31/2016 12:59:41 AM] [Info] [World] LCG" Zev* [Zev*]: "/buy 1003"
+[7/31/2016 12:59:42 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "llora"
+[7/31/2016 12:59:43 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:59:43 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/tpa purri"
+[7/31/2016 12:59:43 AM] [Info] [World] LCG" Zev* [Zev*]: "/buy 1003"
+[7/31/2016 12:59:43 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:59:44 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:59:44 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/kit mafis"
+[7/31/2016 12:59:45 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 12:59:46 AM] [Info] [World] LCG" Zev* [Zev*]: "/buy 1003"
+[7/31/2016 12:59:47 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Sell timber"
+[7/31/2016 12:59:47 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/kit mafia"
+[7/31/2016 12:59:48 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Sell ace"
+[7/31/2016 12:59:49 AM] [Info] [World] LCG" Zev* [Zev*]: "/buy 1003"
+[7/31/2016 12:59:49 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "xDDdDdFfG"
+[7/31/2016 12:59:49 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "cacheton ksjsjsjsjs"
+[7/31/2016 12:59:52 AM] [Info] [World] LCG" Zev* [Zev*]: "/buy medikit"
+[7/31/2016 12:59:54 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "cachetones"
+[7/31/2016 12:59:57 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "cacheton qlo"
+[7/31/2016 12:59:58 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "la come"
+[7/31/2016 1:00:00 AM] [Info] [World] Subdito Pinochet [Nasuke]: "oe sacate el 1353"
+[7/31/2016 1:00:03 AM] [Info] [World] :3 [:3]: "/kit pvp"
+[7/31/2016 1:00:11 AM] [Info] [World] Subdito Pinochet [Nasuke]: "bale 7 lukas"
+[7/31/2016 1:00:14 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "quedate piola cacheton qlo"
+[7/31/2016 1:00:21 AM] [Info] [World] [LLU] LmSm [LmSm]: "/cost 1353"
+[7/31/2016 1:00:24 AM] [Info] [World] xSnowZaick [xSnowZaick]: "/buy honey"
+[7/31/2016 1:00:24 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy 8x"
+[7/31/2016 1:00:34 AM] [Info] DeathMessages >> Broadcast: xSnowZaick fusiló a PabloPiola!
+[7/31/2016 1:00:34 AM] [Info] PabloPiola [PabloPiola] was shot in the torso by xSnowZaick [xSnowZaick]!
+[7/31/2016 1:00:37 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/kit pvp"
+[7/31/2016 1:00:38 AM] [Info] [World] [LLU] LmSm [LmSm]: "/cost drum"
+[7/31/2016 1:00:39 AM] [Info] Saving server
+[7/31/2016 1:00:40 AM] [Info] DeathMessages >> Broadcast: [pN] Sai<: fusiló a [LLU] LmSm!
+[7/31/2016 1:00:40 AM] [Info] [LLU] LmSm [LmSm] was shot in the arm by [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]!
+[7/31/2016 1:00:40 AM] [Info] MessageAnnouncer >> Broadcast: VIP DISPONIBLE: KITS EXTRA, NOMBRE EN COLOR, CD REDUCIDO Y MAS!
+[7/31/2016 1:00:40 AM] [Info] MessageAnnouncer >> VIP DISPONIBLE: KITS EXTRA, NOMBRE EN COLOR, CD REDUCIDO Y MAS!
+[7/31/2016 1:00:40 AM] [Info] DeathMessages >> Broadcast: jusepe123 fusiló a XxPerritoxX!
+[7/31/2016 1:00:40 AM] [Info] XxPerritoxX [PITUCHO] was shot in the arm by jusepe123 [jusepe123]!
+[7/31/2016 1:00:44 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:00:44 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:00:44 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:00:44 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:00:44 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:00:44 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:00:44 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:00:47 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "pollo eres team del subdito?"
+[7/31/2016 1:00:47 AM] [Info] DeathMessages >> Broadcast: jusepe123 fusiló a purri!
+[7/31/2016 1:00:47 AM] [Info] purri [purri] was shot in the head by jusepe123 [jusepe123]!
+[7/31/2016 1:00:47 AM] [Info] [World] xSnowZaick [xSnowZaick]: "buy 17"
+[7/31/2016 1:00:48 AM] [Info] DeathMessages >> Broadcast: Subdito Pinochet fusiló a [L.P.V]Pollo12!
+[7/31/2016 1:00:48 AM] [Info] [L.P.V]Pollo12 [[L.P.V]pollo13] was shot in the torso by Subdito Pinochet [Nasuke]!
+[7/31/2016 1:00:48 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/tpa purri"
+[7/31/2016 1:00:49 AM] [Info] [World] [LLU] LmSm [LmSm]: "/tpa ruth"
+[7/31/2016 1:00:50 AM] [Info] [World] xSnowZaick [xSnowZaick]: "/buy 17"
+[7/31/2016 1:00:52 AM] [Info] [Group] [LLU] Ruthless [Ruthless]: "/tpa a"
+[7/31/2016 1:00:53 AM] [Info] [Group] [LLU] Ruthless [Ruthless]: "/tpa a"
+[7/31/2016 1:00:54 AM] [Info] [World] [LLU] LmSm [LmSm]: "/cost drum"
+[7/31/2016 1:00:57 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:00:57 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:00:57 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:00:57 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:00:57 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:00:57 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:00:57 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:00:57 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a elviolador69!
+[7/31/2016 1:00:57 AM] [Info] elviolador69 [emiley16] was shot in the head by LCG" Zev* [Zev*]!
+[7/31/2016 1:00:59 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 1:00:59 AM] [Info] Connecting: PlayerID: 76561198319241860 Name: benji_10 Character: benja
+[7/31/2016 1:00:59 AM] [Info] Disconnecting: PlayerID: 76561198254067277 Name: PITUCHO Character: XxPerritoxX
+[7/31/2016 1:00:59 AM] [Info] FeexRanks >> Broadcast: [Soldato] benja (502 puntos, posicion 67) se ha conectado al server.
+[7/31/2016 1:00:59 AM] [Info] ask
+[7/31/2016 1:00:59 AM] [Info] [World] purri [purri]: "/tpa pollo"
+[7/31/2016 1:00:59 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a [pN] Sai<:!
+[7/31/2016 1:00:59 AM] [Info] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^] was shot in the torso by :3 [:3]!
+[7/31/2016 1:01:02 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:01:02 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:01:02 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:01:02 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:01:02 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:01:02 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:01:02 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:01:02 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy dressing"
+[7/31/2016 1:01:05 AM] [Info] DeathMessages >> Broadcast: xSnowZaick fusiló a LCG SrCelio21!
+[7/31/2016 1:01:06 AM] [Info] LCG SrCelio21 [SrCelio21] was shot in the head by xSnowZaick [xSnowZaick]!
+[7/31/2016 1:01:06 AM] [Info] DeathMessages >> Broadcast: [LLU] Ruthless fusiló a :3!
+[7/31/2016 1:01:06 AM] [Info] :3 [:3] was shot in the head by [LLU] Ruthless [Ruthless]!
+[7/31/2016 1:01:08 AM] [Info] [World] elviolador69 [emiley16]: "/HOME"
+[7/31/2016 1:01:08 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:01:08 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:01:08 AM] [Info] ZaupHomeCommand >> elviolador69 [emiley16] name
+[7/31/2016 1:01:08 AM] [Info] ZaupHomeCommand >> (791.8, 58.1, 566.7)
+[7/31/2016 1:01:08 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:01:08 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:01:08 AM] [Info] [World] purri [purri]: "/home"
+[7/31/2016 1:01:08 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:01:08 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:01:08 AM] [Info] ZaupHomeCommand >> purri [purri] name
+[7/31/2016 1:01:08 AM] [Error] An error occured while executing home []: System.NullReferenceException: Object reference not set to an instance of an object
+  at ZaupHomeCommand.CommandHome.Execute (IRocketPlayer caller, System.String[] bed) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+[7/31/2016 1:01:11 AM] [Info] [World] xSnowZaick [xSnowZaick]: "LOL"
+[7/31/2016 1:01:11 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy 116"
+[7/31/2016 1:01:11 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/kit pvp"
+[7/31/2016 1:01:13 AM] [Info] [World] xSnowZaick [xSnowZaick]: "CELIO"
+[7/31/2016 1:01:13 AM] [Info] ZaupUconomyEssentials >> voti
+[7/31/2016 1:01:13 AM] [Info] ZaupUconomyEssentials >> 0
+[7/31/2016 1:01:13 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:01:13 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:01:14 AM] [Info] [World] xSnowZaick [xSnowZaick]: "PERDON"
+[7/31/2016 1:01:16 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa vicho"
+[7/31/2016 1:01:16 AM] [Info] [World] jusepe123 [jusepe123]: "/sell nyko"
+[7/31/2016 1:01:17 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:01:17 AM] [Info] [World] LCG" Zev* [Zev*]: "/buy 1003"
+[7/31/2016 1:01:17 AM] [Info] PabloPiola moved x:795.4622 y:58.47915(+24.13755) z:571.5883 in the last second (0.1000023)
+[7/31/2016 1:01:18 AM] [Info] [World] xSnowZaick [xSnowZaick]: ">c"
+[7/31/2016 1:01:19 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 1:01:20 AM] [Info] [World] LCG" Zev* [Zev*]: "/buy 103"
+[7/31/2016 1:01:20 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:01:22 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:01:22 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 1:01:23 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:01:23 AM] [Info] elviolador69 moved x:791.8082 y:59.61706(+33.32526) z:566.6885 in the last second (1.237919)
+[7/31/2016 1:01:27 AM] [Info] [World] LCG" Zev* [Zev*]: "/buy 1003"
+[7/31/2016 1:01:27 AM] [Info] [World] xSnowZaick [xSnowZaick]: "vicho dile que me equivoque"
+[7/31/2016 1:01:27 AM] [Info] [World] SUB-ZERO [sub-zero]: "/buy v-2"
+[7/31/2016 1:01:28 AM] [Info] [World] :3 [:3]: "/reward"
+[7/31/2016 1:01:29 AM] [Info] Broadcast: :3 ha votado en unturned-servers.net y ha recibido el pack "Voti2" !
+[7/31/2016 1:01:32 AM] [Info] DeathMessages >> Broadcast: [LLU] LmSm fusiló a [pN] Sai<:!
+[7/31/2016 1:01:32 AM] [Info] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^] was shot in the torso by [LLU] LmSm [LmSm]!
+[7/31/2016 1:01:33 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy 17"
+[7/31/2016 1:01:34 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "ya"
+[7/31/2016 1:01:34 AM] [Info] [Area] benja [benji_10]: "/kit pvp"
+[7/31/2016 1:01:34 AM] [Info] ZaupUconomyEssentials >> owner
+[7/31/2016 1:01:34 AM] [Info] ZaupUconomyEssentials >> 500
+[7/31/2016 1:01:34 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:01:34 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:01:36 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "tranqui"
+[7/31/2016 1:01:37 AM] [Info] [World] SUB-ZERO [sub-zero]: "/buy v.4"
+[7/31/2016 1:01:39 AM] [Info] Saving server
+[7/31/2016 1:01:40 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "oe vicho"
+[7/31/2016 1:01:43 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:01:43 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:01:45 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "que?"
+[7/31/2016 1:01:45 AM] [Info] [World] Guille_214 [Guille_214]: "oe mira"
+[7/31/2016 1:01:46 AM] [Info] [World] jusepe123 [jusepe123]: "/sell honey"
+[7/31/2016 1:01:46 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Sell ace"
+[7/31/2016 1:01:48 AM] [Info] gabrielprofe [gabrielprofe] was shredded to bits!
+[7/31/2016 1:01:49 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "le teni mala"
+[7/31/2016 1:01:51 AM] [Info] DeathMessages >> Broadcast: xSnowZaick fusiló a PabloPiola!
+[7/31/2016 1:01:51 AM] [Info] PabloPiola [PabloPiola] was shot in the arm by xSnowZaick [xSnowZaick]!
+[7/31/2016 1:01:52 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/sell schofield"
+[7/31/2016 1:01:54 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "a el cacheton"
+[7/31/2016 1:01:54 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/tpa a"
+[7/31/2016 1:01:54 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:01:54 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:01:55 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/tpa a"
+[7/31/2016 1:01:58 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/kit pvp"
+[7/31/2016 1:01:58 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:01:58 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:01:58 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:01:58 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:01:58 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:01:58 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:01:58 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:01:58 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy 1252"
+[7/31/2016 1:02:00 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy maples"
+[7/31/2016 1:02:01 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:02:01 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:02:01 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:02:01 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:02:01 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:02:01 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:02:01 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:02:02 AM] [Info] DeathMessages >> Broadcast: xSnowZaick fusiló a CrackFussion!
+[7/31/2016 1:02:02 AM] [Info] CrackFussion [PapaPitufo] was shot in the head by xSnowZaick [xSnowZaick]!
+[7/31/2016 1:02:02 AM] [Info] [World] LCG" Zev* [Zev*]: "oe"
+[7/31/2016 1:02:03 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy 8"
+[7/31/2016 1:02:03 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "no sjjs pero su team sii"
+[7/31/2016 1:02:04 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy 1353"
+[7/31/2016 1:02:06 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/kit pvp"
+[7/31/2016 1:02:07 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy drum"
+[7/31/2016 1:02:07 AM] [Info] [World] LCG" Zev* [Zev*]: "es el waton cacheton o no?"
+[7/31/2016 1:02:08 AM] [Info] [World] :3 [:3]: "/sell blun"
+[7/31/2016 1:02:09 AM] [Info] [World] CrackFussion [PapaPitufo]: "/home"
+[7/31/2016 1:02:09 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:02:09 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:02:09 AM] [Info] ZaupHomeCommand >> CrackFussion [PapaPitufo] name
+[7/31/2016 1:02:09 AM] [Info] ZaupHomeCommand >> (788.9, 66.6, 573.6)
+[7/31/2016 1:02:09 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:02:09 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:02:10 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "matemolo"
+[7/31/2016 1:02:13 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "nose"
+[7/31/2016 1:02:13 AM] [Info] [World] Subdito Pinochet [Nasuke]: "dd"
+[7/31/2016 1:02:16 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:02:17 AM] [Info] PabloPiola moved x:795.4622 y:59.61706(+29.75316) z:571.5883 in the last second (1.237919)
+[7/31/2016 1:02:19 AM] [Info] [World] purri [purri]: "oee cristobal como esta la laura??"
+[7/31/2016 1:02:19 AM] [Info] [World] LCG" Zev* [Zev*]: "waton cacheton wena manit"
+[7/31/2016 1:02:19 AM] [Info] Disconnecting: PlayerID: 76561198320215283 Name: Guille_214 Character: Guille_214
+[7/31/2016 1:02:20 AM] [Info] MessageAnnouncer >> Broadcast: Si tienes alguna duda consulta en el grupo de steam: lamafiaunturned
+[7/31/2016 1:02:20 AM] [Info] MessageAnnouncer >> Si tienes alguna duda consulta en el grupo de steam: lamafiaunturned
+[7/31/2016 1:02:20 AM] [Info] [World] Subdito Pinochet [Nasuke]: "xddd los como la envidia donde no ganaron"
+[7/31/2016 1:02:22 AM] [Info] [World] Subdito Pinochet [Nasuke]: "el evento"
+[7/31/2016 1:02:22 AM] [Info] [World] :3 [:3]: "/cost 21"
+[7/31/2016 1:02:22 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/balance"
+[7/31/2016 1:02:23 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "oe cristobal como esta la maraca laura"
+[7/31/2016 1:02:24 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:02:25 AM] [Info] CrackFussion moved x:788.9057 y:67.8915(+38.15607) z:573.5963 in the last second (1.049568)
+[7/31/2016 1:02:27 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/kit pve"
+[7/31/2016 1:02:31 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy 15"
+[7/31/2016 1:02:31 AM] [Info] [World] :3 [:3]: "/buy 21"
+[7/31/2016 1:02:37 AM] [Info] DeathMessages >> Broadcast: xSnowZaick fusiló a CrackFussion!
+[7/31/2016 1:02:37 AM] [Info] CrackFussion [PapaPitufo] was shot in the head by xSnowZaick [xSnowZaick]!
+[7/31/2016 1:02:38 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:02:38 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:02:38 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/mute pollo"
+[7/31/2016 1:02:39 AM] [Info] [World] LCG" Zev* [Zev*]: "WATON CACHETOOOOOOON"
+[7/31/2016 1:02:39 AM] [Info] Saving server
+[7/31/2016 1:02:45 AM] [Info] [World] purri [purri]: "oee subdito de manuela como esta la laura???"
+[7/31/2016 1:02:47 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:02:47 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:02:48 AM] [Info] [World] CrackFussion [PapaPitufo]: "/home"
+[7/31/2016 1:02:48 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:02:48 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:02:48 AM] [Info] ZaupHomeCommand >> CrackFussion [PapaPitufo] name
+[7/31/2016 1:02:48 AM] [Error] An error occured while executing home []: System.NullReferenceException: Object reference not set to an instance of an object
+  at ZaupHomeCommand.CommandHome.Execute (IRocketPlayer caller, System.String[] bed) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+[7/31/2016 1:02:49 AM] [Info] [World] LCG" Zev* [Zev*]: "Pero con cariño"
+[7/31/2016 1:02:51 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 1:02:51 AM] [Info] Connecting: PlayerID: 76561198255626705 Name: Pip3Diaz Character: LCG Pip3Diaz
+[7/31/2016 1:02:51 AM] [Info] FeexRanks >> Broadcast: [Associato] LCG Pip3Diaz (227 puntos, posicion 144) se ha conectado al server.
+[7/31/2016 1:02:51 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:52 AM] [Info] DeathMessages >> Broadcast: xSnowZaick fusiló a PabloPiola!
+[7/31/2016 1:02:52 AM] [Info] PabloPiola [PabloPiola] was shot in the head by xSnowZaick [xSnowZaick]!
+[7/31/2016 1:02:52 AM] [Info] ask
+[7/31/2016 1:02:52 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:52 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:53 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:53 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:53 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa emi"
+[7/31/2016 1:02:54 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:54 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:54 AM] [Info] [World] Subdito Pinochet [Nasuke]: "a berdad que puedo mutear"
+[7/31/2016 1:02:56 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:56 AM] [Info] DeathMessages >> Broadcast: elviolador69 fusiló a xSnowZaick!
+[7/31/2016 1:02:56 AM] [Info] xSnowZaick [xSnowZaick] was shot in the head by elviolador69 [emiley16]!
+[7/31/2016 1:02:56 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/mute pollo"
+[7/31/2016 1:02:56 AM] [Info] ChatControl >> Broadcast: [L.P.V]Pollo12 ha sido muteado
+[7/31/2016 1:02:56 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:57 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:57 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:57 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:02:58 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "laura maraca"
+[7/31/2016 1:03:01 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "xDDD"
+[7/31/2016 1:03:01 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/kit pvp"
+[7/31/2016 1:03:01 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:03:01 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:03:01 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:03:01 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:03:01 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:03:01 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:03:01 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:03:03 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:03:03 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:03:03 AM] [Info] [World] CrackFussion [PapaPitufo]: "/kit pvp"
+[7/31/2016 1:03:04 AM] [Info] [World] Subdito Pinochet [Nasuke]: "AMJAJAAJAJAJAJAJAJAJAJ"
+[7/31/2016 1:03:05 AM] [Info] [World] xSnowZaick [xSnowZaick]: "cualquer lagjk asjdkas"
+[7/31/2016 1:03:05 AM] [Info] [World] Subdito Pinochet [Nasuke]: "IZI"
+[7/31/2016 1:03:05 AM] [Info] DeathMessages >> Broadcast: [pN] Sai<: fusiló a LCG Pip3Diaz!
+[7/31/2016 1:03:05 AM] [Info] LCG Pip3Diaz [Pip3Diaz] was shot in the head by [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]!
+[7/31/2016 1:03:06 AM] [Info] [World] [LLU] Ruthless [Ruthless]: "terrible poderoso"
+[7/31/2016 1:03:08 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:03:08 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:03:08 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:03:08 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:03:08 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:03:08 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:03:08 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:03:11 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/time 0"
+[7/31/2016 1:03:11 AM] [Info] Successfully set time to 0!
+[7/31/2016 1:03:11 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:03:12 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:03:12 AM] [Info] [World] Subdito Pinochet [Nasuke]: "SOY UN DIOS PERRAS"
+[7/31/2016 1:03:16 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "callate"
+[7/31/2016 1:03:16 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "somso"
+[7/31/2016 1:03:17 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "Epa"
+[7/31/2016 1:03:17 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa srcelio21"
+[7/31/2016 1:03:17 AM] [Info] [World] elviolador69 [emiley16]: "/TPA A"
+[7/31/2016 1:03:18 AM] [Info] [World] xSnowZaick [xSnowZaick]: "/kit pvp"
+[7/31/2016 1:03:18 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:03:18 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:03:18 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:03:18 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:03:18 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:03:18 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:03:18 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:03:19 AM] [Info] DeathMessages >> Broadcast: [pN] Sai<: fusiló a xSnowZaick!
+[7/31/2016 1:03:19 AM] [Info] xSnowZaick [xSnowZaick] was shot in the torso by [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]!
+[7/31/2016 1:03:21 AM] [Info] [World] elviolador69 [emiley16]: "/TPA A"
+[7/31/2016 1:03:22 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:03:22 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:03:22 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:03:22 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:03:22 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:03:22 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:03:22 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:03:23 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 1:03:23 AM] [Info] Connecting: PlayerID: 76561198320215283 Name: Guille_214 Character: Guille_214
+[7/31/2016 1:03:23 AM] [Info] FeexRanks >> Broadcast: [Soldato] Guille_214 (946 puntos, posicion 29) se ha conectado al server.
+[7/31/2016 1:03:23 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa a"
+[7/31/2016 1:03:24 AM] [Info] ask
+[7/31/2016 1:03:24 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa a"
+[7/31/2016 1:03:24 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/kit pvp"
+[7/31/2016 1:03:25 AM] [Info] CrackFussion moved x:799.0692 y:53.57871(+24.92103) z:570.3041 in the last second (0.4116516)
+[7/31/2016 1:03:25 AM] [Info] [World] purri [purri]: "tu mama en la cama es una diosa"
+[7/31/2016 1:03:26 AM] [Info] [Group] :3 [:3]: "tira tp"
+[7/31/2016 1:03:27 AM] [Info] [World] Subdito Pinochet [Nasuke]: "gutty silencio no me cages"
+[7/31/2016 1:03:29 AM] [Info] [World] purri [purri]: "cacheton culiao"
+[7/31/2016 1:03:31 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w * 20"
+[7/31/2016 1:03:31 AM] [Info] DeathMessages >> Broadcast: LCG VichoQQ fusiló a CrackFussion!
+[7/31/2016 1:03:31 AM] [Info] CrackFussion [PapaPitufo] was shot in the arm by LCG VichoQQ [1Vicho1]!
+[7/31/2016 1:03:33 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w confirm"
+[7/31/2016 1:03:34 AM] [Info] DeathMessages >> Broadcast: LCG VichoQQ fusiló a elviolador69!
+[7/31/2016 1:03:34 AM] [Info] elviolador69 [emiley16] was shot in the torso by LCG VichoQQ [1Vicho1]!
+[7/31/2016 1:03:37 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:03:37 AM] [Info] PabloPiola moved x:795.4622 y:59.42871(+29.37094) z:571.5883 in the last second (1.049568)
+[7/31/2016 1:03:39 AM] [Info] Saving server
+[7/31/2016 1:03:40 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell 101"
+[7/31/2016 1:03:43 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:03:43 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:03:44 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell blunt 2"
+[7/31/2016 1:03:44 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/kit sniper"
+[7/31/2016 1:03:45 AM] [Info] [Area] xSnowZaick [xSnowZaick]: "puraqs lacras"
+[7/31/2016 1:03:45 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa pablo"
+[7/31/2016 1:03:46 AM] [Info] [Area] xSnowZaick [xSnowZaick]: "las meo"
+[7/31/2016 1:03:48 AM] [Info] [World] Guille_214 [Guille_214]: "olle yo puse la puerta"
+[7/31/2016 1:03:48 AM] [Info] [Area] xSnowZaick [xSnowZaick]: "peasos de bacterias"
+[7/31/2016 1:03:57 AM] [Info] [World] elviolador69 [emiley16]: "/KIT PVP"
+[7/31/2016 1:04:00 AM] [Info] MessageAnnouncer >> Broadcast: Sospechas de algun hacker? Envia un pm al staff con el comando /pm 'user' 'msje'
+[7/31/2016 1:04:00 AM] [Info] MessageAnnouncer >> Sospechas de algun hacker? Envia un pm al staff con el comando /pm 'user' 'msje'
+[7/31/2016 1:04:00 AM] [Info] [World] elviolador69 [emiley16]: "/HOME"
+[7/31/2016 1:04:00 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:04:00 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:04:00 AM] [Info] ZaupHomeCommand >> elviolador69 [emiley16] name
+[7/31/2016 1:04:00 AM] [Info] ZaupHomeCommand >> (791.8, 58.1, 566.7)
+[7/31/2016 1:04:00 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:04:00 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:04:01 AM] [Info] DeathMessages >> Broadcast: xSnowZaick se suicidó! rip in peace. PIERDE $4000 COMO PENALIZACION
+[7/31/2016 1:04:01 AM] [Info] xSnowZaick [xSnowZaick] killed themself.
+[7/31/2016 1:04:04 AM] [Info] [World] PabloPiola [PabloPiola]: "/tpa a"
+[7/31/2016 1:04:11 AM] [Info] CrackFussion moved x:787.154 y:58.51706(+15.15538) z:568.939 in the last second (0.6000023)
+[7/31/2016 1:04:15 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w * 40"
+[7/31/2016 1:04:15 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:04:15 AM] [Info] elviolador69 moved x:791.8082 y:59.61706(+29.75316) z:566.6885 in the last second (1.237919)
+[7/31/2016 1:04:18 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w confirm"
+[7/31/2016 1:04:19 AM] [Info] ZaupUconomyEssentials >> vip
+[7/31/2016 1:04:19 AM] [Info] ZaupUconomyEssentials >> 2700
+[7/31/2016 1:04:19 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:04:19 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:04:22 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a PabloPiola!
+[7/31/2016 1:04:22 AM] [Info] PabloPiola [PabloPiola] was shot in the head by LCG" Zev* [Zev*]!
+[7/31/2016 1:04:24 AM] [Info] [Area] xSnowZaick [xSnowZaick]: "pura lacra vo nms"
+[7/31/2016 1:04:25 AM] [Info] [Area] xSnowZaick [xSnowZaick]: "perkin"
+[7/31/2016 1:04:27 AM] [Info] ZaupUconomyEssentials >> mafia
+[7/31/2016 1:04:27 AM] [Info] ZaupUconomyEssentials >> 0
+[7/31/2016 1:04:27 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:04:27 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:04:27 AM] [Info] [Area] xSnowZaick [xSnowZaick]: "hijo mio"
+[7/31/2016 1:04:27 AM] [Warning] Access denied: 76561198156546025 // Country: PH
+[7/31/2016 1:04:27 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/kit mafia"
+[7/31/2016 1:04:29 AM] [Info] DeathMessages >> Broadcast: xSnowZaick se suicidó! rip in peace. PIERDE $4000 COMO PENALIZACION
+[7/31/2016 1:04:29 AM] [Info] xSnowZaick [xSnowZaick] killed themself.
+[7/31/2016 1:04:32 AM] [Info] [World] Subdito Pinochet [Nasuke]: "/Sell timber"
+[7/31/2016 1:04:35 AM] [Info] [World] purri [purri]: "/buy gps"
+[7/31/2016 1:04:35 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/v 94"
+[7/31/2016 1:04:35 AM] [Info] Le diste a GutyFruti un 94
+[7/31/2016 1:04:39 AM] [Info] Saving server
+[7/31/2016 1:04:42 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "muteaste al pollo?"
+[7/31/2016 1:04:42 AM] [Info] [World] PabloPiola [PabloPiola]: "/kit pvp"
+[7/31/2016 1:04:43 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell alice"
+[7/31/2016 1:04:43 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "yo me voy"
+[7/31/2016 1:04:45 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell blunt"
+[7/31/2016 1:04:45 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "tengo mucho lag"
+[7/31/2016 1:04:47 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "si"
+[7/31/2016 1:04:48 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "/home"
+[7/31/2016 1:04:48 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:04:48 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:04:48 AM] [Info] ZaupHomeCommand >> xSnowZaick [xSnowZaick] name
+[7/31/2016 1:04:48 AM] [Info] ZaupHomeCommand >> (956.0, 8.8, -45.1)
+[7/31/2016 1:04:48 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:04:48 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:04:51 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:04:51 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:04:53 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "wn pesao"
+[7/31/2016 1:04:55 AM] [Info] [World] Subdito Pinochet [Nasuke]: "por perquin"
+[7/31/2016 1:04:58 AM] [Info] [Group] xSnowZaick [xSnowZaick]: "/reward"
+[7/31/2016 1:04:59 AM] [Info] Broadcast: xSnowZaick ha votado en unturned-servers.net y ha recibido el pack "Voti1" !
+[7/31/2016 1:05:03 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:05:04 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "te crei poderoso xD"
+[7/31/2016 1:05:05 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:05:05 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:05:07 AM] [Info] [World] Subdito Pinochet [Nasuke]: "y por aser spam"
+[7/31/2016 1:05:07 AM] [Info] [World] purri [purri]: "porque dije que su mama era wena para la tula"
+[7/31/2016 1:05:10 AM] [Info] [World] Subdito Pinochet [Nasuke]: "na wn"
+[7/31/2016 1:05:14 AM] [Warning] Access denied: 76561198147507160 // Country: VE
+[7/31/2016 1:05:14 AM] [Info] [World] Subdito Pinochet [Nasuke]: "quiero abrir mi sv"
+[7/31/2016 1:05:20 AM] [Info] [World] Subdito Pinochet [Nasuke]: "algundia lo are"
+[7/31/2016 1:05:20 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:05:20 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:05:21 AM] [Info] DeathMessages >> Broadcast: LCG SrCelio21 fusiló a CrackFussion!
+[7/31/2016 1:05:21 AM] [Info] CrackFussion [PapaPitufo] was shot in the leg by LCG SrCelio21 [SrCelio21]!
+[7/31/2016 1:05:26 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a elviolador69!
+[7/31/2016 1:05:26 AM] [Info] elviolador69 [emiley16] was shot in the head by LCG" Zev* [Zev*]!
+[7/31/2016 1:05:27 AM] [Info] [World] purri [purri]: "y nadie entrara"
+[7/31/2016 1:05:27 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "/tpa purri"
+[7/31/2016 1:05:29 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa emi"
+[7/31/2016 1:05:32 AM] [Info] DeathMessages >> Broadcast: [LPV]PipeYkPz fusiló a CrackFussion!
+[7/31/2016 1:05:32 AM] [Info] CrackFussion [PapaPitufo] was shot in the arm by [LPV]PipeYkPz [[LPV]PipeYkPz]!
+[7/31/2016 1:05:34 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w * 200"
+[7/31/2016 1:05:34 AM] [Info] [World] Subdito Pinochet [Nasuke]: "eso es lo que crees lacra"
+[7/31/2016 1:05:35 AM] [Info] [World] purri [purri]: "ya que se viene gunter"
+[7/31/2016 1:05:38 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w confirm"
+[7/31/2016 1:05:38 AM] [Info] DeathMessages >> Broadcast: PabloPiola fusiló a LCG Pip3Diaz!
+[7/31/2016 1:05:38 AM] [Info] LCG Pip3Diaz [Pip3Diaz] was shot in the head by PabloPiola [PabloPiola]!
+[7/31/2016 1:05:39 AM] [Info] Saving server
+[7/31/2016 1:05:40 AM] [Info] MessageAnnouncer >> Broadcast: Se amable con quienes no tienen armas.
+[7/31/2016 1:05:40 AM] [Info] MessageAnnouncer >> Se amable con quienes no tienen armas.
+[7/31/2016 1:05:41 AM] [Info] [World] Subdito Pinochet [Nasuke]: "mea wea"
+[7/31/2016 1:05:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Pirate Cove en 5 minuto(s)!
+[7/31/2016 1:05:45 AM] [Info] [World] elviolador69 [emiley16]: "/TPA A"
+[7/31/2016 1:05:45 AM] [Info] [World] PabloPiola [PabloPiola]: "/tpa a"
+[7/31/2016 1:05:46 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 1:05:46 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa srcelio21"
+[7/31/2016 1:05:47 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 1:05:47 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 1:05:48 AM] [Warning] Access denied: 76561198147507160 // Country: VE
+[7/31/2016 1:05:48 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 1:05:52 AM] [Info] ZaupUconomyEssentials >> mafia
+[7/31/2016 1:05:52 AM] [Info] ZaupUconomyEssentials >> 0
+[7/31/2016 1:05:52 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:05:52 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:05:56 AM] [Info] [World] PabloPiola [PabloPiola]: "/tpa a"
+[7/31/2016 1:05:57 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/buy chart"
+[7/31/2016 1:05:59 AM] [Info] [World] :3 [:3]: "240ms"
+[7/31/2016 1:05:59 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa a"
+[7/31/2016 1:06:00 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa a"
+[7/31/2016 1:06:05 AM] [Info] [World] Subdito Pinochet [Nasuke]: "nasuke"
+[7/31/2016 1:06:08 AM] [Info] LCG Pip3Diaz moved x:783.4474 y:53.76706(+23.40785) z:575.6521 in the last second (0.5999985)
+[7/31/2016 1:06:09 AM] [Info] [World] elviolador69 [emiley16]: "/TPA PABLO"
+[7/31/2016 1:06:10 AM] [Info] Disconnecting: PlayerID: 76561198137342088 Name: xSnowZaick Character: xSnowZaick
+[7/31/2016 1:06:13 AM] [Warning] Access denied: 76561198147507160 // Country: VE
+[7/31/2016 1:06:17 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa pablo"
+[7/31/2016 1:06:19 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/tpa gabrielpro"
+[7/31/2016 1:06:20 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w * 50"
+[7/31/2016 1:06:22 AM] [Info] Disconnecting: PlayerID: 76561198145132763 Name: LmSm Character: [LLU] LmSm
+[7/31/2016 1:06:22 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w confirm"
+[7/31/2016 1:06:25 AM] [Info] [World] PabloPiola [PabloPiola]: "/tpa a"
+[7/31/2016 1:06:25 AM] [Info] DeathMessages >> Broadcast: [pN] Sai<: fusiló a :3!
+[7/31/2016 1:06:25 AM] [Info] :3 [:3] was shot in the head by [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]!
+[7/31/2016 1:06:26 AM] [Info] [World] elviolador69 [emiley16]: "/KIT SNIPER"
+[7/31/2016 1:06:26 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/unmute pollo"
+[7/31/2016 1:06:33 AM] [Info] [World] CrackFussion [PapaPitufo]: "/kit pvp"
+[7/31/2016 1:06:35 AM] [Info] [World] purri [purri]: "/buy honey"
+[7/31/2016 1:06:39 AM] [Info] Saving server
+[7/31/2016 1:06:40 AM] [Info] [World] purri [purri]: "/buy 17"
+[7/31/2016 1:06:40 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 1:06:40 AM] [Info] Connecting: PlayerID: 76561198256316624 Name: ELmaxii Character: ELnoo8
+[7/31/2016 1:06:40 AM] [Info] FeexRanks >> Broadcast: [Associato] ELnoo8 (169 puntos, posicion 201) se ha conectado al server.
+[7/31/2016 1:06:41 AM] [Info] ask
+[7/31/2016 1:06:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Pirate Cove en 4 minuto(s)!
+[7/31/2016 1:06:47 AM] [Info] DeathMessages >> Broadcast: PabloPiola fusiló a LCG" Zev*!
+[7/31/2016 1:06:47 AM] [Info] LCG" Zev* [Zev*] was shot in the head by PabloPiola [PabloPiola]!
+[7/31/2016 1:06:51 AM] [Info] [World] elviolador69 [emiley16]: "/TPA CRACK}"
+[7/31/2016 1:06:51 AM] [Info] DeathMessages >> Broadcast: CrackFussion fusiló a LCG VichoQQ!
+[7/31/2016 1:06:51 AM] [Info] LCG VichoQQ [1Vicho1] was shot in the head by CrackFussion [PapaPitufo]!
+[7/31/2016 1:06:52 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w * 5"
+[7/31/2016 1:06:53 AM] [Info] DeathMessages >> Broadcast: CrackFussion fusiló a LCG SrCelio21!
+[7/31/2016 1:06:53 AM] [Info] LCG SrCelio21 [SrCelio21] was shot in the head by CrackFussion [PapaPitufo]!
+[7/31/2016 1:06:53 AM] [Info] [World] :3 [:3]: "/buy hon"
+[7/31/2016 1:06:53 AM] [Info] DeathMessages >> Broadcast: PabloPiola fusiló a LCG Pip3Diaz!
+[7/31/2016 1:06:54 AM] [Info] LCG Pip3Diaz [Pip3Diaz] was shot in the arm by PabloPiola [PabloPiola]!
+[7/31/2016 1:06:55 AM] [Info] [World] ELnoo8 [ELmaxii]: "/tpa sai"
+[7/31/2016 1:06:56 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w * 10"
+[7/31/2016 1:06:57 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/tpa a"
+[7/31/2016 1:06:58 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/kit sniper"
+[7/31/2016 1:06:58 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w confirm"
+[7/31/2016 1:07:00 AM] [Info] FeexRanks >> Broadcast: SUB-ZERO Subio de nivel a Avvocato con 950 puntos.
+[7/31/2016 1:07:01 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy range"
+[7/31/2016 1:07:02 AM] [Info] [World] LCG" Zev* [Zev*]: "/pipe diaz"
+[7/31/2016 1:07:03 AM] [Info] [World] PabloPiola [PabloPiola]: "/tpa a"
+[7/31/2016 1:07:03 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa vichoqq"
+[7/31/2016 1:07:03 AM] [Info] [World] elviolador69 [emiley16]: "/TPA PABLO"
+[7/31/2016 1:07:07 AM] [Info] [World] LCG" Zev* [Zev*]: "/home"
+[7/31/2016 1:07:07 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:07:07 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:07:07 AM] [Info] ZaupHomeCommand >> LCG" Zev* [Zev*] name
+[7/31/2016 1:07:07 AM] [Info] ZaupHomeCommand >> (861.2, 24.5, 222.0)
+[7/31/2016 1:07:07 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:07:07 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:07:07 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w * 15"
+[7/31/2016 1:07:07 AM] [Info] [World] PabloPiola [PabloPiola]: "/tpa a"
+[7/31/2016 1:07:09 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/w confirm"
+[7/31/2016 1:07:11 AM] [Info] [World] LCG" Zev* [Zev*]: "/kit escopeta"
+[7/31/2016 1:07:12 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/HOME"
+[7/31/2016 1:07:12 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:07:12 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:07:12 AM] [Info] ZaupHomeCommand >> LCG VichoQQ [1Vicho1] name
+[7/31/2016 1:07:12 AM] [Info] ZaupHomeCommand >> (826.7, 24.7, 234.2)
+[7/31/2016 1:07:12 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:07:12 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:07:16 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/kit pvp"
+[7/31/2016 1:07:16 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/home"
+[7/31/2016 1:07:16 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:07:16 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:07:16 AM] [Info] ZaupHomeCommand >> LCG SrCelio21 [SrCelio21] name
+[7/31/2016 1:07:16 AM] [Info] ZaupHomeCommand >> (761.6, 24.3, 78.2)
+[7/31/2016 1:07:16 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:07:16 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:07:16 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy range f"
+[7/31/2016 1:07:17 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 1:07:19 AM] [Info] [World] LCG" Zev* [Zev*]: "/kit pvp"
+[7/31/2016 1:07:19 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 1:07:19 AM] [Info] [World] ELnoo8 [ELmaxii]: "/kit pvp"
+[7/31/2016 1:07:20 AM] [Info] MessageAnnouncer >> Broadcast: Los kits disponibles son: Pve, Pvp, Colacion y Sniper
+[7/31/2016 1:07:20 AM] [Info] MessageAnnouncer >> Los kits disponibles son: Pve, Pvp, Colacion y Sniper
+[7/31/2016 1:07:21 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/kit pve"
+[7/31/2016 1:07:21 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/kit pvp"
+[7/31/2016 1:07:22 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:07:25 AM] [Info] FeexRanks >> Broadcast: Guille_214 Subio de nivel a Avvocato con 950 puntos.
+[7/31/2016 1:07:26 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell "ry night""
+[7/31/2016 1:07:30 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/home"
+[7/31/2016 1:07:30 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:07:30 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:07:30 AM] [Info] ZaupHomeCommand >> LCG VichoQQ [1Vicho1] name
+[7/31/2016 1:07:30 AM] [Info] ZaupHomeCommand >> (826.7, 24.7, 234.2)
+[7/31/2016 1:07:30 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:07:30 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:07:30 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/kit sniper"
+[7/31/2016 1:07:30 AM] [Info] [World] Subdito Pinochet [Nasuke]: "finder"
+[7/31/2016 1:07:31 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:07:31 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy finder"
+[7/31/2016 1:07:33 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:07:33 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:07:34 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell civ"
+[7/31/2016 1:07:35 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa osi"
+[7/31/2016 1:07:36 AM] [Info] [Area] benja [benji_10]: "alguien team"
+[7/31/2016 1:07:39 AM] [Info] Saving server
+[7/31/2016 1:07:40 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa osiri"
+[7/31/2016 1:07:41 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 1:07:41 AM] [Info] Connecting: PlayerID: 76561198254067277 Name: PITUCHO Character: XxPerritoxX
+[7/31/2016 1:07:41 AM] [Info] FeexRanks >> Broadcast: [Associato] XxPerritoxX (17 puntos, posicion 1153) se ha conectado al server.
+[7/31/2016 1:07:42 AM] [Info] ask
+[7/31/2016 1:07:44 AM] [Info] [World] ELnoo8 [ELmaxii]: "/tpa sai"
+[7/31/2016 1:07:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Pirate Cove en 3 minuto(s)!
+[7/31/2016 1:07:45 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:07:45 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:07:45 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:07:45 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa srcelio21"
+[7/31/2016 1:07:45 AM] [Info] [World] Subdito Pinochet [Nasuke]: "lito"
+[7/31/2016 1:07:51 AM] [Info] [World] SUB-ZERO [sub-zero]: "/rank"
+[7/31/2016 1:07:52 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/home"
+[7/31/2016 1:07:52 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:07:52 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:07:52 AM] [Info] ZaupHomeCommand >> LCG VichoQQ [1Vicho1] name
+[7/31/2016 1:07:52 AM] [Info] ZaupHomeCommand >> (826.7, 24.7, 234.2)
+[7/31/2016 1:07:52 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:07:52 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:07:53 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa a"
+[7/31/2016 1:07:54 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa a"
+[7/31/2016 1:07:54 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell "tation grena""
+[7/31/2016 1:07:55 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a [pN] Sai<:!
+[7/31/2016 1:07:55 AM] [Info] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^] was shot in the leg by :3 [:3]!
+[7/31/2016 1:07:55 AM] [Info] DeathMessages >> Broadcast: purri fusiló a Guille_214!
+[7/31/2016 1:07:56 AM] [Info] Guille_214 [Guille_214] was shot in the arm by purri [purri]!
+[7/31/2016 1:07:56 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/kit pvp"
+[7/31/2016 1:07:58 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/tpa a"
+[7/31/2016 1:08:00 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/tpa a"
+[7/31/2016 1:08:00 AM] [Info] DeathMessages >> Broadcast: purri fusiló a SUB-ZERO!
+[7/31/2016 1:08:00 AM] [Info] SUB-ZERO [sub-zero] was shot in the head by purri [purri]!
+[7/31/2016 1:08:02 AM] [Info] [World] Guille_214 [Guille_214]: "/balance"
+[7/31/2016 1:08:04 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/tpa elmax"
+[7/31/2016 1:08:04 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tp ZEV"
+[7/31/2016 1:08:04 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa zev"
+[7/31/2016 1:08:06 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy maples"
+[7/31/2016 1:08:06 AM] [Info] [World] ELnoo8 [ELmaxii]: "/tpa a"
+[7/31/2016 1:08:07 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 1:08:07 AM] [Info] [Militar]Benjaminlp13 moved x:-181.7595 y:100.711(+66.49007) z:-659.8378 in the last second (0.628746)
+[7/31/2016 1:08:08 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 1:08:09 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/Tpa vicho"
+[7/31/2016 1:08:09 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy drum"
+[7/31/2016 1:08:09 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 1:08:10 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 1:08:11 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa zev"
+[7/31/2016 1:08:11 AM] [Info] [World] Guille_214 [Guille_214]: "/kit pvp"
+[7/31/2016 1:08:12 AM] [Info] [World] SUB-ZERO [sub-zero]: "puto purri"
+[7/31/2016 1:08:12 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 1:08:13 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy 8"
+[7/31/2016 1:08:13 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:08:13 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:08:13 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 1:08:16 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 1:08:18 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "ya conchetumare"
+[7/31/2016 1:08:19 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 1:08:20 AM] [Info] Disconnecting: PlayerID: 76561198171492782 Name: Nasuke Character: Subdito Pinochet
+[7/31/2016 1:08:20 AM] [Info] DeathMessages >> Broadcast: Guille_214 fusiló a XxPerritoxX!
+[7/31/2016 1:08:20 AM] [Info] XxPerritoxX [PITUCHO] was shot in the head by Guille_214 [Guille_214]!
+[7/31/2016 1:08:25 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/tpa ruben"
+[7/31/2016 1:08:26 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy honey"
+[7/31/2016 1:08:30 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/tpa purri"
+[7/31/2016 1:08:32 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy drum"
+[7/31/2016 1:08:33 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "tiro los vips a 2k por 12 hora"
+[7/31/2016 1:08:33 AM] [Info] [World] SUB-ZERO [sub-zero]: "porfa admin"
+[7/31/2016 1:08:35 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 1:08:36 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 1:08:36 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy 8"
+[7/31/2016 1:08:36 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 1:08:36 AM] [Info] Connecting: PlayerID: 76561198318514462 Name: nicolaslarroza23 Character: NIck EX
+[7/31/2016 1:08:36 AM] [Info] FeexRanks >> Broadcast: [Associato] NIck EX (NULL puntos, posicion NULL) se ha conectado al server.
+[7/31/2016 1:08:36 AM] [Info] ask
+[7/31/2016 1:08:36 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 1:08:39 AM] [Info] Saving server
+[7/31/2016 1:08:43 AM] [Info] [World] NIck EX [nicolaslarroza23]: "/kits"
+[7/31/2016 1:08:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Pirate Cove en 2 minuto(s)!
+[7/31/2016 1:08:51 AM] [Info] [World] NIck EX [nicolaslarroza23]: "/kit pvp"
+[7/31/2016 1:08:52 AM] [Info] [World] Guille_214 [Guille_214]: "quien me da dinero estoy pato xd"
+[7/31/2016 1:08:52 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/kit pvp"
+[7/31/2016 1:08:54 AM] [Info] [World] SUB-ZERO [sub-zero]: "dame metal admin"
+[7/31/2016 1:08:56 AM] [Info] DeathMessages >> Broadcast: PabloPiola fusiló a LCG" Zev*!
+[7/31/2016 1:08:56 AM] [Info] LCG" Zev* [Zev*] was shot in the arm by PabloPiola [PabloPiola]!
+[7/31/2016 1:09:00 AM] [Info] MessageAnnouncer >> Broadcast: Puedes ver la IP de nuestro servidor de ts3 con el comando /ts
+[7/31/2016 1:09:00 AM] [Info] MessageAnnouncer >> Puedes ver la IP de nuestro servidor de ts3 con el comando /ts
+[7/31/2016 1:09:01 AM] [Info] [World] NIck EX [nicolaslarroza23]: "/kits"
+[7/31/2016 1:09:03 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa vicho"
+[7/31/2016 1:09:05 AM] [Info] [World] LCG" Zev* [Zev*]: "/kit sniper"
+[7/31/2016 1:09:05 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:09:05 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:09:07 AM] [Info] [World] SUB-ZERO [sub-zero]: "/rank"
+[7/31/2016 1:09:09 AM] [Info] [World] NIck EX [nicolaslarroza23]: "/kit pve"
+[7/31/2016 1:09:09 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 1:09:13 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa accept"
+[7/31/2016 1:09:14 AM] [Info] [World] NIck EX [nicolaslarroza23]: "/kits"
+[7/31/2016 1:09:14 AM] [Info] [World] LCG" Zev* [Zev*]: "laggero ql"
+[7/31/2016 1:09:15 AM] [Info] DeathMessages >> Broadcast: CrackFussion fusiló a LCG SrCelio21!
+[7/31/2016 1:09:15 AM] [Info] LCG SrCelio21 [SrCelio21] was shot in the head by CrackFussion [PapaPitufo]!
+[7/31/2016 1:09:16 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a [pN] Sai<:!
+[7/31/2016 1:09:16 AM] [Info] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^] was shot in the arm by :3 [:3]!
+[7/31/2016 1:09:17 AM] [Info] DeathMessages >> Broadcast: CrackFussion fusiló a LCG VichoQQ!
+[7/31/2016 1:09:17 AM] [Info] LCG VichoQQ [1Vicho1] was shot in the arm by CrackFussion [PapaPitufo]!
+[7/31/2016 1:09:18 AM] [Info] [World] NIck EX [nicolaslarroza23]: "/kit sniper"
+[7/31/2016 1:09:21 AM] [Info] DeathMessages >> Broadcast: CrackFussion fusiló a LCG" Zev*!
+[7/31/2016 1:09:21 AM] [Info] LCG" Zev* [Zev*] was shot in the head by CrackFussion [PapaPitufo]!
+[7/31/2016 1:09:24 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa pip3"
+[7/31/2016 1:09:27 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa pipe"
+[7/31/2016 1:09:28 AM] [Info] [World] SUB-ZERO [sub-zero]: "guille"
+[7/31/2016 1:09:28 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/kit sniper"
+[7/31/2016 1:09:29 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa a"
+[7/31/2016 1:09:29 AM] [Info] [World] :3 [:3]: "/pm guty hasta cuando tiene vip ?"
+[7/31/2016 1:09:31 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa a"
+[7/31/2016 1:09:31 AM] [Info] [World] SUB-ZERO [sub-zero]: "guille"
+[7/31/2016 1:09:32 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa pipediaz"
+[7/31/2016 1:09:33 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa pip3"
+[7/31/2016 1:09:35 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa pipe"
+[7/31/2016 1:09:38 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/tpa a"
+[7/31/2016 1:09:39 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/tpa a"
+[7/31/2016 1:09:39 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/tpa a"
+[7/31/2016 1:09:39 AM] [Info] Saving server
+[7/31/2016 1:09:40 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/buy maples"
+[7/31/2016 1:09:41 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/kit sniper"
+[7/31/2016 1:09:43 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/tpa purri"
+[7/31/2016 1:09:44 AM] [Info] ZaupFeast >> Broadcast: Un airdrop caerá en Pirate Cove en 1 minuto(s)!
+[7/31/2016 1:09:46 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa a"
+[7/31/2016 1:09:47 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/r 1 mes"
+[7/31/2016 1:09:47 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa a"
+[7/31/2016 1:09:48 AM] [Info] [World] SUB-ZERO [sub-zero]: "conctate al clan"
+[7/31/2016 1:09:53 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa a"
+[7/31/2016 1:09:53 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa pipediaz"
+[7/31/2016 1:09:55 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa pip3"
+[7/31/2016 1:09:57 AM] [Info] [World] SUB-ZERO [sub-zero]: "bb"
+[7/31/2016 1:09:58 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa a"
+[7/31/2016 1:09:59 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/Tpa a"
+[7/31/2016 1:10:01 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa pip3"
+[7/31/2016 1:10:03 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa a"
+[7/31/2016 1:10:03 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa pip3"
+[7/31/2016 1:10:04 AM] [Info] [World] SUB-ZERO [sub-zero]: "ja XD"
+[7/31/2016 1:10:05 AM] [Info] DeathMessages >> Broadcast: Guille_214 murió luego de que un auto explotara
+[7/31/2016 1:10:05 AM] [Info] Guille_214 [Guille_214] was blown up by a vehicle!
+[7/31/2016 1:10:07 AM] [Info] [World] LCG" Zev* [Zev*]: "/kit pve"
+[7/31/2016 1:10:08 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/tphome"
+[7/31/2016 1:10:17 AM] [Info] [World] Guille_214 [Guille_214]: "/tpa sub"
+[7/31/2016 1:10:21 AM] [Info] [World] [L.P.V]Pollo12 [[L.P.V]pollo13]: "por hay tanto ping"
+[7/31/2016 1:10:21 AM] [Info] [World] Guille_214 [Guille_214]: "/kit sniper"
+[7/31/2016 1:10:23 AM] [Info] [World] SUB-ZERO [sub-zero]: "/tpa accept"
+[7/31/2016 1:10:29 AM] [Info] [World] ELnoo8 [ELmaxii]: "/tpa sai"
+[7/31/2016 1:10:29 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/i 1300"
+[7/31/2016 1:10:29 AM] [Info] Dando a GutyFruti un/a 1300:1
+[7/31/2016 1:10:31 AM] [Info] DeathMessages >> Broadcast: purri se hizo un Herrera con Guille_214!
+[7/31/2016 1:10:31 AM] [Info] Guille_214 [Guille_214] was roadkilled by purri [purri]!
+[7/31/2016 1:10:33 AM] [Info] DeathMessages >> Broadcast: XxPerritoxX fusiló a SUB-ZERO!
+[7/31/2016 1:10:33 AM] [Info] SUB-ZERO [sub-zero] was shot in the arm by XxPerritoxX [PITUCHO]!
+[7/31/2016 1:10:38 AM] [Info] PlayerInfoLib >> No expired player info records found for this batch.
+[7/31/2016 1:10:38 AM] [Warning] 
+[7/31/2016 1:10:38 AM] [Warning] Backup created :)
+[7/31/2016 1:10:38 AM] [Warning] Structures size: 146kb
+[7/31/2016 1:10:38 AM] [Warning] Objects size   : 21kb
+[7/31/2016 1:10:38 AM] [Warning] Barricades size: 201kb
+[7/31/2016 1:10:38 AM] [Info] SplashBackup >> Broadcast: Backup del servidor creado satisfactoriamente!
+[7/31/2016 1:10:39 AM] [Info] Saving server
+[7/31/2016 1:10:40 AM] [Info] DeathMessages >> Broadcast: [pN] Sai<: fusiló a :3!
+[7/31/2016 1:10:40 AM] [Info] :3 [:3] was shot in the head by [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]!
+[7/31/2016 1:10:40 AM] [Info] MessageAnnouncer >> Broadcast: RANGOS DISPONIBLES EN TS!! mafiainc.funs.cl
+[7/31/2016 1:10:40 AM] [Info] MessageAnnouncer >> RANGOS DISPONIBLES EN TS!! mafiainc.funs.cl
+[7/31/2016 1:10:41 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/cost 113"
+[7/31/2016 1:10:44 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/v tank"
+[7/31/2016 1:10:44 AM] [Info] Le diste a GutyFruti un 121
+[7/31/2016 1:10:44 AM] [Info] ZaupFeast >> Broadcast: Acaba de caer un airdrop en Pirate Cove ! ! !
+[7/31/2016 1:10:44 AM] [Info] ZaupFeast >> The next feast will be at Alberton at 7/31/2016 1:25:44 AM
+[7/31/2016 1:10:49 AM] [Info] [World] :3 [:3]: "que pesado"
+[7/31/2016 1:10:51 AM] [Info] [World] Guille_214 [Guille_214]: "/buy gps"
+[7/31/2016 1:10:52 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell maples"
+[7/31/2016 1:10:57 AM] [Info] [World] :3 [:3]: "/kit bun"
+[7/31/2016 1:10:59 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:10:59 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:10:59 AM] [Info] [World] Guille_214 [Guille_214]: "/balance"
+[7/31/2016 1:11:01 AM] [Info] DeathMessages >> Broadcast: LCG VichoQQ fusiló a elviolador69!
+[7/31/2016 1:11:01 AM] [Info] elviolador69 [emiley16] was shot in the arm by LCG VichoQQ [1Vicho1]!
+[7/31/2016 1:11:03 AM] [Info] [World] :3 [:3]: "/kit pvp"
+[7/31/2016 1:11:06 AM] [Info] DeathMessages >> Broadcast: PabloPiola fusiló a LCG VichoQQ!
+[7/31/2016 1:11:06 AM] [Info] LCG VichoQQ [1Vicho1] was shot in the head by PabloPiola [PabloPiola]!
+[7/31/2016 1:11:07 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/i missile 15"
+[7/31/2016 1:11:07 AM] [Info] Dando a GutyFruti un/a 1302:15
+[7/31/2016 1:11:08 AM] [Info] DeathMessages >> Broadcast: LCG Pip3Diaz fusiló a PabloPiola!
+[7/31/2016 1:11:08 AM] [Info] PabloPiola [PabloPiola] was shot in the arm by LCG Pip3Diaz [Pip3Diaz]!
+[7/31/2016 1:11:08 AM] [Info] Disconnecting: PlayerID: 76561198271707310 Name: Ruthless Character: [LLU] Ruthless
+[7/31/2016 1:11:11 AM] [Info] [World] elviolador69 [emiley16]: "/HOME"
+[7/31/2016 1:11:11 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:11:11 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:11:11 AM] [Info] ZaupHomeCommand >> elviolador69 [emiley16] name
+[7/31/2016 1:11:11 AM] [Info] ZaupHomeCommand >> (791.8, 58.1, 566.7)
+[7/31/2016 1:11:11 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:11:11 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:11:12 AM] [Info] DeathMessages >> Broadcast: :3 fusiló a SUB-ZERO!
+[7/31/2016 1:11:12 AM] [Info] SUB-ZERO [sub-zero] was shot in the leg by :3 [:3]!
+[7/31/2016 1:11:12 AM] [Info] DeathMessages >> Broadcast: CrackFussion fusiló a LCG Pip3Diaz!
+[7/31/2016 1:11:12 AM] [Info] LCG Pip3Diaz [Pip3Diaz] was shot in the arm by CrackFussion [PapaPitufo]!
+[7/31/2016 1:11:12 AM] [Info] [World] Guille_214 [Guille_214]: "xdd"
+[7/31/2016 1:11:13 AM] [Info] ZaupUconomyEssentials >> voti
+[7/31/2016 1:11:13 AM] [Info] ZaupUconomyEssentials >> 0
+[7/31/2016 1:11:13 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:11:13 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:11:16 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a CrackFussion!
+[7/31/2016 1:11:16 AM] [Info] CrackFussion [PapaPitufo] was shot in the head by LCG" Zev* [Zev*]!
+[7/31/2016 1:11:19 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa srcelio"
+[7/31/2016 1:11:20 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa srcelio21"
+[7/31/2016 1:11:20 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:11:20 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:11:21 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 1:11:21 AM] [Info] Connecting: PlayerID: 76561198240006244 Name: [L.P.V]manruz2 Character: [L.P.V] manruz2
+[7/31/2016 1:11:21 AM] [Info] FeexRanks >> Broadcast: [Associato] [L.P.V] manruz2 (11 puntos, posicion 1394) se ha conectado al server.
+[7/31/2016 1:11:22 AM] [Info] ask
+[7/31/2016 1:11:22 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa a"
+[7/31/2016 1:11:22 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:11:22 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:11:22 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:11:22 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:11:22 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:11:22 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:11:22 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:11:23 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa a"
+[7/31/2016 1:11:24 AM] [Info] DeathMessages >> Broadcast: CrackFussion agarró a combos a LCG Pip3Diaz hasta matarlo
+[7/31/2016 1:11:24 AM] [Info] LCG Pip3Diaz [Pip3Diaz] was punched in the head by CrackFussion [PapaPitufo]!
+[7/31/2016 1:11:25 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa a"
+[7/31/2016 1:11:25 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/buy honey"
+[7/31/2016 1:11:26 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:11:26 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa a"
+[7/31/2016 1:11:26 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:11:26 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:11:26 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:11:26 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:11:26 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:11:26 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:11:26 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:11:27 AM] [Info] elviolador69 moved x:791.8082 y:59.42871(+29.23234) z:566.6885 in the last second (1.049568)
+[7/31/2016 1:11:28 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/kit pvp"
+[7/31/2016 1:11:29 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa emi"
+[7/31/2016 1:11:29 AM] [Info] [World] SUB-ZERO [sub-zero]: "/kit sniper"
+[7/31/2016 1:11:29 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell maples"
+[7/31/2016 1:11:32 AM] [Info] [World] Guille_214 [Guille_214]: "/kit pve"
+[7/31/2016 1:11:33 AM] [Info] [World] PabloPiola [PabloPiola]: "/kit pvp"
+[7/31/2016 1:11:33 AM] [Info] [World] [L.P.V] manruz2 [[L.P.V]manruz2]: "/tpa purri"
+[7/31/2016 1:11:34 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a elviolador69!
+[7/31/2016 1:11:34 AM] [Info] elviolador69 [emiley16] was shot in the head by LCG" Zev* [Zev*]!
+[7/31/2016 1:11:34 AM] [Info] ZaupUconomyEssentials >> owner
+[7/31/2016 1:11:34 AM] [Info] ZaupUconomyEssentials >> 500
+[7/31/2016 1:11:34 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:11:34 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:11:36 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa zev"
+[7/31/2016 1:11:36 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 1:11:37 AM] [Info] [World] :3 [:3]: "/pm guty bajale el cd del kit"
+[7/31/2016 1:11:37 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 1:11:37 AM] [Info] [World] purri [purri]: "/tpa accept"
+[7/31/2016 1:11:38 AM] [Info] [World] PabloPiola [PabloPiola]: "/kits"
+[7/31/2016 1:11:39 AM] [Info] Saving server
+[7/31/2016 1:11:41 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 1:11:41 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:11:41 AM] [Info] PabloPiola moved x:795.4622 y:59.61706(+29.45755) z:571.5883 in the last second (1.237919)
+[7/31/2016 1:11:42 AM] [Info] [World] XxPerritoxX [PITUCHO]: "/buy 17 3"
+[7/31/2016 1:11:42 AM] [Info] [World] [L.P.V] manruz2 [[L.P.V]manruz2]: "/kit pvp"
+[7/31/2016 1:11:43 AM] [Info] [World] elviolador69 [emiley16]: "/TPA A"
+[7/31/2016 1:11:43 AM] [Info] [World] PabloPiola [PabloPiola]: "/pve"
+[7/31/2016 1:11:43 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:11:43 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:11:47 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/buy honey"
+[7/31/2016 1:11:47 AM] [Info] [World] elviolador69 [emiley16]: "/HOME"
+[7/31/2016 1:11:47 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:11:47 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:11:47 AM] [Info] ZaupHomeCommand >> elviolador69 [emiley16] name
+[7/31/2016 1:11:47 AM] [Info] ZaupHomeCommand >> (791.8, 58.1, 566.7)
+[7/31/2016 1:11:47 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:11:47 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:11:49 AM] [Info] [World] PabloPiola [PabloPiola]: "/kit pve"
+[7/31/2016 1:11:51 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/tpa zev"
+[7/31/2016 1:11:54 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 1:11:54 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:11:54 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:11:55 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 1:11:55 AM] [Info] [World] elviolador69 [emiley16]: "/KIT PVP"
+[7/31/2016 1:11:55 AM] [Info] [World] LCG VichoQQ [1Vicho1]: "/kit pve"
+[7/31/2016 1:11:55 AM] [Info] DeathMessages >> Broadcast: NIck EX lo mató un zombie 
+[7/31/2016 1:11:55 AM] [Info] NIck EX [nicolaslarroza23] was mauled by a zombie!
+[7/31/2016 1:11:56 AM] [Info] [World] LCG" Zev* [Zev*]: "/tpa a"
+[7/31/2016 1:12:02 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:12:02 AM] [Info] elviolador69 moved x:791.8082 y:59.61706(+28.56971) z:566.6885 in the last second (1.237919)
+[7/31/2016 1:12:03 AM] [Info] [World] NIck EX [nicolaslarroza23]: "/kits"
+[7/31/2016 1:12:04 AM] [Info] DeathMessages >> Broadcast: PabloPiola fusiló a LCG SrCelio21!
+[7/31/2016 1:12:04 AM] [Info] LCG SrCelio21 [SrCelio21] was shot in the head by PabloPiola [PabloPiola]!
+[7/31/2016 1:12:05 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a PabloPiola!
+[7/31/2016 1:12:05 AM] [Info] PabloPiola [PabloPiola] was shot in the arm by LCG" Zev* [Zev*]!
+[7/31/2016 1:12:06 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy exp 10"
+[7/31/2016 1:12:09 AM] [Info] [World] NIck EX [nicolaslarroza23]: "/kit colacion"
+[7/31/2016 1:12:10 AM] [Info] [World] CrackFussion [PapaPitufo]: "/kit sniper"
+[7/31/2016 1:12:11 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:12:11 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:12:11 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:12:11 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:12:11 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:12:11 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:12:11 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:12:11 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/exp 100"
+[7/31/2016 1:12:13 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:12:13 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:12:13 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:12:13 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:12:13 AM] [Info] ZaupHomeCommand >> (795.5, 58.1, 571.6)
+[7/31/2016 1:12:13 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:12:13 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:12:15 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/tpa pip3"
+[7/31/2016 1:12:18 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/tpa a"
+[7/31/2016 1:12:20 AM] [Info] [World] LCG Pip3Diaz [Pip3Diaz]: "/Tpa a"
+[7/31/2016 1:12:20 AM] [Info] MessageAnnouncer >> Broadcast: Aun no has votado? Hazlo ya en https://unturned-servers.net/server/79184 !
+[7/31/2016 1:12:20 AM] [Info] MessageAnnouncer >> Aun no has votado? Hazlo ya en https://unturned-servers.net/server/79184 !
+[7/31/2016 1:12:23 AM] [Info] DeathMessages >> Broadcast: LCG VichoQQ apuñaló a elviolador69 hasta matarlo
+[7/31/2016 1:12:23 AM] [Info] elviolador69 [emiley16] was chopped in the head by LCG VichoQQ [1Vicho1]!
+[7/31/2016 1:12:23 AM] [Info] [World] LCG SrCelio21 [SrCelio21]: "/kit pvp"
+[7/31/2016 1:12:24 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "como se compra xp"
+[7/31/2016 1:12:25 AM] [Info] [World] gabrielprofe [gabrielprofe]: "hola"
+[7/31/2016 1:12:26 AM] [Info] LCG SrCelio21 moved x:784.4895 y:54.16706(+18.04085) z:567.7411 in the last second (0.6699181)
+[7/31/2016 1:12:28 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:12:29 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "asdasd"
+[7/31/2016 1:12:29 AM] [Info] [World] [L.P.V] manruz2 [[L.P.V]manruz2]: "/kit fracotirador"
+[7/31/2016 1:12:29 AM] [Info] PabloPiola moved x:795.4622 y:58.47914(+28.40096) z:571.5883 in the last second (0.09999847)
+[7/31/2016 1:12:36 AM] [Info] purri moved x:-324.2897 y:73.24168(+40.6967) z:-650.6256 in the last second (1.000015)
+[7/31/2016 1:12:38 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:12:38 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:12:38 AM] [Info] [L.P.V] manruz2 moved x:-329.1877 y:70.62001(+27.50552) z:-651.483 in the last second (0.1496048)
+[7/31/2016 1:12:38 AM] [Info] [L.P.V]Pollo12 moved x:-330.5374 y:71.22691(+39.01557) z:-652.2452 in the last second (0.1496048)
+[7/31/2016 1:12:38 AM] [Info] XxPerritoxX moved x:-325.3595 y:72.09329(+30.86755) z:-651.3082 in the last second (0.2135849)
+[7/31/2016 1:12:39 AM] [Info] Saving server
+[7/31/2016 1:12:42 AM] [Info] Disconnecting: PlayerID: 76561198318514462 Name: nicolaslarroza23 Character: NIck EX
+[7/31/2016 1:12:43 AM] [Info] [Group] jusepe123 [jusepe123]: "buyexp 1000 1"
+[7/31/2016 1:12:47 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:12:47 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:12:49 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell "tation grena" 3"
+[7/31/2016 1:12:51 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:12:51 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:12:54 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buyexp 1000 1"
+[7/31/2016 1:12:55 AM] [Info] DeathMessages >> Broadcast: purri fusiló a gabrielprofe!
+[7/31/2016 1:12:55 AM] [Info] gabrielprofe [gabrielprofe] was shot in the head by purri [purri]!
+[7/31/2016 1:12:56 AM] [Info] DeathMessages >> Broadcast: purri fusiló a [Militar]Benjaminlp13!
+[7/31/2016 1:12:56 AM] [Info] [Militar]Benjaminlp13 [Benjaminlp13] was shot in the torso by purri [purri]!
+[7/31/2016 1:12:58 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa pablo"
+[7/31/2016 1:12:59 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell 7"
+[7/31/2016 1:13:03 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:13:03 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:13:09 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/kit pvp"
+[7/31/2016 1:13:11 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:13:11 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:13:12 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/kit sniper"
+[7/31/2016 1:13:13 AM] [Info] [World] ELnoo8 [ELmaxii]: "/sell 112"
+[7/31/2016 1:13:14 AM] [Info] DeathMessages >> Broadcast: LCG VichoQQ fusiló a PabloPiola!
+[7/31/2016 1:13:14 AM] [Info] PabloPiola [PabloPiola] was shot in the head by LCG VichoQQ [1Vicho1]!
+[7/31/2016 1:13:16 AM] [Info] [World] elviolador69 [emiley16]: "/KIT SNIPER"
+[7/31/2016 1:13:18 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buy exp 1000 1"
+[7/31/2016 1:13:19 AM] [Info] [World] PabloPiola [PabloPiola]: "/home"
+[7/31/2016 1:13:19 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:13:19 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:13:19 AM] [Info] ZaupHomeCommand >> PabloPiola [PabloPiola] name
+[7/31/2016 1:13:19 AM] [Error] An error occured while executing home []: System.NullReferenceException: Object reference not set to an instance of an object
+  at ZaupHomeCommand.CommandHome.Execute (IRocketPlayer caller, System.String[] bed) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+[7/31/2016 1:13:22 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 1:13:22 AM] [Info] Connecting: PlayerID: 76561198261762596 Name: Keevin Character: xXkeevinXx
+[7/31/2016 1:13:22 AM] [Info] FeexRanks >> Broadcast: [Associato] xXkeevinXx (NULL puntos, posicion NULL) se ha conectado al server.
+[7/31/2016 1:13:23 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:13:23 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:13:23 AM] [Info] ask
+[7/31/2016 1:13:30 AM] [Info] [World] xXkeevinXx [Keevin]: "/kits"
+[7/31/2016 1:13:31 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buyexp 1000 1"
+[7/31/2016 1:13:36 AM] [Info] [World] xXkeevinXx [Keevin]: "/kit sniper"
+[7/31/2016 1:13:39 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell 15"
+[7/31/2016 1:13:39 AM] [Info] Saving server
+[7/31/2016 1:13:41 AM] [Info] [World] PabloPiola [PabloPiola]: "/kit sniper"
+[7/31/2016 1:13:42 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/home"
+[7/31/2016 1:13:42 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:13:42 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:13:42 AM] [Info] ZaupHomeCommand >> gabrielprofe [gabrielprofe] name
+[7/31/2016 1:13:42 AM] [Error] An error occured while executing home []: System.NullReferenceException: Object reference not set to an instance of an object
+  at ZaupHomeCommand.CommandHome.Execute (IRocketPlayer caller, System.String[] bed) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+[7/31/2016 1:13:43 AM] [Info] ZaupUconomyEssentials >> user
+[7/31/2016 1:13:43 AM] [Info] ZaupUconomyEssentials >> 1500
+[7/31/2016 1:13:44 AM] [Info] Disconnecting: PlayerID: 76561198142925845 Name: Benjaminlp13 Character: [Militar]Benjaminlp13
+[7/31/2016 1:13:45 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buyexp 1000 3"
+[7/31/2016 1:13:47 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa emi"
+[7/31/2016 1:13:54 AM] [Info] [World] elviolador69 [emiley16]: "/TPA A"
+[7/31/2016 1:13:56 AM] [Info] [World] SUB-ZERO [sub-zero]: "/tpa guille"
+[7/31/2016 1:13:57 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/kit pve"
+[7/31/2016 1:14:00 AM] [Info] [World] xXkeevinXx [Keevin]: "/kit pvp"
+[7/31/2016 1:14:00 AM] [Info] MessageAnnouncer >> Broadcast: Agrega nuestros servidores a favoritos y conviertete en miembro frecuente
+[7/31/2016 1:14:00 AM] [Info] MessageAnnouncer >> Agrega nuestros servidores a favoritos y conviertete en miembro frecuente
+[7/31/2016 1:14:01 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "/buyexp 3000 1"
+[7/31/2016 1:14:03 AM] [Info] [World] SUB-ZERO [sub-zero]: "acepta"
+[7/31/2016 1:14:04 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "cabros"
+[7/31/2016 1:14:12 AM] [Info] [World] SUB-ZERO [sub-zero]: "guille"
+[7/31/2016 1:14:14 AM] [Info] [World] Guille_214 [Guille_214]: "que"
+[7/31/2016 1:14:15 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a gabrielprofe!
+[7/31/2016 1:14:15 AM] [Info] gabrielprofe [gabrielprofe] was shot in the torso by LCG" Zev* [Zev*]!
+[7/31/2016 1:14:17 AM] [Info] [World] SUB-ZERO [sub-zero]: "acepta"
+[7/31/2016 1:14:21 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "oigannn"
+[7/31/2016 1:14:22 AM] [Info] DeathMessages >> Broadcast: Guille_214 murió desangrado
+[7/31/2016 1:14:22 AM] [Info] Guille_214 [Guille_214] bled to death!
+[7/31/2016 1:14:24 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "que"
+[7/31/2016 1:14:25 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/kit pvp"
+[7/31/2016 1:14:26 AM] [Info] [World] elviolador69 [emiley16]: "/KIT SNIPER"
+[7/31/2016 1:14:28 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "shuala"
+[7/31/2016 1:14:28 AM] [Info] [World] Guille_214 [Guille_214]: "/tpa accept"
+[7/31/2016 1:14:30 AM] [Info] [World] SUB-ZERO [sub-zero]: "acepta"
+[7/31/2016 1:14:34 AM] [Info] [World] Guille_214 [Guille_214]: "/tpa accept"
+[7/31/2016 1:14:36 AM] [Info] [World] jusepe123 [jusepe123]: ":0"
+[7/31/2016 1:14:38 AM] [Info] ZaupHomeCommand >> Homeplayer is awake
+[7/31/2016 1:14:38 AM] [Info] Connecting: PlayerID: 76561198142925845 Name: Benjaminlp13 Character: [Militar]Benjaminlp13
+[7/31/2016 1:14:38 AM] [Info] FeexRanks >> Broadcast: [Soldato] [Militar]Benjaminlp13 (533 puntos, posicion 61) se ha conectado al server.
+[7/31/2016 1:14:39 AM] [Info] Saving server
+[7/31/2016 1:14:41 AM] [Info] ask
+[7/31/2016 1:14:41 AM] [Info] DeathMessages >> Broadcast: jusepe123 fusiló a benja!
+[7/31/2016 1:14:41 AM] [Info] benja [benji_10] was shot in the head by jusepe123 [jusepe123]!
+[7/31/2016 1:14:50 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/home"
+[7/31/2016 1:14:50 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:14:50 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:14:50 AM] [Info] ZaupHomeCommand >> [Militar]Benjaminlp13 [Benjaminlp13] name
+[7/31/2016 1:14:50 AM] [Info] ZaupHomeCommand >> (-232.8, 62.4, -787.3)
+[7/31/2016 1:14:50 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:14:50 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:14:50 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "puta que hay lag wnn"
+[7/31/2016 1:14:51 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: ":c"
+[7/31/2016 1:14:54 AM] [Info] DeathMessages >> Broadcast: LCG" Zev* fusiló a CrackFussion!
+[7/31/2016 1:14:54 AM] [Info] CrackFussion [PapaPitufo] was shot in the arm by LCG" Zev* [Zev*]!
+[7/31/2016 1:14:56 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/home"
+[7/31/2016 1:14:56 AM] [Info] ZaupHomeCommand >> False is admin
+[7/31/2016 1:14:56 AM] [Info] ZaupHomeCommand >> False is god mode
+[7/31/2016 1:14:56 AM] [Info] ZaupHomeCommand >> [Militar]Benjaminlp13 [Benjaminlp13] name
+[7/31/2016 1:14:56 AM] [Info] ZaupHomeCommand >> (-232.8, 62.4, -787.3)
+[7/31/2016 1:14:56 AM] [Info] ZaupHomeCommand >> starting gohome
+[7/31/2016 1:14:56 AM] [Info] ZaupHomeCommand >> starting dogohome
+[7/31/2016 1:14:57 AM] [Info] DeathMessages >> Broadcast: elviolador69 murió desangrado
+[7/31/2016 1:14:57 AM] [Info] elviolador69 [emiley16] bled to death!
+[7/31/2016 1:14:57 AM] [Info] [World] [LPV]PipeYkPz [[LPV]PipeYkPz]: "si :C"
+[7/31/2016 1:14:58 AM] [Info] [World] gabrielprofe [gabrielprofe]: "/tpa benja"
+[7/31/2016 1:15:00 AM] [Info] [World] Guille_214 [Guille_214]: "/rank"
+[7/31/2016 1:15:01 AM] [Info] [World] CrackFussion [PapaPitufo]: "/tpa pablo"
+[7/31/2016 1:15:01 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/kit pvp"
+[7/31/2016 1:15:01 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/broadcast REINICIO"
+[7/31/2016 1:15:01 AM] [Info] Broadcast: REINICIO
+[7/31/2016 1:15:02 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/save"
+[7/31/2016 1:15:03 AM] [Info] Successfully saved the game.
+[7/31/2016 1:15:03 AM] [Info] [World] [pN] Sai<: [~Sai, Bluhcitu~ ^kill me^]: "/sell mre 4"
+[7/31/2016 1:15:04 AM] [Info] [World] [Militar]Benjaminlp13 [Benjaminlp13]: "/tpa a"
+[7/31/2016 1:15:04 AM] [Info] [World] GutyFruti [TS3 mafiainc.funs.cl]: "/shutdown"
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] FeexLimiter
+[7/31/2016 1:15:06 AM] [Info] FeexLimiter >> Freenex's FeexLimiter has been unloaded!
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] JailTime
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] ReservedSlots
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] Rocket-Regions
+[7/31/2016 1:15:06 AM] [Error] NullReferenceException: Object reference not set to an instance of an object - Rocket.Unturned.Player.UnturnedPlayer.get_CSteamID ()
+Rocket.Unturned.Player.UnturnedPlayer.get_Id ()
+Rocket.Unturned.Chat.UnturnedChat.Say (IRocketPlayer player, System.String message, Color color)
+Rocket.Unturned.Chat.UnturnedChat.Say (IRocketPlayer player, System.String message)
+RocketRegions.Model.Flag.Impl.LeaveMessageFlag.OnRegionLeave (Rocket.Unturned.Player.UnturnedPlayer player)
+RocketRegions.RegionsPlugin.OnPlayerLeftRegion (IRocketPlayer player, RocketRegions.Model.Region region)
+RocketRegions.RegionsPlugin.OnRegionRemoved (RocketRegions.Model.Region region)
+RocketRegions.RegionsPlugin.Unload ()
+Rocket.Core.Plugins.RocketPlugin.UnloadPlugin (PluginState state)
+Rocket.Core.Plugins.RocketPlugin.OnDisable ()
+
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] MessageAnnouncer
+[7/31/2016 1:15:06 AM] [Info] MessageAnnouncer >> Unload
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] PlayerInfoLib
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] SplashBackup
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] JoinLeaveMessages
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] Warps
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] RocketMod_TPA
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] WreckingBall
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] Votifier
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] ZaupClearInventoryLib
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] MOTD
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] FeexHitman
+[7/31/2016 1:15:06 AM] [Info] FeexHitman >> Freenex's FeexHitman has been unloaded!
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] DeathMessages
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] RocketMod_ItemRestriction
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] ZaupShop
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] ZaupUconomyEssentials
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] ZaupHomeCommand
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] GlobalBan
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] GutyFy
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] Kits
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] uReport
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] Uconomy
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] FeexAFK
+[7/31/2016 1:15:06 AM] [Info] FeexAFK >> Freenex's FeexAFK has been unloaded!
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] FeexRanks
+[7/31/2016 1:15:06 AM] [Info] FeexRanks >> Freenex's FeexRanks has been unloaded!
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] GutyFy.Ts3
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] CallVote
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] FeexExp
+[7/31/2016 1:15:06 AM] [Info] FeexExp >> Freenex's FeexExp has been unloaded!
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] ZaupFeast
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] FeexGeoBlock
+[7/31/2016 1:15:06 AM] [Info] FeexGeoBlock >> Freenex's FeexGeoBlock has been unloaded!
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] P2P
+[7/31/2016 1:15:06 AM] [Info] 
+[unloading] ChatControl
